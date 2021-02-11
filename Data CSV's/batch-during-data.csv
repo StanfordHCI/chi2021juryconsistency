@@ -1,2158 +1,2158 @@
 id,batchnum,condition,case,consistency
-,179,group,0,0
-,179,nominal,1,1
-5d482ea421c9be351f762255,179,individual,1,1
-5e7e4f4c31f4e454e196c9c4,179,individual,1,1
-5e84cc3c50f6e364321d6265,179,individual,1,1
-5e8b6dd0b35db8283c501b7a,179,individual,1,0
-5d482ea421c9be351f762255,179,ind in groups,0,0
-5e31d6e4e31c5304c46f1413,179,ind in groups,0,1
-5e7e4f4c31f4e454e196c9c4,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5d482eab21c9be351f764234,179,individual,1,0
-5e8b6f06b35db8283c501ca6,179,individual,1,0
-5e9de4c49dc0406f8987224f,179,individual,1,0
-5e9de5be9dc0406f8987226c,179,individual,1,1
-5e8b6f06b35db8283c501ca6,179,ind in groups,0,0
-5e9de4c49dc0406f8987224f,179,ind in groups,0,1
-5e9de4e29dc0406f89872254,179,ind in groups,0,0
-5e9de5be9dc0406f8987226c,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,1
-5e877eb4a44a3116d9b95f15,179,individual,1,1
-5e8b395036ec0e1294b35f15,179,individual,1,0
-5e9de67c9dc0406f898722c3,179,individual,1,1
-5e877eb4a44a3116d9b95f15,179,ind in groups,0,1
-5e8b395036ec0e1294b35f15,179,ind in groups,0,1
-5e9de6b89dc0406f898722c6,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5e84cfe850f6e364321d63bf,179,individual,0,0
-5e9de4ce9dc0406f89872251,179,individual,0,1
-5e9de4ce9dc0406f89872253,179,individual,0,1
-5e9de4ec9dc0406f89872255,179,individual,0,1
-5e9de7589dc0406f898722cd,179,individual,0,0
-5e9dea789dc0406f89872547,179,individual,0,1
-5e9dec4e9dc0406f898726cd,179,individual,0,0
-5e84cfe850f6e364321d63bf,179,ind in groups,1,1
-5e9de4ce9dc0406f89872251,179,ind in groups,1,1
-5e9de4ce9dc0406f89872253,179,ind in groups,1,0
-5e9de4ec9dc0406f89872255,179,ind in groups,1,1
-5e9de7589dc0406f898722cd,179,ind in groups,1,1
-5e9dea789dc0406f89872547,179,ind in groups,1,1
-5e9dec4e9dc0406f898726cd,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482eab21c9be351f76415b,179,individual,1,1
-5e9f0e1c9dc0406f89874dcd,179,individual,1,0
-5e9f0ef89dc0406f89874ecc,179,individual,1,1
-5e9f0f209dc0406f89874f09,179,individual,1,1
-5e9f11d29dc0406f89875089,179,individual,1,1
-5e9f12229dc0406f898750a9,179,individual,1,1
-5e9f0e1c9dc0406f89874dcd,179,ind in groups,0,0
-5e9f0f209dc0406f89874f09,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482eab21c9be351f764270,179,individual,0,1
-5e873b6646f3b80a33438e79,179,individual,0,1
-5e9de80c9dc0406f898722dd,179,individual,0,1
-5e9f0b9c9dc0406f89874c96,179,individual,0,1
-5e9f0d869dc0406f89874dc3,179,individual,0,1
-5e9f0e9e9dc0406f89874e9d,179,individual,0,1
-5d482eab21c9be351f763ee2,179,ind in groups,1,0
-5e873b6646f3b80a33438e79,179,ind in groups,1,1
-5e9de80c9dc0406f898722dd,179,ind in groups,1,1
-5e9f0b9c9dc0406f89874c96,179,ind in groups,1,1
-5e9f0d869dc0406f89874dc3,179,ind in groups,1,1
-5e9f0e9e9dc0406f89874e9d,179,ind in groups,1,0
-,179,group,1,0
-,179,nominal,0,0
-5d482eab21c9be351f763f55,179,individual,0,0
-5d482eab21c9be351f7640b5,179,individual,0,0
-5d482eab21c9be351f7640bf,179,individual,0,1
-5e9de5509dc0406f89872263,179,individual,0,1
-5e9f0ac09dc0406f898749a1,179,individual,0,1
-5e9f0ac09dc0406f898749a2,179,individual,0,1
-5d482eab21c9be351f763f55,179,ind in groups,1,0
-5d482eab21c9be351f7640b5,179,ind in groups,1,0
-5d482eab21c9be351f7640bf,179,ind in groups,1,0
-5e9de5509dc0406f89872263,179,ind in groups,1,0
-5e9f0ac09dc0406f898749a1,179,ind in groups,1,0
-5e9f0ac09dc0406f898749a2,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482eab21c9be351f76412c,179,individual,1,1
-5e543e5ad1db96705ff13ef0,179,individual,1,1
-5e9de8489dc0406f898722ef,179,individual,1,1
-5e9dea1e9dc0406f89872527,179,individual,1,1
-5e9deb229dc0406f898725e9,179,individual,1,1
-5e9decf89dc0406f89872747,179,individual,1,0
-5d482eab21c9be351f76412c,179,ind in groups,0,0
-5e543e5ad1db96705ff13ef0,179,ind in groups,0,1
-5e877e32a44a3116d9b95ef1,179,ind in groups,0,0
-5e9de8489dc0406f898722ef,179,ind in groups,0,1
-5e9dea1e9dc0406f89872527,179,ind in groups,0,1
-5e9deb229dc0406f898725e9,179,ind in groups,0,0
-5e9decf89dc0406f89872747,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea821c9be351f763565,179,individual,1,1
-5e9deb409dc0406f898725ea,179,individual,1,0
-5e9f37529dc0406f89877680,179,individual,1,1
-5e9f4fc69dc0406f8987a506,179,individual,1,0
-5e9f50169dc0406f8987a5aa,179,individual,1,1
-5e9f51109dc0406f8987a7e0,179,individual,1,1
-5e9f53cc9dc0406f8987ac5a,179,individual,1,1
-5d482ea821c9be351f763565,179,ind in groups,0,0
-5e9deb409dc0406f898725ea,179,ind in groups,0,0
-5e9f37529dc0406f89877680,179,ind in groups,0,1
-5e9f4de69dc0406f8987a25d,179,ind in groups,0,1
-5e9f4fc69dc0406f8987a506,179,ind in groups,0,1
-5e9f50169dc0406f8987a5aa,179,ind in groups,0,1
-5e9f51109dc0406f8987a7e0,179,ind in groups,0,1
-5e9f53cc9dc0406f8987ac5a,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482eaa21c9be351f763bb5,179,individual,0,1
-5d482eaa21c9be351f763c90,179,individual,0,0
-5d482eaa21c9be351f763d6b,179,individual,0,0
-5d482eab21c9be351f7641ca,179,individual,0,0
-5e9f48469dc0406f8987976c,179,individual,0,1
-5d482eaa21c9be351f763bb5,179,ind in groups,1,0
-5d482eaa21c9be351f763c90,179,ind in groups,1,1
-5d482eaa21c9be351f763d6b,179,ind in groups,1,1
-5d482eab21c9be351f764047,179,ind in groups,1,0
-5d482eab21c9be351f7641ca,179,ind in groups,1,0
-5e9f48469dc0406f8987976c,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5e31d6b2e31c5304c46f140a,179,individual,0,0
-5e84cbb050f6e364321d6258,179,individual,0,1
-5e9f3a0e9dc0406f898777e6,179,individual,0,1
-5e9f42d89dc0406f89878720,179,individual,0,1
-5e9f433c9dc0406f898787dd,179,individual,0,1
-5e31d6b2e31c5304c46f140a,179,ind in groups,1,1
-5e84cbb050f6e364321d6258,179,ind in groups,1,1
-5e9de7129dc0406f898722c9,179,ind in groups,1,0
-5e9f3a0e9dc0406f898777e6,179,ind in groups,1,1
-5e9f42d89dc0406f89878720,179,ind in groups,1,1
-5e9f433c9dc0406f898787dd,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5e873eea46f3b80a33438f43,179,individual,1,1
-5e9f0b249dc0406f89874b78,179,individual,1,0
-5e9f40089dc0406f8987805e,179,individual,1,0
-5e9f40129dc0406f89878121,179,individual,1,1
-5e873eea46f3b80a33438f43,179,ind in groups,0,1
-5e9f0b249dc0406f89874b78,179,ind in groups,0,0
-5e9f3dd89dc0406f89877d08,179,ind in groups,0,1
-5e9f40089dc0406f8987805e,179,ind in groups,0,0
-5e9f40129dc0406f89878121,179,ind in groups,0,0
-5e9f42069dc0406f89878581,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482eab21c9be351f763fa9,179,individual,0,0
-5d482eab21c9be351f764056,179,individual,0,1
-5d482eab21c9be351f764150,179,individual,0,1
-5e84ccaa50f6e364321d626c,179,individual,0,1
-5e9f12369dc0406f8987514b,179,individual,0,1
-5e9f36e49dc0406f8987767c,179,individual,0,1
-5e9f37669dc0406f89877682,179,individual,0,1
-5d482eab21c9be351f763fa9,179,ind in groups,1,1
-5d482eab21c9be351f764150,179,ind in groups,1,1
-5e84ccaa50f6e364321d626c,179,ind in groups,1,1
-5e9f12369dc0406f8987514b,179,ind in groups,1,1
-5e9f36e49dc0406f8987767c,179,ind in groups,1,1
-5e9f37669dc0406f89877682,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5e9de5329dc0406f8987225e,179,individual,1,1
-5e9f0ade9dc0406f898749a7,179,individual,1,1
-5e9f35ea9dc0406f89877613,179,individual,1,0
-5e9f3a0e9dc0406f898777e7,179,individual,1,1
-5e9de5329dc0406f8987225e,179,ind in groups,0,1
-5e9f0ade9dc0406f898749a7,179,ind in groups,0,1
-5e9f35ea9dc0406f89877613,179,ind in groups,0,1
-5e9f39d29dc0406f898777bf,179,ind in groups,0,1
-5e9f3a0e9dc0406f898777e7,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482eab21c9be351f763ec2,179,individual,1,1
-5d482eab21c9be351f76409f,179,individual,1,1
-5d482eab21c9be351f764242,179,individual,1,0
-5e8b38f636ec0e1294b35f12,179,individual,1,1
-5e9f35fe9dc0406f89877614,179,individual,1,0
-5e9f36309dc0406f89877619,179,individual,1,0
-5d482eab21c9be351f763ec2,179,ind in groups,0,1
-5d482eab21c9be351f76409f,179,ind in groups,0,0
-5d482eab21c9be351f764242,179,ind in groups,0,1
-5e9f35fe9dc0406f89877614,179,ind in groups,0,1
-5e9f36309dc0406f89877619,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5e877a0ea44a3116d9b95d26,179,individual,1,1
-5e877f2ca44a3116d9b95f1d,179,individual,1,0
-5d482eab21c9be351f7640ac,179,ind in groups,0,1
-5e877a0ea44a3116d9b95d26,179,ind in groups,0,0
-5e877f2ca44a3116d9b95f1d,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,1
-5e9f36449dc0406f8987761b,179,individual,1,1
-5ea0740a9dc0406f8987d411,179,individual,1,1
-5ea077a29dc0406f8987e162,179,individual,1,1
-5d482ea921c9be351f763607,179,ind in groups,0,0
-5e9f36449dc0406f8987761b,179,ind in groups,0,1
-5ea0740a9dc0406f8987d411,179,ind in groups,0,1
-5ea077a29dc0406f8987e162,179,ind in groups,0,1
-5ea079969dc0406f8987ea64,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea921c9be351f763619,179,individual,1,1
-5d482ea921c9be351f7637ac,179,individual,1,1
-5d482eab21c9be351f763e76,179,individual,1,1
-5e543be4d1db96705ff13dc6,179,individual,1,1
-5e9f4c929dc0406f89879f11,179,individual,1,0
-5ea076809dc0406f8987dd98,179,individual,1,0
-5d482ea921c9be351f763619,179,ind in groups,0,1
-5d482ea921c9be351f763704,179,ind in groups,0,0
-5d482ea921c9be351f7637ac,179,ind in groups,0,1
-5d482ea921c9be351f763800,179,ind in groups,0,1
-5d482eab21c9be351f763e76,179,ind in groups,0,0
-5e543be4d1db96705ff13dc6,179,ind in groups,0,0
-5e9f4c929dc0406f89879f11,179,ind in groups,0,0
-5ea076809dc0406f8987dd98,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea921c9be351f7636ad,179,individual,0,1
-5d482eaa21c9be351f76396d,179,individual,0,1
-5ea06c089dc0406f8987c3c6,179,individual,0,1
-5ea0720c9dc0406f8987ce48,179,individual,0,0
-5d482ea921c9be351f7636ad,179,ind in groups,1,1
-5d482ea921c9be351f763783,179,ind in groups,1,1
-5d482eaa21c9be351f76396d,179,ind in groups,1,1
-5ea06c089dc0406f8987c3c6,179,ind in groups,1,1
-5ea0720c9dc0406f8987ce48,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-5d482eaa21c9be351f7639b8,179,individual,1,1
-5d482eaa21c9be351f7639f7,179,individual,1,1
-5d482eab21c9be351f763e0a,179,individual,1,1
-5ea06e7e9dc0406f8987c6ee,179,individual,1,0
-5ea06f469dc0406f8987c82e,179,individual,1,1
-5d482eaa21c9be351f7639b8,179,ind in groups,0,1
-5d482eaa21c9be351f7639f7,179,ind in groups,0,1
-5d482eab21c9be351f763e0a,179,ind in groups,0,1
-5ea06e7e9dc0406f8987c6ee,179,ind in groups,0,0
-5ea06f469dc0406f8987c82e,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,1
-5d482ea921c9be351f7638f9,179,individual,1,1
-5d482eaa21c9be351f763af2,179,individual,1,1
-5d482eaa21c9be351f763ae5,179,individual,1,0
-5d482eaa21c9be351f763b64,179,individual,1,0
-5d482eaa21c9be351f763c0e,179,individual,1,1
-5d482eaa21c9be351f763dc7,179,individual,1,1
-5e9f44049dc0406f898789b2,179,individual,1,1
-5d482ea921c9be351f7638f9,179,ind in groups,0,0
-5d482eaa21c9be351f763ae5,179,ind in groups,0,1
-5d482eaa21c9be351f763b64,179,ind in groups,0,1
-5d482eaa21c9be351f763c0e,179,ind in groups,0,1
-5d482eaa21c9be351f763dc7,179,ind in groups,0,1
-5d482eaa21c9be351f763db1,179,ind in groups,0,1
-5e9f44049dc0406f898789b2,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482eaa21c9be351f763a45,179,individual,0,0
-5e9f4d469dc0406f8987a196,179,individual,0,0
-5ea076269dc0406f8987dbf8,179,individual,0,1
-5ea07d9c9dc0406f89880001,179,individual,0,0
-5d482ea921c9be351f763808,179,ind in groups,1,0
-5d482eaa21c9be351f763a45,179,ind in groups,1,1
-5e9f4d469dc0406f8987a196,179,ind in groups,1,1
-5ea076269dc0406f8987dbf8,179,ind in groups,1,1
-5ea07d9c9dc0406f89880001,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea921c9be351f7637e0,179,individual,0,1
-5d482eaa21c9be351f763da6,179,individual,0,1
-5ea098d69dc0406f89883084,179,individual,0,1
-5ea0998a9dc0406f8988308f,179,individual,0,1
-5ea099d09dc0406f898830a9,179,individual,0,1
-5d482ea921c9be351f7637e0,179,ind in groups,1,1
-5d482eaa21c9be351f763cc6,179,ind in groups,1,1
-5d482eaa21c9be351f763da6,179,ind in groups,1,1
-5ea098d69dc0406f89883084,179,ind in groups,1,1
-5ea0998a9dc0406f8988308f,179,ind in groups,1,1
-5ea099d09dc0406f898830a9,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea721c9be351f762e70,179,individual,0,1
-5d482ea821c9be351f763117,179,individual,0,1
-5d482ea821c9be351f76315c,179,individual,0,0
-5d482ea821c9be351f76325f,179,individual,0,1
-5d482ea821c9be351f763382,179,individual,0,0
-5d482eab21c9be351f763ea6,179,individual,0,0
-5d482ea721c9be351f762e70,179,ind in groups,1,1
-5d482ea821c9be351f76315c,179,ind in groups,1,1
-5d482ea821c9be351f76325f,179,ind in groups,1,1
-5d482ea821c9be351f763382,179,ind in groups,1,1
-5d482eab21c9be351f763ea6,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea721c9be351f762f36,179,individual,0,0
-5d482ea721c9be351f763052,179,individual,0,1
-5d482ea821c9be351f76349b,179,individual,0,0
-5d482eaa21c9be351f763c24,179,individual,0,0
-5d482ea721c9be351f762f36,179,ind in groups,1,1
-5d482ea721c9be351f762f60,179,ind in groups,1,0
-5d482ea721c9be351f763052,179,ind in groups,1,1
-5d482ea821c9be351f7631c5,179,ind in groups,1,1
-5d482ea821c9be351f76349b,179,ind in groups,1,1
-5d482eaa21c9be351f763c24,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea721c9be351f762f0a,179,individual,1,1
-5d482ea921c9be351f76365b,179,individual,1,1
-5d482eab21c9be351f763e1b,179,individual,1,1
-5d482ea721c9be351f762efd,179,ind in groups,0,1
-5d482ea721c9be351f762f0a,179,ind in groups,0,1
-5d482ea921c9be351f76365b,179,ind in groups,0,1
-5d482eab21c9be351f763e1b,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea821c9be351f76312e,179,individual,1,1
-5d482ea821c9be351f7634b2,179,individual,1,1
-5d482ea721c9be351f762ef8,179,ind in groups,0,0
-5d482ea821c9be351f7634b2,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea721c9be351f762eeb,179,individual,1,1
-5d482ea821c9be351f7631eb,179,individual,1,1
-5d482eaa21c9be351f76399c,179,individual,1,1
-5e9f366c9dc0406f8987761f,179,individual,1,1
-5e9f38249dc0406f8987768b,179,individual,1,1
-5d482ea721c9be351f762eeb,179,ind in groups,0,1
-5e9f366c9dc0406f8987761f,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea821c9be351f7630e1,179,individual,1,1
-5d482ea821c9be351f7633b5,179,individual,1,0
-5d482eaa21c9be351f763b0f,179,individual,1,0
-5d482eab21c9be351f763eae,179,individual,1,1
-5ea0969c9dc0406f8988301d,179,individual,1,1
-5ea0c87e9dc0406f898895c7,179,individual,1,1
-5ea0ca2c9dc0406f89889629,179,individual,1,1
-5d482ea821c9be351f7630e1,179,ind in groups,0,0
-5d482ea821c9be351f7633b5,179,ind in groups,0,1
-5d482eaa21c9be351f763b0f,179,ind in groups,0,0
-5d482eab21c9be351f763eae,179,ind in groups,0,0
-5ea0c87e9dc0406f898895c7,179,ind in groups,0,0
-5ea0ca2c9dc0406f89889629,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,0
-5d482eab21c9be351f763e96,179,individual,1,0
-5d482eab21c9be351f7640f7,179,individual,1,1
-5e9f147a9dc0406f898754ae,179,individual,1,0
-5d482ea721c9be351f762f75,179,ind in groups,0,1
-5d482eab21c9be351f763e96,179,ind in groups,0,1
-5e9f147a9dc0406f898754ae,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482eab21c9be351f763fb1,179,individual,1,1
-5d482eab21c9be351f764111,179,individual,1,0
-5ea06bb89dc0406f8987c3bf,179,individual,1,0
-5ea07c529dc0406f8987f80b,179,individual,1,1
-5ea0a13c9dc0406f89883cf0,179,individual,1,1
-5ea0a7869dc0406f89885172,179,individual,1,1
-5ea0a7ae9dc0406f898851f0,179,individual,1,1
-5d482eab21c9be351f763fb1,179,ind in groups,0,1
-5d482eab21c9be351f764111,179,ind in groups,0,0
-5ea06bb89dc0406f8987c3bf,179,ind in groups,0,0
-5ea07c529dc0406f8987f80b,179,ind in groups,0,1
-5ea0a13c9dc0406f89883cf0,179,ind in groups,0,1
-5ea0a7869dc0406f89885172,179,ind in groups,0,1
-5ea0a7ae9dc0406f898851f0,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5e9f3b1c9dc0406f89877985,179,individual,0,1
-5ea0ce1e9dc0406f898899ba,179,individual,0,0
-5ea0cefa9dc0406f89889adc,179,individual,0,1
-5d482ea821c9be351f763452,179,ind in groups,1,1
-5d482eaa21c9be351f763936,179,ind in groups,1,1
-5e9f3b1c9dc0406f89877985,179,ind in groups,1,0
-5ea0ce1e9dc0406f898899ba,179,ind in groups,1,1
-5ea0cefa9dc0406f89889adc,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea921c9be351f76358a,179,individual,1,1
-5d482ea821c9be351f763550,179,individual,1,0
-5d482ea921c9be351f7636b3,179,individual,1,0
-5ea0d1529dc0406f89889dde,179,individual,1,1
-5d482ea921c9be351f76358a,179,ind in groups,0,1
-5d482ea821c9be351f763550,179,ind in groups,0,0
-5d482ea921c9be351f7636b3,179,ind in groups,0,1
-5ea0d1529dc0406f89889dde,179,ind in groups,0,0
-5ea0d24c9dc0406f89889f5f,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482eaa21c9be351f763afc,179,individual,1,1
-5d482eaa21c9be351f763bbc,179,individual,1,0
-5ea0d1f29dc0406f89889eef,179,individual,1,1
-5ea0d59e9dc0406f8988a5f0,179,individual,1,0
-5d482eaa21c9be351f763afc,179,ind in groups,0,0
-5d482eaa21c9be351f763bbc,179,ind in groups,0,0
-5de2adbcb50e5a679ae8695b,179,ind in groups,0,1
-5ea0d1f29dc0406f89889eef,179,ind in groups,0,1
-5ea0d59e9dc0406f8988a5f0,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea821c9be351f763456,179,individual,1,0
-5d482ea921c9be351f763785,179,individual,1,1
-5d482ea921c9be351f763899,179,individual,1,0
-5d482eaa21c9be351f763d5d,179,individual,1,0
-5d482ea721c9be351f76308e,179,ind in groups,0,1
-5d482ea821c9be351f763456,179,ind in groups,0,0
-5d482ea921c9be351f763785,179,ind in groups,0,0
-5d482eaa21c9be351f763d5d,179,ind in groups,0,0
-5d482eab21c9be351f764138,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea821c9be351f76310c,179,individual,1,1
-5d482eaa21c9be351f763a5f,179,individual,1,1
-5d482eaa21c9be351f763b6e,179,individual,1,1
-5d482eaa21c9be351f763af0,179,individual,1,0
-5d482ea821c9be351f76310c,179,ind in groups,0,1
-5d482ea921c9be351f7636fb,179,ind in groups,0,1
-5d482eaa21c9be351f763a5f,179,ind in groups,0,1
-5d482eaa21c9be351f763b6e,179,ind in groups,0,0
-5d482eaa21c9be351f763af0,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea721c9be351f762dbf,179,individual,0,1
-5d482ea721c9be351f762fb3,179,individual,0,1
-5d482ea821c9be351f76322c,179,individual,0,1
-5d482ea821c9be351f763435,179,individual,0,1
-5d482eaa21c9be351f763da2,179,individual,0,1
-5d482ea721c9be351f762dbf,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea721c9be351f762d69,179,individual,0,1
-5d482ea721c9be351f762e2b,179,individual,0,0
-5d482ea821c9be351f76309e,179,individual,0,1
-5d482ea821c9be351f763232,179,individual,0,1
-5ea1a6e0de5d74641b66d1d6,179,individual,0,1
-5d482ea721c9be351f762d69,179,ind in groups,1,0
-5d482ea721c9be351f762e2b,179,ind in groups,1,1
-5d482ea821c9be351f763232,179,ind in groups,1,1
-5ea1a6e0de5d74641b66d1d6,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea721c9be351f762d81,179,individual,0,1
-5d482ea721c9be351f762e52,179,individual,0,1
-5d482eaa21c9be351f763a08,179,individual,0,1
-5e9de5329dc0406f8987225d,179,individual,0,0
-5e9f0aa29dc0406f8987499b,179,individual,0,0
-5ea0ded69dc0406f8988c09b,179,individual,0,1
-5ea1ab72de5d74641b66d75b,179,individual,0,1
-5ea1b66cde5d74641b66face,179,individual,0,0
-5d482ea721c9be351f762d81,179,ind in groups,1,1
-5d482ea721c9be351f762e52,179,ind in groups,1,1
-5d482eaa21c9be351f763a08,179,ind in groups,1,1
-5e9de5329dc0406f8987225d,179,ind in groups,1,1
-5e9f0aa29dc0406f8987499b,179,ind in groups,1,0
-5ea1ab72de5d74641b66d75b,179,ind in groups,1,0
-5ea1b66cde5d74641b66face,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea721c9be351f762f2e,179,individual,1,1
-5d482ea821c9be351f7630f1,179,individual,1,1
-5e9dec449dc0406f898726b6,179,individual,1,0
-5ea13390de5d74641b66beae,179,individual,1,1
-5ea1a668de5d74641b66d167,179,individual,1,1
-5ea1bb26de5d74641b6702ec,179,individual,1,0
-5ea1bd4cde5d74641b6704e8,179,individual,1,0
-5d482ea721c9be351f762f2e,179,ind in groups,0,1
-5d482ea821c9be351f7630f1,179,ind in groups,0,0
-5e9dec449dc0406f898726b6,179,ind in groups,0,1
-5ea13390de5d74641b66beae,179,ind in groups,0,1
-5ea1bd4cde5d74641b6704e8,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,0
-5ea097789dc0406f8988302a,179,individual,1,0
-5ea0deb89dc0406f8988c091,179,individual,1,1
-5ea1b78ede5d74641b66fda3,179,individual,1,1
-5ea1bc66de5d74641b6704c6,179,individual,1,1
-5d482eaa21c9be351f763ad8,179,ind in groups,0,0
-5ea097789dc0406f8988302a,179,ind in groups,0,1
-5ea0deb89dc0406f8988c091,179,ind in groups,0,1
-5ea0e0529dc0406f8988c4c6,179,ind in groups,0,1
-5ea0f0f69dc0406f8988e1fc,179,ind in groups,0,0
-5ea1b78ede5d74641b66fda3,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea621c9be351f762a2a,179,individual,0,0
-5d482ea721c9be351f762f7e,179,individual,0,0
-5d482eab21c9be351f763f3a,179,individual,0,1
-5e821b4050f6e364321d5499,179,individual,0,1
-5ea0dcce9dc0406f8988bbd8,179,individual,0,1
-5d482ea621c9be351f762a2a,179,ind in groups,1,0
-5d482ea721c9be351f762f7e,179,ind in groups,1,1
-5d482eab21c9be351f763f3a,179,ind in groups,1,0
-5e821b4050f6e364321d5499,179,ind in groups,1,0
-5ea0dcce9dc0406f8988bbd8,179,ind in groups,1,0
-5ea1d46cde5d74641b671c8f,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea621c9be351f762aa4,179,individual,0,1
-5d482ea621c9be351f762bd2,179,individual,0,1
-5d482ea721c9be351f762ca3,179,individual,0,0
-5d482ea721c9be351f762dda,179,individual,0,0
-5d482ea821c9be351f7631f3,179,individual,0,1
-5d482ea621c9be351f762aa4,179,ind in groups,1,0
-5d482ea621c9be351f762bca,179,ind in groups,1,1
-5d482ea721c9be351f762ca3,179,ind in groups,1,0
-5d482ea721c9be351f762dda,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,1
-5d482ea621c9be351f7627c6,179,individual,1,1
-5d482ea621c9be351f76281b,179,individual,1,0
-5d482ea721c9be351f762c1d,179,individual,1,1
-5d482ea921c9be351f7636cd,179,individual,1,1
-5ea1d700de5d74641b671ed0,179,individual,1,0
-5d482ea621c9be351f7627c6,179,ind in groups,0,1
-5d482ea621c9be351f76281b,179,ind in groups,0,1
-5d482ea721c9be351f762c1d,179,ind in groups,0,1
-5d482ea921c9be351f7636cd,179,ind in groups,0,1
-5ea1d700de5d74641b671ed0,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea521c9be351f762653,179,individual,1,1
-5d482ea621c9be351f762779,179,individual,1,1
-5d482ea621c9be351f7629ad,179,individual,1,0
-5d482ea921c9be351f7637a0,179,individual,1,1
-5ea1c742de5d74641b670c40,179,individual,1,1
-5d482ea521c9be351f762653,179,ind in groups,0,0
-5d482ea621c9be351f762779,179,ind in groups,0,1
-5d482ea621c9be351f7628db,179,ind in groups,0,0
-5d482ea621c9be351f7629ad,179,ind in groups,0,1
-5d482ea921c9be351f7637a0,179,ind in groups,0,1
-5ea1c742de5d74641b670c40,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea521c9be351f762719,179,individual,1,1
-5d482ea621c9be351f7628c8,179,individual,1,1
-5d482ea621c9be351f76297b,179,individual,1,0
-5d482ea621c9be351f7629b7,179,individual,1,1
-5d482ea721c9be351f76306b,179,individual,1,1
-5e9f4f9e9dc0406f8987a4fe,179,individual,1,1
-5d482ea521c9be351f762719,179,ind in groups,0,1
-5d482ea621c9be351f7628c8,179,ind in groups,0,1
-5d482ea621c9be351f76297b,179,ind in groups,0,1
-5d482ea621c9be351f7629b7,179,ind in groups,0,1
-5d482ea721c9be351f76306b,179,ind in groups,0,1
-5e9f4f9e9dc0406f8987a4fe,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea521c9be351f7625cb,179,individual,0,1
-5d482ea621c9be351f76273d,179,individual,0,0
-5d482ea621c9be351f7627ce,179,individual,0,1
-5d482ea621c9be351f762868,179,individual,0,0
-5d482ea621c9be351f762881,179,individual,0,0
-5d482ea621c9be351f76287b,179,individual,0,1
-5d482ea621c9be351f762976,179,individual,0,0
-5d482ea621c9be351f762bbf,179,individual,0,1
-5d482ea521c9be351f7625cb,179,ind in groups,1,0
-5d482ea621c9be351f76273d,179,ind in groups,1,0
-5d482ea621c9be351f7627ce,179,ind in groups,1,1
-5d482ea621c9be351f762868,179,ind in groups,1,1
-5d482ea621c9be351f762881,179,ind in groups,1,1
-5d482ea621c9be351f76287b,179,ind in groups,1,0
-5d482ea621c9be351f762976,179,ind in groups,1,1
-5d482ea621c9be351f762bbf,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,1
-5d482ea621c9be351f762911,179,individual,1,1
-5d482ea621c9be351f762a97,179,individual,1,1
-5d482ea721c9be351f762cb3,179,individual,1,1
-5ea0d2929dc0406f89889f9f,179,individual,1,0
-5ea12e4ade5d74641b66be98,179,individual,1,1
-5d482ea621c9be351f762911,179,ind in groups,0,1
-5d482ea621c9be351f762a97,179,ind in groups,0,1
-5d482ea721c9be351f762cb3,179,ind in groups,0,0
-5ea0d2929dc0406f89889f9f,179,ind in groups,0,1
-5ea12e4ade5d74641b66be98,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482eaa21c9be351f763bda,179,individual,0,0
-5ea1d246de5d74641b67178a,179,individual,0,1
-5ea6f4d8002f966295b1fff4,179,individual,0,0
-5ea6f6e0002f966295b20011,179,individual,0,1
-5ea6f820002f966295b20060,179,individual,0,1
-5ea6f884002f966295b20062,179,individual,0,1
-5d482eaa21c9be351f763bda,179,ind in groups,1,1
-5ea1d246de5d74641b67178a,179,ind in groups,1,1
-5ea6f4d8002f966295b1fff4,179,ind in groups,1,1
-5ea6f820002f966295b20060,179,ind in groups,1,1
-5ea6f884002f966295b20062,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482eaa21c9be351f763c05,179,individual,0,1
-5d482eaa21c9be351f763be9,179,individual,0,1
-5d482eaa21c9be351f763d2b,179,individual,0,1
-5ea0dd3c9dc0406f8988bd94,179,individual,0,0
-5ea6f550002f966295b1fffc,179,individual,0,0
-5ea6f550002f966295b1fffd,179,individual,0,1
-5ea6f596002f966295b20001,179,individual,0,1
-5ea6f618002f966295b20008,179,individual,0,1
-5ea6f7b2002f966295b2001f,179,individual,0,1
-5d482eaa21c9be351f763c05,179,ind in groups,1,1
-5d482eaa21c9be351f763be9,179,ind in groups,1,1
-5d482eaa21c9be351f763d2b,179,ind in groups,1,1
-5ea0dd3c9dc0406f8988bd94,179,ind in groups,1,1
-5ea6f550002f966295b1fffc,179,ind in groups,1,1
-5ea6f550002f966295b1fffd,179,ind in groups,1,1
-5ea6f596002f966295b20001,179,ind in groups,1,1
-5ea6f618002f966295b20008,179,ind in groups,1,1
-5ea6f7b2002f966295b2001f,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea621c9be351f7629da,179,individual,0,0
-5d482ea621c9be351f762a16,179,individual,0,0
-5d482ea621c9be351f7629f2,179,individual,0,1
-5ea721c43ecdad55471ffa70,179,individual,0,1
-5d482ea621c9be351f7629da,179,ind in groups,1,1
-5d482ea621c9be351f762a16,179,ind in groups,1,1
-5d482ea621c9be351f7629f2,179,ind in groups,1,1
-5d482ea721c9be351f762c75,179,ind in groups,1,1
-5ea721c43ecdad55471ffa70,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea521c9be351f762519,179,individual,0,1
-5d482ea521c9be351f76254b,179,individual,0,0
-5d482ea521c9be351f762540,179,individual,0,1
-5d482ea521c9be351f762586,179,individual,0,1
-5d482ea521c9be351f76270e,179,individual,0,1
-5d482ea621c9be351f762886,179,individual,0,1
-5d482eab21c9be351f763df5,179,individual,0,1
-5d482ea521c9be351f762519,179,ind in groups,1,1
-5d482ea521c9be351f76254b,179,ind in groups,1,1
-5d482ea521c9be351f762540,179,ind in groups,1,1
-5d482ea521c9be351f762586,179,ind in groups,1,0
-5d482ea521c9be351f76270e,179,ind in groups,1,1
-5d482ea621c9be351f762886,179,ind in groups,1,0
-5d482eab21c9be351f763df5,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f7624c6,179,individual,1,0
-5d482ea521c9be351f7625cc,179,individual,1,1
-5d482ea521c9be351f7626f2,179,individual,1,0
-5d482ea621c9be351f76295f,179,individual,1,0
-5ea724e43ecdad55471ffdce,179,individual,1,1
-5ea728b83ecdad55472000c2,179,individual,1,1
-5d482ea521c9be351f7624c6,179,ind in groups,0,0
-5d482ea521c9be351f7625cc,179,ind in groups,0,0
-5d482ea521c9be351f7626f2,179,ind in groups,0,0
-5d482ea621c9be351f76295f,179,ind in groups,0,1
-5ea724e43ecdad55471ffdce,179,ind in groups,0,1
-5ea728b83ecdad55472000c2,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5ea634947c882f6974ff30ff,179,individual,0,1
-5ea721e23ecdad55471ffa74,179,individual,0,1
-5d482ea721c9be351f762be2,179,ind in groups,1,1
-5ea12f30de5d74641b66be9c,179,ind in groups,1,1
-5ea1db9cde5d74641b672eca,179,ind in groups,1,1
-5ea634947c882f6974ff30ff,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea721c9be351f762cc8,179,individual,0,1
-5d482ea921c9be351f76373a,179,individual,0,1
-5d482eab21c9be351f7640eb,179,individual,0,1
-5ea632967c882f6974ff2f5d,179,individual,0,1
-5ea6f910002f966295b2006a,179,individual,0,0
-5ea71fee3ecdad55471ff9b9,179,individual,0,1
-5d482ea721c9be351f762cc8,179,ind in groups,1,0
-5d482eab21c9be351f7640eb,179,ind in groups,1,0
-5ea6f910002f966295b2006a,179,ind in groups,1,1
-5ea71fee3ecdad55471ff9b9,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,0
-5d482eaa21c9be351f763cdf,179,individual,1,0
-5ea1e538de5d74641b67621a,179,individual,1,1
-5ea63e627c882f6974ff3235,179,individual,1,1
-5ea6f500002f966295b1fff8,179,individual,1,0
-5ea71efe3ecdad55471ff9a6,179,individual,1,1
-5d482eaa21c9be351f763cdf,179,ind in groups,0,1
-5ea1e538de5d74641b67621a,179,ind in groups,0,1
-5ea63e627c882f6974ff3235,179,ind in groups,0,1
-5ea6f500002f966295b1fff8,179,ind in groups,0,1
-5ea71efe3ecdad55471ff9a6,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea721c9be351f762d4f,179,individual,0,1
-5d482ea821c9be351f763208,179,individual,0,1
-5d482ea821c9be351f76354a,179,individual,0,1
-5d482eaa21c9be351f763baf,179,individual,0,1
-5ea63ba67c882f6974ff320d,179,individual,0,1
-5d482ea821c9be351f763208,179,ind in groups,1,1
-5d482ea821c9be351f76354a,179,ind in groups,1,1
-5ea63ba67c882f6974ff320d,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea721c9be351f762d44,179,individual,0,0
-5d482ea821c9be351f76344b,179,individual,0,1
-5d482ea921c9be351f7635e8,179,individual,0,1
-5d482ea921c9be351f7638fe,179,individual,0,0
-5d482eaa21c9be351f763908,179,individual,0,1
-5d482eaa21c9be351f763c82,179,individual,0,1
-5d482eab21c9be351f763de7,179,individual,0,1
-5ea1d192de5d74641b671760,179,individual,0,1
-5ea6f7b2002f966295b20020,179,individual,0,1
-5d482ea721c9be351f762d44,179,ind in groups,1,1
-5d482ea921c9be351f7635e8,179,ind in groups,1,1
-5d482eaa21c9be351f763908,179,ind in groups,1,1
-5d482eaa21c9be351f763c82,179,ind in groups,1,1
-5d482eab21c9be351f763de7,179,ind in groups,1,0
-5ea1d192de5d74641b671760,179,ind in groups,1,0
-5ea6f7b2002f966295b20020,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea721c9be351f762f61,179,individual,1,0
-5d482ea821c9be351f7631ba,179,individual,1,1
-5ea6fb5e002f966295b2008c,179,individual,1,1
-5ea6fc58002f966295b20107,179,individual,1,1
-5ea7338a3ecdad5547202357,179,individual,1,0
-5ea735f63ecdad5547202cb0,179,individual,1,0
-5ea7381c3ecdad5547203134,179,individual,1,1
-5d482ea721c9be351f762f61,179,ind in groups,0,1
-5d482ea821c9be351f7631ba,179,ind in groups,0,1
-5ea6fb5e002f966295b2008c,179,ind in groups,0,1
-5ea6fc58002f966295b20107,179,ind in groups,0,1
-5ea7338a3ecdad5547202357,179,ind in groups,0,1
-5ea735f63ecdad5547202cb0,179,ind in groups,0,1
-5ea7381c3ecdad5547203134,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea621c9be351f762b21,179,individual,1,1
-5d482ea721c9be351f762ce8,179,individual,1,1
-5d482ea721c9be351f762da7,179,individual,1,1
-5ea798e821028d2296a4ab67,179,individual,1,1
-5ea7a0ae21028d2296a4ccb3,179,individual,1,0
-5d482ea621c9be351f762b21,179,ind in groups,0,1
-5d482ea721c9be351f762ce8,179,ind in groups,0,0
-5d482ea721c9be351f762d34,179,ind in groups,0,0
-5d482ea721c9be351f762da7,179,ind in groups,0,0
-5ea76026fd339b022f9cebba,179,ind in groups,0,0
-5ea798e821028d2296a4ab67,179,ind in groups,0,0
-5ea7a0ae21028d2296a4ccb3,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,1
-5d482ea421c9be351f7621db,179,individual,0,1
-5d482ea421c9be351f762215,179,individual,0,1
-5d482ea421c9be351f7622cd,179,individual,0,1
-5d482ea621c9be351f76287d,179,individual,0,1
-5ea76260fd339b022f9cebd6,179,individual,0,0
-5ea790d221028d2296a49375,179,individual,0,1
-5d482ea421c9be351f7621db,179,ind in groups,1,1
-5d482ea421c9be351f762215,179,ind in groups,1,0
-5d482eab21c9be351f763ec5,179,ind in groups,1,1
-5ea76260fd339b022f9cebd6,179,ind in groups,1,1
-5ea790d221028d2296a49375,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea321c9be351f76216e,179,individual,1,0
-5d482ea321c9be351f762191,179,individual,1,0
-5d482ea421c9be351f76232f,179,individual,1,1
-5d482ea821c9be351f76344f,179,individual,1,1
-5ea6330e7c882f6974ff30f2,179,individual,1,0
-5d482ea321c9be351f76216e,179,ind in groups,0,1
-5d482ea321c9be351f762191,179,ind in groups,0,0
-5ea6330e7c882f6974ff30f2,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea521c9be351f76263c,179,individual,0,1
-5d482ea521c9be351f76272d,179,individual,0,1
-5d482ea721c9be351f76300d,179,individual,0,1
-5d482ea821c9be351f763507,179,individual,0,0
-5ea6382c7c882f6974ff31e4,179,individual,0,1
-5d482ea521c9be351f76272d,179,ind in groups,1,1
-5d482ea721c9be351f76300d,179,ind in groups,1,1
-5d482ea821c9be351f763507,179,ind in groups,1,1
-5ea6382c7c882f6974ff31e4,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea421c9be351f762324,179,individual,1,1
-5d482ea421c9be351f76238f,179,individual,1,0
-5d482ea521c9be351f76242c,179,individual,1,1
-5d482ea521c9be351f76242d,179,individual,1,1
-5d482ea621c9be351f762bac,179,individual,1,1
-5d482ea721c9be351f762d8e,179,individual,1,1
-5ea78bbe21028d2296a48d8c,179,individual,1,1
-5d482ea421c9be351f762324,179,ind in groups,0,1
-5d482ea421c9be351f76238f,179,ind in groups,0,0
-5d482ea521c9be351f76242c,179,ind in groups,0,1
-5d482ea521c9be351f76242d,179,ind in groups,0,1
-5d482ea621c9be351f762bac,179,ind in groups,0,1
-5d482ea721c9be351f762d8e,179,ind in groups,0,0
-5ea78bbe21028d2296a48d8c,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f762725,179,individual,1,1
-5d482ea621c9be351f76290a,179,individual,1,1
-5d482ea721c9be351f76300a,179,individual,1,0
-5d482ea821c9be351f763292,179,individual,1,1
-5d482ea621c9be351f76290a,179,ind in groups,0,1
-5d482ea721c9be351f76300a,179,ind in groups,0,0
-5d482ea821c9be351f763292,179,ind in groups,0,0
-,179,group,1,0
-,179,nominal,0,0
-5d482ea621c9be351f76278b,179,individual,0,0
-5d482ea621c9be351f762b47,179,individual,0,1
-5ea731503ecdad5547201baf,179,individual,0,0
-5ea733123ecdad55472021a0,179,individual,0,0
-5d482ea621c9be351f76278b,179,ind in groups,1,1
-5d482ea621c9be351f762852,179,ind in groups,1,0
-5d482ea621c9be351f762b47,179,ind in groups,1,1
-5ea731503ecdad5547201baf,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea721c9be351f762f97,179,individual,0,1
-5d482ea821c9be351f7630b3,179,individual,0,1
-5d482ea821c9be351f7631bd,179,individual,0,0
-5d482ea821c9be351f7634a7,179,individual,0,1
-5d482ea921c9be351f76366e,179,individual,0,0
-5d482ea721c9be351f762f97,179,ind in groups,1,0
-5d482ea821c9be351f7630b3,179,ind in groups,1,1
-5d482ea821c9be351f763229,179,ind in groups,1,1
-5d482ea821c9be351f7631bd,179,ind in groups,1,0
-5d482ea821c9be351f7634a7,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea821c9be351f7633c1,179,individual,1,1
-5d482eab21c9be351f763eff,179,individual,1,1
-5ea73b643ecdad5547203840,179,individual,1,1
-5ea75dc4fd339b022f9ceb9c,179,individual,1,1
-5ea788e421028d2296a48cb8,179,individual,1,1
-5d482ea821c9be351f7633c1,179,ind in groups,0,0
-5d482eab21c9be351f763eff,179,ind in groups,0,1
-5ea19fe2de5d74641b66c67a,179,ind in groups,0,0
-5ea73b643ecdad5547203840,179,ind in groups,0,0
-5ea75dc4fd339b022f9ceb9c,179,ind in groups,0,1
-5ea788e421028d2296a48cb8,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,1
-5d482ea821c9be351f7634eb,179,individual,0,1
-5d482ea921c9be351f763891,179,individual,0,0
-5d482eaa21c9be351f763bfe,179,individual,0,1
-5d482eaa21c9be351f763c80,179,individual,0,1
-5ea6fbae002f966295b200da,179,individual,0,1
-5ea736e63ecdad5547202f44,179,individual,0,0
-5d482ea821c9be351f7634eb,179,ind in groups,1,1
-5d482ea921c9be351f763891,179,ind in groups,1,0
-5d482eaa21c9be351f763bfe,179,ind in groups,1,1
-5ea736e63ecdad5547202f44,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea521c9be351f7625ef,179,individual,0,1
-5ea63e087c882f6974ff3233,179,individual,0,0
-5ea6fc76002f966295b2010a,179,individual,0,0
-5ea73a743ecdad554720364b,179,individual,0,0
-5ea75d88fd339b022f9ceb96,179,individual,0,1
-5d482ea521c9be351f7625ef,179,ind in groups,1,0
-5d482eab21c9be351f764173,179,ind in groups,1,0
-5ea63e087c882f6974ff3233,179,ind in groups,1,0
-5ea6fc76002f966295b2010a,179,ind in groups,1,0
-5ea73a743ecdad554720364b,179,ind in groups,1,0
-5ea75d88fd339b022f9ceb96,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,1
-5d482ea821c9be351f763134,179,individual,1,0
-5d482ea821c9be351f7632bd,179,individual,1,1
-5ea888a27d50722703c540f0,179,individual,1,0
-5d482ea821c9be351f763134,179,ind in groups,0,1
-5d482ea821c9be351f7632bd,179,ind in groups,0,1
-5ea87ce07d50722703c533b8,179,ind in groups,0,1
-5ea888a27d50722703c540f0,179,ind in groups,0,0
-,179,group,1,0
-,179,nominal,0,1
-5d482ea621c9be351f76280f,179,individual,0,0
-5d482ea721c9be351f762ca2,179,individual,0,1
-5d482ea921c9be351f7636c4,179,individual,0,1
-5d482ea921c9be351f7638ea,179,individual,0,1
-5ea877b87d50722703c52da7,179,individual,0,1
-5ea8823a7d50722703c539e8,179,individual,0,1
-5ea883c07d50722703c53b68,179,individual,0,1
-5d482ea621c9be351f76280f,179,ind in groups,1,0
-5d482ea721c9be351f762ca2,179,ind in groups,1,0
-5d482ea921c9be351f7636c4,179,ind in groups,1,0
-5d482ea921c9be351f7638ea,179,ind in groups,1,1
-5ea869c67d50722703c4fd3d,179,ind in groups,1,1
-5ea877b87d50722703c52da7,179,ind in groups,1,1
-5ea8823a7d50722703c539e8,179,ind in groups,1,0
-5ea883c07d50722703c53b68,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea621c9be351f7627d8,179,individual,1,1
-5d482ea721c9be351f762d10,179,individual,1,1
-5d482ea821c9be351f7631fe,179,individual,1,0
-5d482ea821c9be351f7634d3,179,individual,1,0
-5ea7a4e621028d2296a4dba0,179,individual,1,1
-5ea8736c7d50722703c5247f,179,individual,1,0
-5ea87ef27d50722703c5358e,179,individual,1,1
-5d482ea621c9be351f7627d8,179,ind in groups,0,0
-5d482ea721c9be351f762d10,179,ind in groups,0,0
-5d482ea821c9be351f7631fe,179,ind in groups,0,0
-5d482ea821c9be351f7634d3,179,ind in groups,0,1
-5ea7a4e621028d2296a4dba0,179,ind in groups,0,0
-5ea8684a7d50722703c4f614,179,ind in groups,0,0
-5ea8736c7d50722703c5247f,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5d482ea721c9be351f762cd9,179,individual,1,1
-5d482ea821c9be351f7633ec,179,individual,1,1
-5d482eab21c9be351f763e48,179,individual,1,0
-5d482ea721c9be351f762cd9,179,ind in groups,0,0
-5d482eab21c9be351f763e48,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea521c9be351f76254e,179,individual,1,1
-5d482ea621c9be351f7629ec,179,individual,1,1
-5ea8542c7d50722703c4cbff,179,individual,1,0
-5ea868047d50722703c4f4ad,179,individual,1,1
-5ea86c327d50722703c5064e,179,individual,1,1
-5d482ea421c9be351f762239,179,ind in groups,0,1
-5d482ea521c9be351f76254e,179,ind in groups,0,1
-5d482ea621c9be351f7629ec,179,ind in groups,0,1
-5ea8542c7d50722703c4cbff,179,ind in groups,0,1
-5ea86c327d50722703c5064e,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea421c9be351f762375,179,individual,0,1
-5d482ea621c9be351f762987,179,individual,0,0
-5e821b0450f6e364321d5460,179,individual,0,1
-5ea63b6a7c882f6974ff320c,179,individual,0,1
-5d482ea421c9be351f762375,179,ind in groups,1,0
-5d482ea521c9be351f7625d2,179,ind in groups,1,0
-5d482ea621c9be351f762987,179,ind in groups,1,0
-5e821b0450f6e364321d5460,179,ind in groups,1,1
-5ea63b6a7c882f6974ff320c,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea521c9be351f762435,179,individual,1,0
-5ea0d8969dc0406f8988aeb0,179,individual,1,1
-5d482ea521c9be351f762435,179,ind in groups,0,0
-5d482ea821c9be351f763100,179,ind in groups,0,0
-5d482ea921c9be351f763594,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea621c9be351f7627ca,179,individual,1,1
-5d482ea921c9be351f7636f9,179,individual,1,1
-5d482ea921c9be351f763877,179,individual,1,0
-5ea85db47d50722703c4d40b,179,individual,1,0
-5d482ea621c9be351f7627ca,179,ind in groups,0,0
-5d482ea921c9be351f7636f9,179,ind in groups,0,1
-5d482ea921c9be351f763877,179,ind in groups,0,1
-5ea85db47d50722703c4d40b,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea521c9be351f7623ba,179,individual,1,0
-5d482ea521c9be351f76251c,179,individual,1,1
-5d482ea621c9be351f76286d,179,individual,1,1
-5d482ea921c9be351f763718,179,individual,1,1
-5ea0d3aa9dc0406f8988a14d,179,individual,1,1
-5ea7a48c21028d2296a4dae0,179,individual,1,1
-5d482ea521c9be351f7623ba,179,ind in groups,0,1
-5d482ea521c9be351f76251c,179,ind in groups,0,1
-5d482ea621c9be351f76286d,179,ind in groups,0,1
-5d482ea921c9be351f763718,179,ind in groups,0,1
-5ea0d3aa9dc0406f8988a14d,179,ind in groups,0,1
-5ea7a48c21028d2296a4dae0,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea521c9be351f7624e8,179,individual,1,1
-5d482ea621c9be351f7629fe,179,individual,1,1
-5d482ea621c9be351f762b19,179,individual,1,0
-5d482eaa21c9be351f763dc0,179,individual,1,0
-5ea85a267d50722703c4ce61,179,individual,1,1
-5ea85e047d50722703c4d435,179,individual,1,1
-5d482ea521c9be351f7624e8,179,ind in groups,0,0
-5d482ea621c9be351f7629fe,179,ind in groups,0,0
-5d482ea621c9be351f762b19,179,ind in groups,0,1
-5d482ea721c9be351f763076,179,ind in groups,0,0
-5d482eaa21c9be351f763dc0,179,ind in groups,0,1
-5ea85a267d50722703c4ce61,179,ind in groups,0,0
-5ea85ae47d50722703c4cee5,179,ind in groups,0,1
-5ea85e047d50722703c4d435,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea821c9be351f763333,179,individual,1,0
-5d482ea621c9be351f762797,179,ind in groups,0,1
-5d482ea721c9be351f762d36,179,ind in groups,0,1
-5d482ea821c9be351f763333,179,ind in groups,0,1
-5ea85cce7d50722703c4d14e,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea321c9be351f762157,179,individual,0,1
-5d482ea721c9be351f762c4c,179,individual,0,0
-5d482eaa21c9be351f763c11,179,individual,0,0
-5d482eab21c9be351f76403b,179,individual,0,1
-5ea1c1c0de5d74641b6708c2,179,individual,0,0
-5ea723c23ecdad55471ffbac,179,individual,0,1
-5ea854c27d50722703c4cc0c,179,individual,0,1
-5d482ea321c9be351f762157,179,ind in groups,1,0
-5d482ea721c9be351f762c4c,179,ind in groups,1,1
-5d482eaa21c9be351f763c11,179,ind in groups,1,1
-5d482eab21c9be351f76403b,179,ind in groups,1,0
-5ea723c23ecdad55471ffbac,179,ind in groups,1,1
-5ea854c27d50722703c4cc0c,179,ind in groups,1,0
-,179,group,0,0
-,179,nominal,1,0
-5d482ea821c9be351f763107,179,individual,1,1
-5ea72fac3ecdad5547201425,179,individual,1,0
-5ea761acfd339b022f9cebca,179,individual,1,1
-5ea854c27d50722703c4cc0d,179,individual,1,1
-5ea855b27d50722703c4cc50,179,individual,1,0
-5d482ea821c9be351f763107,179,ind in groups,0,0
-5ea72fac3ecdad5547201425,179,ind in groups,0,0
-5ea761acfd339b022f9cebca,179,ind in groups,0,0
-5ea854c27d50722703c4cc0d,179,ind in groups,0,0
-5ea855b27d50722703c4cc50,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea821c9be351f763420,179,individual,1,1
-5d482eab21c9be351f763fcb,179,individual,1,1
-5d482eab21c9be351f7641e1,179,individual,1,1
-5ea6fa96002f966295b2007d,179,individual,1,0
-5ea734163ecdad5547202554,179,individual,1,0
-5ea7a36021028d2296a4d669,179,individual,1,0
-5d482ea821c9be351f763420,179,ind in groups,0,1
-5ea6fa96002f966295b2007d,179,ind in groups,0,1
-5ea734163ecdad5547202554,179,ind in groups,0,1
-5ea7a36021028d2296a4d669,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea721c9be351f763016,179,individual,0,0
-5d482eaa21c9be351f763987,179,individual,0,0
-5d482ea721c9be351f763016,179,ind in groups,1,0
-5d482ea821c9be351f7633d4,179,ind in groups,1,1
-5d482eaa21c9be351f763987,179,ind in groups,1,0
-5ea1d1a6de5d74641b671766,179,ind in groups,1,0
-5ea7893e21028d2296a48cbe,179,ind in groups,1,1
-5ea884567d50722703c53c2a,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea521c9be351f762430,179,individual,0,0
-5d482ea621c9be351f762a8f,179,individual,0,0
-5d482ea721c9be351f762c0a,179,individual,0,0
-5d482ea721c9be351f762e4f,179,individual,0,1
-5d482ea921c9be351f763684,179,individual,0,0
-5d482eab21c9be351f763f30,179,individual,0,0
-5d482ea521c9be351f762430,179,ind in groups,1,1
-5d482ea621c9be351f762a8f,179,ind in groups,1,1
-5d482ea721c9be351f762e4f,179,ind in groups,1,1
-5d482ea921c9be351f763684,179,ind in groups,1,0
-5d482eab21c9be351f763f30,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea321c9be351f762150,179,individual,1,0
-5d482ea421c9be351f762258,179,individual,1,0
-5d482ea421c9be351f7621f0,179,individual,1,1
-5d482ea421c9be351f7622e2,179,individual,1,0
-5d482ea421c9be351f7622e3,179,individual,1,1
-5d482ea621c9be351f762bba,179,individual,1,1
-5d482ea321c9be351f762150,179,ind in groups,0,0
-5d482ea421c9be351f7621f0,179,ind in groups,0,0
-5d482ea421c9be351f7622e2,179,ind in groups,0,1
-5d482ea421c9be351f7622e3,179,ind in groups,0,1
-5d482ea621c9be351f762bba,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea321c9be351f762055,179,individual,1,0
-5d482ea321c9be351f7620a0,179,individual,1,1
-5d482ea421c9be351f762297,179,individual,1,1
-5d482eab21c9be351f763f08,179,individual,1,1
-5d482ea321c9be351f762055,179,ind in groups,0,0
-5d482ea321c9be351f7620a0,179,ind in groups,0,1
-5d482ea421c9be351f762297,179,ind in groups,0,1
-5d482eab21c9be351f763f08,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5d482ea221c9be351f761f3c,179,individual,1,1
-5d482ea321c9be351f761f92,179,individual,1,0
-5d482ea321c9be351f7620b3,179,individual,1,1
-5d482ea721c9be351f76308a,179,individual,1,1
-5d482ea221c9be351f761f3c,179,ind in groups,0,0
-5d482ea321c9be351f761f92,179,ind in groups,0,0
-5d482ea321c9be351f7620b3,179,ind in groups,0,0
-5d482ea721c9be351f76308a,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea321c9be351f762063,179,individual,0,0
-5d482ea321c9be351f7620c3,179,individual,0,1
-5d482ea321c9be351f7620dc,179,individual,0,1
-5ea8b7c87d50722703c5605d,179,individual,0,1
-5d482ea321c9be351f762063,179,ind in groups,1,1
-5d482ea321c9be351f7620c3,179,ind in groups,1,0
-5d482ea321c9be351f7620dc,179,ind in groups,1,0
-5ea8b7c87d50722703c5605d,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea221c9be351f761ec9,179,individual,0,1
-5d482ea221c9be351f761f3b,179,individual,0,1
-5d482ea221c9be351f761f7d,179,individual,0,1
-5d482ea321c9be351f76216f,179,individual,0,1
-5d482ea221c9be351f761ec9,179,ind in groups,1,1
-5d482ea221c9be351f761f3b,179,ind in groups,1,1
-5d482ea221c9be351f761f7d,179,ind in groups,1,1
-5d482ea321c9be351f76216f,179,ind in groups,1,1
-5d482ea621c9be351f7627f2,179,ind in groups,1,0
-,179,group,1,0
-,179,nominal,0,1
-5d482ea221c9be351f761e9a,179,individual,0,1
-5d482ea221c9be351f761f64,179,individual,0,0
-5ea8caba7d50722703c59239,179,individual,0,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea421c9be351f7623b9,179,individual,0,0
-5d482ea521c9be351f7626dd,179,individual,0,0
-5d482ea621c9be351f7629f3,179,individual,0,1
-5d482ea621c9be351f762bd4,179,individual,0,1
-5d482ea821c9be351f7630fa,179,individual,0,0
-5d482ea421c9be351f7623b9,179,ind in groups,1,1
-5d482ea521c9be351f762488,179,ind in groups,1,0
-5d482ea521c9be351f7626dd,179,ind in groups,1,0
-5d482ea621c9be351f7629f3,179,ind in groups,1,0
-5d482ea621c9be351f762bd4,179,ind in groups,1,0
-5d482ea821c9be351f7631bf,179,ind in groups,1,0
-5d482ea821c9be351f7630fa,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea521c9be351f762444,179,individual,1,0
-5d482ea521c9be351f7624a8,179,individual,1,1
-5d482ea621c9be351f762936,179,individual,1,0
-5d482ea721c9be351f762f5e,179,individual,1,0
-5d482ea721c9be351f763067,179,individual,1,1
-5d482ea521c9be351f762444,179,ind in groups,0,1
-5d482ea521c9be351f7624a8,179,ind in groups,0,1
-5d482ea621c9be351f762936,179,ind in groups,0,1
-5d482ea721c9be351f762f5e,179,ind in groups,0,1
-5d482ea721c9be351f763067,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea721c9be351f762f65,179,individual,0,1
-5d482eaa21c9be351f763dd9,179,individual,0,1
-5e31d78fe31c5304c46f18ac,179,individual,0,1
-5ea75e96fd339b022f9ceba8,179,individual,0,1
-5ea9a7c8a68ffa2bcbe11876,179,individual,0,0
-5d482ea721c9be351f762f65,179,ind in groups,1,1
-5d482eaa21c9be351f763dd9,179,ind in groups,1,1
-5e31d78fe31c5304c46f18ac,179,ind in groups,1,0
-5ea75e96fd339b022f9ceba8,179,ind in groups,1,1
-5ea9a7c8a68ffa2bcbe11876,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482eaa21c9be351f763937,179,individual,0,1
-5d482eab21c9be351f764140,179,individual,0,0
-5ea8c98e7d50722703c58e0e,179,individual,0,0
-5ea9a890a68ffa2bcbe1187c,179,individual,0,0
-5ea9ad9aa68ffa2bcbe11b29,179,individual,0,1
-5d482eaa21c9be351f763937,179,ind in groups,1,1
-5d482eab21c9be351f763f87,179,ind in groups,1,1
-5d482eab21c9be351f764140,179,ind in groups,1,1
-5ea8c98e7d50722703c58e0e,179,ind in groups,1,1
-5ea9a890a68ffa2bcbe1187c,179,ind in groups,1,1
-5ea9ad9aa68ffa2bcbe11b29,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea621c9be351f76286e,179,individual,0,0
-5d482ea721c9be351f762e26,179,individual,0,1
-5eab5e9cd5ea945196f999fa,179,individual,0,1
-5eab7454d5ea945196f9c9ef,179,individual,0,0
-5eab7490d5ea945196f9cac7,179,individual,0,0
-5d482ea621c9be351f76286e,179,ind in groups,1,1
-5eab5e9cd5ea945196f999fa,179,ind in groups,1,0
-5eab7454d5ea945196f9c9ef,179,ind in groups,1,0
-5eab7490d5ea945196f9cac7,179,ind in groups,1,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea121c9be351f761d3e,179,individual,1,1
-5d482ea321c9be351f762027,179,individual,1,1
-5d482ea621c9be351f762772,179,individual,1,1
-5eab6e5ad5ea945196f9b094,179,individual,1,0
-5d482ea121c9be351f761d3e,179,ind in groups,0,1
-5d482ea221c9be351f761f5e,179,ind in groups,0,1
-5d482ea321c9be351f762027,179,ind in groups,0,0
-5d482ea621c9be351f762772,179,ind in groups,0,0
-5eab6e5ad5ea945196f9b094,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea321c9be351f76201f,179,individual,1,1
-5d482ea621c9be351f762b0a,179,individual,1,0
-5d482ea721c9be351f762eb1,179,individual,1,1
-5d482ea921c9be351f763740,179,individual,1,1
-5d482eab21c9be351f763f5c,179,individual,1,1
-5d482ea321c9be351f76201f,179,ind in groups,0,0
-5d482ea621c9be351f762b0a,179,ind in groups,0,0
-5d482ea721c9be351f762eb1,179,ind in groups,0,1
-5d482ea921c9be351f763740,179,ind in groups,0,0
-5d482eab21c9be351f763f5c,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d0ceb322c04075bfb121198,179,individual,1,0
-5d482ea121c9be351f761c52,179,individual,1,1
-5d482ea221c9be351f761ebd,179,individual,1,0
-5d482ea721c9be351f762dd5,179,individual,1,1
-5d482ea821c9be351f763331,179,individual,1,1
-5d482ea921c9be351f763596,179,individual,1,1
-5d0ceb322c04075bfb121198,179,ind in groups,0,0
-5d482ea121c9be351f761c52,179,ind in groups,0,1
-5d482ea221c9be351f761ebd,179,ind in groups,0,1
-5d482ea721c9be351f762dd5,179,ind in groups,0,1
-5d482ea821c9be351f763331,179,ind in groups,0,0
-5d482ea921c9be351f763596,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea121c9be351f761d74,179,individual,1,1
-5d482ea121c9be351f761d83,179,individual,1,0
-5d482ea121c9be351f761d40,179,individual,1,0
-5d482ea221c9be351f761db6,179,individual,1,1
-5d482ea521c9be351f7624c5,179,individual,1,1
-5d482ea121c9be351f761c46,179,ind in groups,0,1
-5d482ea121c9be351f761d74,179,ind in groups,0,0
-5d482ea121c9be351f761d83,179,ind in groups,0,0
-5d482ea121c9be351f761d40,179,ind in groups,0,1
-5d482ea221c9be351f761db6,179,ind in groups,0,0
-5d482ea521c9be351f7624c5,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea621c9be351f762b52,179,individual,1,1
-5d482ea621c9be351f762b74,179,individual,1,1
-5d482ea721c9be351f762ddf,179,individual,1,0
-5d482ea821c9be351f763561,179,individual,1,0
-5d482eab21c9be351f764109,179,individual,1,0
-5d482ea621c9be351f762b52,179,ind in groups,0,0
-5d482ea621c9be351f762b74,179,ind in groups,0,1
-5d482ea721c9be351f762ddf,179,ind in groups,0,1
-5d482ea821c9be351f763561,179,ind in groups,0,1
-5d482eab21c9be351f764109,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d407d8011e92e314fcda15f,179,individual,0,0
-5d482ea521c9be351f7626b8,179,individual,0,1
-5d482ea721c9be351f763043,179,individual,0,1
-5d482ea921c9be351f7636b2,179,individual,0,1
-5ea9d2fca68ffa2bcbe13a4e,179,individual,0,1
-5d407d8011e92e314fcda15f,179,ind in groups,1,1
-5d482ea521c9be351f7626b8,179,ind in groups,1,1
-5d482ea621c9be351f762940,179,ind in groups,1,1
-5d482ea721c9be351f763043,179,ind in groups,1,1
-5d482ea921c9be351f7636b2,179,ind in groups,1,1
-5ea9d2fca68ffa2bcbe13a4e,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f7625f2,179,individual,1,0
-5d482ea721c9be351f762cc9,179,individual,1,0
-5d482eaa21c9be351f763d63,179,individual,1,1
-5ea885dc7d50722703c53e04,179,individual,1,1
-5eab5f96d5ea945196f99a08,179,individual,1,0
-5d482ea521c9be351f7625f2,179,ind in groups,0,1
-5d482ea721c9be351f762cc9,179,ind in groups,0,1
-5d482ea821c9be351f763391,179,ind in groups,0,1
-5d482eaa21c9be351f763d63,179,ind in groups,0,1
-5ea885dc7d50722703c53e04,179,ind in groups,0,0
-5eab5f96d5ea945196f99a08,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d0cec862c04075bfb1211a7,179,individual,0,1
-5d482ea121c9be351f761c31,179,individual,0,0
-5d482ea421c9be351f76221a,179,individual,0,0
-5d482ea421c9be351f7622dc,179,individual,0,1
-5d482ea121c9be351f761c31,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea121c9be351f761bee,179,individual,1,0
-5d482ea121c9be351f761bf0,179,individual,1,1
-5d482ea421c9be351f762202,179,individual,1,0
-5d482ea721c9be351f762c35,179,individual,1,1
-5d40909011e92e314fcdae58,179,ind in groups,0,1
-5d482ea121c9be351f761bf0,179,ind in groups,0,1
-5d482ea721c9be351f762c35,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d43364cce0995585f1a5cbd,179,individual,1,1
-5d482ea221c9be351f761dac,179,individual,1,1
-5d482ea421c9be351f762296,179,individual,1,1
-5eaa6370d5ea945196f95250,179,individual,1,0
-5d43364cce0995585f1a5cbd,179,ind in groups,0,1
-5d482ea221c9be351f761dac,179,ind in groups,0,1
-5d482ea421c9be351f762296,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5d482ea321c9be351f76213d,179,individual,1,1
-5d482ea421c9be351f7621a1,179,individual,1,0
-5d482ea421c9be351f76227f,179,individual,1,0
-5d482ea521c9be351f7624ec,179,individual,1,1
-5d482ea621c9be351f76278a,179,individual,1,0
-5d482eab21c9be351f763fc3,179,individual,1,1
-5eac601cd5ea945196fa0766,179,individual,1,0
-5d482ea321c9be351f76213d,179,ind in groups,0,1
-5d482ea421c9be351f7621a1,179,ind in groups,0,1
-5d482ea421c9be351f76227f,179,ind in groups,0,0
-5d482ea521c9be351f7624ec,179,ind in groups,0,0
-5d482ea621c9be351f76278a,179,ind in groups,0,1
-5eac601cd5ea945196fa0766,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea221c9be351f761de7,179,individual,1,1
-5d482ea221c9be351f761e09,179,individual,1,1
-5d482ea421c9be351f7622df,179,individual,1,1
-5d482ea221c9be351f761de7,179,ind in groups,0,1
-5d482ea221c9be351f761e09,179,ind in groups,0,1
-5d482ea221c9be351f761f32,179,ind in groups,0,1
-5d482ea421c9be351f7622df,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5d420c68ce0995585f1a548f,179,individual,0,0
-5d482ea221c9be351f761ea0,179,individual,0,0
-5d420c68ce0995585f1a548f,179,ind in groups,1,1
-5d482ea121c9be351f761c6c,179,ind in groups,1,1
-5d482ea221c9be351f761ea0,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d2a2256d9ca6e7f1bedb4d3,179,individual,1,1
-5d482ea221c9be351f761e64,179,individual,1,1
-5d482ea921c9be351f7636a3,179,individual,1,1
-5eac671ad5ea945196fa0d03,179,individual,1,1
-5d2a2256d9ca6e7f1bedb4d3,179,ind in groups,0,0
-5d482ea921c9be351f7636a3,179,ind in groups,0,0
-5eac671ad5ea945196fa0d03,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5eac6c10d5ea945196fa169d,179,individual,1,0
-5d1a795a2d54e95acef0ea74,179,ind in groups,0,0
-5eac6756d5ea945196fa0d30,179,ind in groups,0,0
-5eac67a6d5ea945196fa0d67,179,ind in groups,0,0
-5eac69b8d5ea945196fa1146,179,ind in groups,0,0
-5eac6c10d5ea945196fa169d,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,1
-5d482eaa21c9be351f763d1b,179,individual,1,0
-5d482eab21c9be351f763fda,179,individual,1,0
-5d482eab21c9be351f764120,179,individual,1,1
-5eac6f58d5ea945196fa21c6,179,individual,1,1
-5d482ea721c9be351f762db4,179,ind in groups,0,0
-5d482eaa21c9be351f763d1b,179,ind in groups,0,0
-5d482eab21c9be351f764120,179,ind in groups,0,0
-5eac6f58d5ea945196fa21c6,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea621c9be351f7629ca,179,individual,0,1
-5d482ea621c9be351f762b0e,179,individual,0,1
-5d482ea821c9be351f76324e,179,individual,0,0
-5d482eab21c9be351f763e5e,179,individual,0,0
-5ea733583ecdad55472022d2,179,individual,0,0
-5eab7fb2d5ea945196f9ec55,179,individual,0,0
-5eac59bed5ea945196fa0710,179,individual,0,1
-5eac5dced5ea945196fa0742,179,individual,0,1
-5d482ea621c9be351f7629ca,179,ind in groups,1,0
-5d482ea621c9be351f762b0e,179,ind in groups,1,1
-5d482ea821c9be351f76324e,179,ind in groups,1,0
-5d482eab21c9be351f763e5e,179,ind in groups,1,1
-5eab7fb2d5ea945196f9ec55,179,ind in groups,1,1
-5eac59bed5ea945196fa0710,179,ind in groups,1,1
-5eac5dced5ea945196fa0742,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea621c9be351f762a7f,179,individual,1,0
-5d482ea921c9be351f76378f,179,individual,1,0
-5eaa5c04d5ea945196f9522f,179,individual,1,0
-5eacae50d5ea945196fa6603,179,individual,1,1
-5eacbd5ad5ea945196fa7424,179,individual,1,1
-5d482ea421c9be351f7621d6,179,ind in groups,0,0
-5d482ea621c9be351f762a7f,179,ind in groups,0,1
-5d482ea921c9be351f76378f,179,ind in groups,0,1
-5eaa5c04d5ea945196f9522f,179,ind in groups,0,0
-5eacbd5ad5ea945196fa7424,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea121c9be351f761bfa,179,individual,0,1
-5eab85f2d5ea945196f9f955,179,individual,0,1
-5eac6a08d5ea945196fa1225,179,individual,0,1
-5eac7476d5ea945196fa369c,179,individual,0,0
-5eacaaa4d5ea945196fa63f3,179,individual,0,1
-5eacaf5ed5ea945196fa6656,179,individual,0,1
-5d482ea121c9be351f761bfa,179,ind in groups,1,1
-5eab85f2d5ea945196f9f955,179,ind in groups,1,1
-5eac6a08d5ea945196fa1225,179,ind in groups,1,1
-5eac7476d5ea945196fa369c,179,ind in groups,1,1
-5eacaaa4d5ea945196fa63f3,179,ind in groups,1,1
-5eacaf5ed5ea945196fa6656,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5eab4af6d5ea945196f96c0d,179,individual,0,0
-5eac77e6d5ea945196fa40a3,179,individual,0,0
-5eaca02cd5ea945196fa6060,179,individual,0,1
-5eacaa9ad5ea945196fa63ef,179,individual,0,1
-5eab4af6d5ea945196f96c0d,179,ind in groups,1,1
-5eac5a0ed5ea945196fa0712,179,ind in groups,1,1
-5eac77e6d5ea945196fa40a3,179,ind in groups,1,1
-5eaca02cd5ea945196fa6060,179,ind in groups,1,1
-5eacaa9ad5ea945196fa63ef,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f7624ab,179,individual,1,0
-5d482ea921c9be351f7638d3,179,individual,1,0
-5eac66ded5ea945196fa0cc2,179,individual,1,1
-5eac6d78d5ea945196fa1b2a,179,individual,1,0
-5d482ea521c9be351f7624ab,179,ind in groups,0,1
-5d482ea921c9be351f7638d3,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea221c9be351f761dd3,179,individual,0,1
-5d482ea421c9be351f76220c,179,individual,0,1
-5d482ea421c9be351f76230b,179,individual,0,0
-5d482ea521c9be351f76246b,179,individual,0,1
-5d482ea621c9be351f762856,179,individual,0,1
-5d482ea221c9be351f761dd3,179,ind in groups,1,1
-5d482ea421c9be351f76220c,179,ind in groups,1,0
-5d482ea421c9be351f76230b,179,ind in groups,1,1
-5d482ea521c9be351f76246b,179,ind in groups,1,0
-5d482ea621c9be351f762856,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea221c9be351f761e77,179,individual,1,1
-5d482ea721c9be351f762ede,179,individual,1,1
-5d482ea921c9be351f763618,179,individual,1,0
-5d482eab21c9be351f763ddf,179,individual,1,1
-5eacc390d5ea945196fa7bed,179,individual,1,0
-5ead904ad5ea945196fa9750,179,individual,1,1
-5d482ea221c9be351f761e77,179,ind in groups,0,0
-5d482ea721c9be351f762ede,179,ind in groups,0,1
-5d482ea921c9be351f763618,179,ind in groups,0,1
-5d482eab21c9be351f763ddf,179,ind in groups,0,1
-5eacc390d5ea945196fa7bed,179,ind in groups,0,1
-5ead904ad5ea945196fa9750,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea321c9be351f76209e,179,individual,0,1
-5d482ea321c9be351f762103,179,individual,0,1
-5d482ea521c9be351f7625b2,179,individual,0,1
-5d482ea621c9be351f762b56,179,individual,0,1
-5d482ea821c9be351f7632ad,179,individual,0,0
-5d482eab21c9be351f763df1,179,individual,0,1
-5ead905ed5ea945196fa9751,179,individual,0,0
-5d482ea321c9be351f76209e,179,ind in groups,1,1
-5d482ea321c9be351f762103,179,ind in groups,1,1
-5d482ea521c9be351f7625b2,179,ind in groups,1,1
-5d482ea621c9be351f762b56,179,ind in groups,1,1
-5d482ea821c9be351f7632ad,179,ind in groups,1,1
-5ead905ed5ea945196fa9751,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea421c9be351f76222f,179,individual,1,1
-5d482ea521c9be351f7623cd,179,individual,1,1
-5eadc90cd5ea945196fab1b7,179,individual,1,1
-5eadd582d5ea945196fab7fc,179,individual,1,1
-5d482ea421c9be351f76222f,179,ind in groups,0,1
-5eadc90cd5ea945196fab1b7,179,ind in groups,0,0
-5eadd00ad5ea945196fab489,179,ind in groups,0,1
-5eadd582d5ea945196fab7fc,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea321c9be351f762181,179,individual,0,1
-5d482ea621c9be351f762a4c,179,individual,0,1
-5d482ea721c9be351f762fff,179,individual,0,1
-5d482ea821c9be351f763340,179,individual,0,1
-5d482ea921c9be351f763591,179,individual,0,1
-5d482eab21c9be351f7641d2,179,individual,0,1
-5eac7804d5ea945196fa417a,179,individual,0,1
-5ead9428d5ea945196fa97c1,179,individual,0,0
-5d482ea221c9be351f761dbc,179,ind in groups,1,0
-5d482ea721c9be351f762fff,179,ind in groups,1,1
-5d482ea821c9be351f763340,179,ind in groups,1,1
-5d482ea921c9be351f763591,179,ind in groups,1,0
-5d482eab21c9be351f7641d2,179,ind in groups,1,1
-5eac7804d5ea945196fa417a,179,ind in groups,1,1
-5ead9428d5ea945196fa97c1,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea421c9be351f7622ab,179,individual,1,1
-5d482ea421c9be351f762335,179,individual,1,1
-5d482ea621c9be351f762b66,179,individual,1,1
-5eadbdf4d5ea945196faafa2,179,individual,1,1
-5eadbe76d5ea945196faafa8,179,individual,1,1
-5eadcaf6d5ea945196fab20a,179,individual,1,1
-5eade6c6d5ea945196fac47d,179,individual,1,0
-5eadf59ed5ea945196fac6b1,179,individual,1,1
-5d482ea421c9be351f7622ab,179,ind in groups,0,1
-5d482ea421c9be351f762335,179,ind in groups,0,1
-5d482ea621c9be351f762b66,179,ind in groups,0,1
-5eadbdf4d5ea945196faafa2,179,ind in groups,0,0
-5eadbe76d5ea945196faafa8,179,ind in groups,0,0
-5eadcaf6d5ea945196fab20a,179,ind in groups,0,1
-5eade6c6d5ea945196fac47d,179,ind in groups,0,1
-,179,group,1,0
-,179,nominal,0,0
-5d482eab21c9be351f7640b8,179,individual,0,0
-5eab40f6d5ea945196f9629b,179,individual,0,0
-5eadc8b2d5ea945196fab1af,179,individual,0,1
-5eae1466d5ea945196fad7a2,179,individual,0,1
-5d482eab21c9be351f7640b8,179,ind in groups,1,0
-5eab40f6d5ea945196f9629b,179,ind in groups,1,0
-5ead8f82d5ea945196fa9747,179,ind in groups,1,0
-5eadc8b2d5ea945196fab1af,179,ind in groups,1,0
-5eae1466d5ea945196fad7a2,179,ind in groups,1,1
-5eaf28ced5ea945196fadef0,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,1
-5ee122b6896280243c134057,179,individual,0,1
-5f1322982ce49169326082d4,179,individual,0,0
-5f1322b62ce49169326082d8,179,individual,0,1
-5f1322ca2ce49169326082d9,179,individual,0,1
-5f1323102ce49169326082e3,179,individual,0,0
-5f13236a2ce49169326082ef,179,individual,0,1
-5f13237e2ce49169326082f7,179,individual,0,1
-5f1323b02ce4916932608302,179,individual,0,1
-5ee122b6896280243c134057,179,ind in groups,1,0
-5f1322982ce49169326082d4,179,ind in groups,1,1
-5f1322ca2ce49169326082d9,179,ind in groups,1,1
-5f1323102ce49169326082e3,179,ind in groups,1,1
-5f13236a2ce49169326082ef,179,ind in groups,1,1
-5f13237e2ce49169326082f7,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea821c9be351f763252,179,individual,0,1
-5f1323422ce49169326082e9,179,individual,0,0
-5f18be8846a7f03dda99caca,179,individual,0,1
-5f18c10846a7f03dda99cf42,179,individual,0,1
-5f18c72a46a7f03dda99dd17,179,individual,0,1
-5f18c93c46a7f03dda99e34f,179,individual,0,0
-5d482ea821c9be351f763252,179,ind in groups,1,1
-5f1323422ce49169326082e9,179,ind in groups,1,1
-5f18be8846a7f03dda99caca,179,ind in groups,1,0
-5f18c10846a7f03dda99cf42,179,ind in groups,1,0
-5f18c72a46a7f03dda99dd17,179,ind in groups,1,1
-5f18c93c46a7f03dda99e34f,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,0
-5d482eaa21c9be351f763b92,179,individual,0,1
-5e9f3c169dc0406f89877a12,179,individual,0,1
-5f18bece46a7f03dda99cad8,179,individual,0,0
-5f18c1e446a7f03dda99d07c,179,individual,0,0
-5f18c5b846a7f03dda99d822,179,individual,0,1
-5f18c65846a7f03dda99d9c5,179,individual,0,0
-5d482eaa21c9be351f763b92,179,ind in groups,1,1
-5e9f3c169dc0406f89877a12,179,ind in groups,1,1
-5f18bece46a7f03dda99cad8,179,ind in groups,1,0
-5f18c1e446a7f03dda99d07c,179,ind in groups,1,1
-5f18c5b846a7f03dda99d822,179,ind in groups,1,1
-5f18c65846a7f03dda99d9c5,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea821c9be351f7634ee,179,individual,0,1
-5d482ea921c9be351f7635df,179,individual,0,0
-5f18ba6446a7f03dda99c923,179,individual,0,0
-5f18ba6446a7f03dda99c924,179,individual,0,1
-5f18bbe046a7f03dda99c932,179,individual,0,0
-5d482ea821c9be351f763428,179,ind in groups,1,0
-5d482ea821c9be351f7634ee,179,ind in groups,1,0
-5d482ea921c9be351f7635df,179,ind in groups,1,0
-5f18ba6446a7f03dda99c923,179,ind in groups,1,0
-5f18ba6446a7f03dda99c924,179,ind in groups,1,0
-,179,group,0,1
-,179,nominal,1,1
-5ee16ad2896280243c13835a,179,individual,1,1
-5f18b78a46a7f03dda99c86a,179,individual,1,1
-5f18b86646a7f03dda99c8ba,179,individual,1,1
-5f18ba4646a7f03dda99c8d4,179,individual,1,1
-5f18bc0846a7f03dda99c935,179,individual,1,1
-5f18bce446a7f03dda99c96a,179,individual,1,1
-5f18be3846a7f03dda99ca57,179,individual,1,0
-5d482eab21c9be351f763e0c,179,ind in groups,0,0
-5ee16ad2896280243c13835a,179,ind in groups,0,1
-5f18b86646a7f03dda99c8ba,179,ind in groups,0,1
-5f18ba4646a7f03dda99c8d4,179,ind in groups,0,1
-5f18bc0846a7f03dda99c935,179,ind in groups,0,1
-5f18bce446a7f03dda99c96a,179,ind in groups,0,1
-5f18be3846a7f03dda99ca57,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482eaa21c9be351f763934,179,individual,0,1
-5d482eab21c9be351f763e16,179,individual,0,1
-5d482eab21c9be351f763ed6,179,individual,0,1
-5ee16cf8896280243c138460,179,individual,0,0
-5f18ba6446a7f03dda99c925,179,individual,0,0
-5f18bbea46a7f03dda99c933,179,individual,0,1
-5f18bc3a46a7f03dda99c94b,179,individual,0,0
-5f18bc7646a7f03dda99c960,179,individual,0,1
-5d482eaa21c9be351f763934,179,ind in groups,1,1
-5d482eab21c9be351f763e16,179,ind in groups,1,1
-5d482eab21c9be351f763ed6,179,ind in groups,1,1
-5ee16cf8896280243c138460,179,ind in groups,1,1
-5f18ba6446a7f03dda99c925,179,ind in groups,1,1
-5f18bbea46a7f03dda99c933,179,ind in groups,1,1
-5f18bc3a46a7f03dda99c94b,179,ind in groups,1,1
-5f18bc7646a7f03dda99c960,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482eaa21c9be351f763900,179,individual,1,1
-5d482eaa21c9be351f763c6e,179,individual,1,1
-5d482eab21c9be351f764033,179,individual,1,1
-5f1323102ce49169326082e2,179,individual,1,1
-5f18b75846a7f03dda99c864,179,individual,1,1
-5f18b78a46a7f03dda99c869,179,individual,1,1
-5f18b79446a7f03dda99c86e,179,individual,1,0
-5d482eaa21c9be351f763900,179,ind in groups,0,1
-5d482eaa21c9be351f763a7a,179,ind in groups,0,0
-5d482eaa21c9be351f763c6e,179,ind in groups,0,1
-5d482eab21c9be351f764033,179,ind in groups,0,1
-5f1323102ce49169326082e2,179,ind in groups,0,1
-5f18b75846a7f03dda99c864,179,ind in groups,0,1
-5f18b78a46a7f03dda99c869,179,ind in groups,0,1
-5f18b79446a7f03dda99c86e,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,0
-5d482eaa21c9be351f763d40,179,individual,1,1
-5d482eaa21c9be351f763dab,179,individual,1,1
-5d482eab21c9be351f763e5d,179,individual,1,0
-5d482eab21c9be351f763f17,179,individual,1,1
-5ee14958896280243c135bcb,179,individual,1,1
-5ee168c0896280243c138219,179,individual,1,0
-5ee16b36896280243c138383,179,individual,1,1
-5f18b78a46a7f03dda99c86c,179,individual,1,1
-5d482eaa21c9be351f763d40,179,ind in groups,0,1
-5d482eaa21c9be351f763dab,179,ind in groups,0,1
-5d482eab21c9be351f763e5d,179,ind in groups,0,1
-5d482eab21c9be351f763f17,179,ind in groups,0,0
-5ee14958896280243c135bcb,179,ind in groups,0,0
-5ee168c0896280243c138219,179,ind in groups,0,1
-5ee16b36896280243c138383,179,ind in groups,0,1
-5f18b78a46a7f03dda99c86c,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,1
-5d482eab21c9be351f763f96,179,individual,0,1
-5f197d8246a7f03dda9a0ba5,179,individual,0,1
-5f197dbe46a7f03dda9a0be0,179,individual,0,1
-5f19803e46a7f03dda9a0c0a,179,individual,0,0
-5f19811046a7f03dda9a0c13,179,individual,0,1
-5d482eab21c9be351f763f96,179,ind in groups,1,0
-5f197dbe46a7f03dda9a0be0,179,ind in groups,1,1
-5f197f2646a7f03dda9a0bf2,179,ind in groups,1,0
-5f19803e46a7f03dda9a0c0a,179,ind in groups,1,1
-5f19811046a7f03dda9a0c13,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5ea8745c7d50722703c528b9,179,individual,0,1
-5f13239c2ce49169326082fd,179,individual,0,1
-5f18b77646a7f03dda99c867,179,individual,0,0
-5f18c35646a7f03dda99d40d,179,individual,0,1
-5f18c82446a7f03dda99dff3,179,individual,0,1
-5f18cc4846a7f03dda99ed0a,179,individual,0,0
-5ea8745c7d50722703c528b9,179,ind in groups,1,1
-5f13239c2ce49169326082fd,179,ind in groups,1,1
-5f18b77646a7f03dda99c867,179,ind in groups,1,0
-5f18c35646a7f03dda99d40d,179,ind in groups,1,0
-5f18c82446a7f03dda99dff3,179,ind in groups,1,1
-5f18cc4846a7f03dda99ed0a,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5e7e4efc31f4e454e196c986,179,individual,0,1
-5f19814c46a7f03dda9a0c18,179,individual,0,1
-5f19824646a7f03dda9a0c93,179,individual,0,1
-5e7e4efc31f4e454e196c986,179,ind in groups,1,1
-5f19814c46a7f03dda9a0c18,179,ind in groups,1,1
-5f19824646a7f03dda9a0c93,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea821c9be351f7632c5,179,individual,1,1
-5f19a73046a7f03dda9a2584,179,individual,1,1
-5f19adfc46a7f03dda9a2b7c,179,individual,1,1
-5f19b28446a7f03dda9a3368,179,individual,1,1
-5f19b2ac46a7f03dda9a3427,179,individual,1,0
-5d482ea821c9be351f7632c5,179,ind in groups,0,0
-5f19a73046a7f03dda9a2584,179,ind in groups,0,1
-5f19adfc46a7f03dda9a2b7c,179,ind in groups,0,0
-5f19b28446a7f03dda9a3368,179,ind in groups,0,1
-5f19b2ac46a7f03dda9a3427,179,ind in groups,0,0
-,179,group,0,1
-,179,nominal,1,1
-5d482ea721c9be351f762d3e,179,individual,1,1
-5d482eab21c9be351f76421d,179,individual,1,1
-5f19a71c46a7f03dda9a257c,179,individual,1,0
-5f19abfe46a7f03dda9a27dd,179,individual,1,1
-5f19ad2a46a7f03dda9a29f5,179,individual,1,0
-5d482ea721c9be351f762d3e,179,ind in groups,0,0
-5d482ea721c9be351f762f9f,179,ind in groups,0,1
-5d482ea721c9be351f76300e,179,ind in groups,0,1
-5d482eab21c9be351f76421d,179,ind in groups,0,0
-5f19a71c46a7f03dda9a257c,179,ind in groups,0,1
-5f19abfe46a7f03dda9a27dd,179,ind in groups,0,1
-5f19ad2a46a7f03dda9a29f5,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea821c9be351f7632a5,179,individual,0,1
-5d482eab21c9be351f763f5e,179,individual,0,0
-5f18bcf846a7f03dda99c96e,179,individual,0,1
-5f1986ec46a7f03dda9a0f75,179,individual,0,1
-5f19a7b246a7f03dda9a2595,179,individual,0,1
-5f19a89846a7f03dda9a26c2,179,individual,0,1
-5d482ea821c9be351f7632a5,179,ind in groups,1,1
-5d482eab21c9be351f763f5e,179,ind in groups,1,1
-5f18bcf846a7f03dda99c96e,179,ind in groups,1,1
-5f1986ec46a7f03dda9a0f75,179,ind in groups,1,1
-5f19a7b246a7f03dda9a2595,179,ind in groups,1,1
-5f19a88e46a7f03dda9a26c0,179,ind in groups,1,1
-5f19a89846a7f03dda9a26c2,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482eab21c9be351f76404d,179,individual,0,0
-5f19a7a846a7f03dda9a2593,179,individual,0,1
-5f19a7bc46a7f03dda9a2596,179,individual,0,0
-5f19a83446a7f03dda9a25ee,179,individual,0,0
-5f19a8ac46a7f03dda9a26c5,179,individual,0,1
-5f19a8ac46a7f03dda9a26c6,179,individual,0,1
-5d482eab21c9be351f76404d,179,ind in groups,1,1
-5f19a7bc46a7f03dda9a2596,179,ind in groups,1,1
-5f19a80246a7f03dda9a25e9,179,ind in groups,1,0
-5f19a83446a7f03dda9a25ee,179,ind in groups,1,1
-5f19a8ac46a7f03dda9a26c5,179,ind in groups,1,0
-5f19a8ac46a7f03dda9a26c6,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-5d482eaa21c9be351f763b05,179,individual,1,1
-5ee25938896280243c139475,179,individual,1,1
-5f19841246a7f03dda9a0d3c,179,individual,1,1
-5f19a71c46a7f03dda9a257d,179,individual,1,0
-5ee25938896280243c139475,179,ind in groups,0,1
-5f19a71c46a7f03dda9a257d,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5eaf2e6ed5ea945196fadf80,179,individual,0,0
-5ebca97278f5b8169eccbc44,179,individual,0,1
-5f18b81646a7f03dda99c875,179,individual,0,0
-5f18c9a046a7f03dda99e50c,179,individual,0,0
-5f19859846a7f03dda9a0e98,179,individual,0,0
-5eab24aed5ea945196f95bc9,179,ind in groups,1,1
-5ebca97278f5b8169eccbc44,179,ind in groups,1,1
-5f18b81646a7f03dda99c875,179,ind in groups,1,0
-5f18c9a046a7f03dda99e50c,179,ind in groups,1,1
-5f19859846a7f03dda9a0e98,179,ind in groups,1,0
-,179,group,1,0
-,179,nominal,0,0
-5d482ea721c9be351f762c9f,179,individual,0,0
-5eaca6e4d5ea945196fa62b0,179,individual,0,1
-5f18c48246a7f03dda99d597,179,individual,0,1
-5f1a21f646a7f03dda9a6b99,179,individual,0,0
-5d482ea721c9be351f762c9f,179,ind in groups,1,1
-5f18c48246a7f03dda99d597,179,ind in groups,1,1
-5f18c59a46a7f03dda99d805,179,ind in groups,1,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea621c9be351f7628b6,179,individual,1,1
-5d482eaa21c9be351f763a30,179,individual,1,1
-5ee12306896280243c13405e,179,individual,1,0
-5ee147e6896280243c135b3d,179,individual,1,1
-5f1a1bca46a7f03dda9a6561,179,individual,1,1
-5f1a1fa846a7f03dda9a68c5,179,individual,1,1
-5d482eaa21c9be351f763a30,179,ind in groups,0,0
-5ee12306896280243c13405e,179,ind in groups,0,1
-5ee147e6896280243c135b3d,179,ind in groups,0,0
-5f1a1bca46a7f03dda9a6561,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,1
-5d482ea621c9be351f762ba6,179,individual,0,0
-5f18c1b246a7f03dda99d022,179,individual,0,1
-5f1a1ac646a7f03dda9a650a,179,individual,0,0
-5f1a1d5046a7f03dda9a66d5,179,individual,0,1
-5d482ea621c9be351f762ba6,179,ind in groups,1,1
-5d482ea621c9be351f762b78,179,ind in groups,1,1
-5f18c1b246a7f03dda99d022,179,ind in groups,1,1
-5f1a1ac646a7f03dda9a650a,179,ind in groups,1,1
-5f1a1d5046a7f03dda9a66d5,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea721c9be351f762c60,179,individual,0,1
-5d482ea721c9be351f762f15,179,individual,0,1
-5d482eaa21c9be351f763db4,179,individual,0,0
-5d482eab21c9be351f764144,179,individual,0,0
-5f19b2d446a7f03dda9a3497,179,individual,0,0
-5d482ea721c9be351f762c60,179,ind in groups,1,1
-5d482ea721c9be351f762f15,179,ind in groups,1,1
-5d482eaa21c9be351f763db4,179,ind in groups,1,1
-5d482eab21c9be351f764144,179,ind in groups,1,0
-5f19b2d446a7f03dda9a3497,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea821c9be351f7631f8,179,individual,0,0
-5d482eab21c9be351f763ef9,179,individual,0,0
-5d482eab21c9be351f7640fa,179,individual,0,1
-5d482eab21c9be351f76424b,179,individual,0,0
-5f13228e2ce49169326082d0,179,individual,0,0
-5f13234c2ce49169326082eb,179,individual,0,1
-5f1a192246a7f03dda9a6305,179,individual,0,0
-5f1a1a9e46a7f03dda9a6500,179,individual,0,0
-5d482eab21c9be351f763ef9,179,ind in groups,1,1
-5d482eab21c9be351f7640fa,179,ind in groups,1,1
-5d482eab21c9be351f76424b,179,ind in groups,1,1
-5f13228e2ce49169326082d0,179,ind in groups,1,1
-5f13234c2ce49169326082eb,179,ind in groups,1,1
-5f1a192246a7f03dda9a6305,179,ind in groups,1,0
-5f1a1a9e46a7f03dda9a6500,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea821c9be351f7633a5,179,individual,0,1
-5d482ea921c9be351f76382b,179,individual,0,0
-5d482eaa21c9be351f763dd0,179,individual,0,0
-5f18bbea46a7f03dda99c934,179,individual,0,1
-5f18c56846a7f03dda99d7ab,179,individual,0,0
-5f18cc2046a7f03dda99ece2,179,individual,0,1
-5f19ac6246a7f03dda9a27ef,179,individual,0,1
-5d482ea821c9be351f7633a5,179,ind in groups,1,1
-5d482ea921c9be351f76382b,179,ind in groups,1,1
-5d482eaa21c9be351f763dd0,179,ind in groups,1,1
-5f18bbea46a7f03dda99c934,179,ind in groups,1,1
-5f18c56846a7f03dda99d7ab,179,ind in groups,1,1
-5f18cc2046a7f03dda99ece2,179,ind in groups,1,1
-5f19ac6246a7f03dda9a27ef,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea921c9be351f763633,179,individual,0,1
-5eaf2a68d5ea945196fadf4c,179,individual,0,1
-5ee16aa0896280243c13831f,179,individual,0,0
-5f18b85246a7f03dda99c87a,179,individual,0,0
-5f18c16246a7f03dda99cf9d,179,individual,0,0
-5f18c62646a7f03dda99d97b,179,individual,0,1
-5f197d2846a7f03dda9a0b99,179,individual,0,0
-5f19b0c246a7f03dda9a2f89,179,individual,0,1
-5d482ea921c9be351f763633,179,ind in groups,1,1
-5eaf2a68d5ea945196fadf4c,179,ind in groups,1,1
-5ee16aa0896280243c13831f,179,ind in groups,1,1
-5f18b85246a7f03dda99c87a,179,ind in groups,1,1
-5f18c16246a7f03dda99cf9d,179,ind in groups,1,1
-5f18c62646a7f03dda99d97b,179,ind in groups,1,1
-5f197d2846a7f03dda9a0b99,179,ind in groups,1,1
-5f19b0c246a7f03dda9a2f89,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,1
-5d482ea721c9be351f762e18,179,individual,0,0
-5e31d694e31c5304c46f13ec,179,individual,0,1
-5ee14692896280243c135226,179,individual,0,1
-5f19a74446a7f03dda9a2587,179,individual,0,0
-5f1adfc446a7f03dda9a9d49,179,individual,0,1
-5d482ea721c9be351f762da1,179,ind in groups,1,0
-5e31d694e31c5304c46f13ec,179,ind in groups,1,0
-5ee14692896280243c135226,179,ind in groups,1,1
-5f19a74446a7f03dda9a2587,179,ind in groups,1,1
-5f1adfc446a7f03dda9a9d49,179,ind in groups,1,1
-,179,group,1,0
-,179,nominal,0,0
-5d482ea821c9be351f7631de,179,individual,0,0
-5f19b1da46a7f03dda9a327a,179,individual,0,0
-5f1adee846a7f03dda9a9cec,179,individual,0,1
-5f19b1da46a7f03dda9a327a,179,ind in groups,1,0
-5f1adee846a7f03dda9a9cec,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5ee25974896280243c13947a,179,individual,1,1
-5f18b9b046a7f03dda99c8c7,179,individual,1,1
-5f19b02246a7f03dda9a2e6d,179,individual,1,0
-5f1adc9046a7f03dda9a9c96,179,individual,1,0
-5ee25974896280243c13947a,179,ind in groups,0,1
-5f18b9b046a7f03dda99c8c7,179,ind in groups,0,0
-5f1adc9046a7f03dda9a9c96,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea321c9be351f762052,179,individual,1,1
-5d482ea321c9be351f76211d,179,individual,1,1
-5d482ea621c9be351f762a01,179,individual,1,1
-5f19b62646a7f03dda9a3ddf,179,individual,1,1
-5f1b54cc46a7f03dda9abf53,179,individual,1,1
-5f1b5f4446a7f03dda9ad19a,179,individual,1,0
-5d482ea321c9be351f762052,179,ind in groups,0,1
-5d482ea321c9be351f76211d,179,ind in groups,0,1
-5d482ea621c9be351f762a01,179,ind in groups,0,1
-5f1b54cc46a7f03dda9abf53,179,ind in groups,0,1
-5f1b5f4446a7f03dda9ad19a,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d41e7a6ce0995585f1a5321,179,individual,0,0
-5d482ea121c9be351f761c63,179,individual,0,0
-5d482ea321c9be351f76207e,179,individual,0,1
-5d482ea421c9be351f762275,179,individual,0,1
-5d482eaa21c9be351f763a5c,179,individual,0,1
-5f1b5b3e46a7f03dda9ac993,179,individual,0,1
-5d41e7a6ce0995585f1a5321,179,ind in groups,1,1
-5d482ea321c9be351f76207e,179,ind in groups,1,1
-5d482ea421c9be351f762275,179,ind in groups,1,1
-5d482eaa21c9be351f763a5c,179,ind in groups,1,1
-5f1b5b3e46a7f03dda9ac993,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea321c9be351f76218e,179,individual,0,0
-5d482ea421c9be351f762253,179,individual,0,1
-5d482ea721c9be351f763007,179,individual,0,0
-5f1ae3ac46a7f03dda9a9e5f,179,individual,0,1
-5d482ea321c9be351f76218e,179,ind in groups,1,1
-5d482ea421c9be351f762253,179,ind in groups,1,1
-5d482ea721c9be351f763007,179,ind in groups,1,1
-5d482ea821c9be351f763453,179,ind in groups,1,1
-5f1ae3ac46a7f03dda9a9e5f,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea421c9be351f762208,179,individual,0,1
-5d482ea521c9be351f762729,179,individual,0,1
-5f1a1a7646a7f03dda9a64ff,179,individual,0,0
-5f1b504e46a7f03dda9abcfe,179,individual,0,0
-5d482ea321c9be351f762169,179,ind in groups,1,1
-5d482ea421c9be351f762208,179,ind in groups,1,1
-5d482ea521c9be351f762539,179,ind in groups,1,1
-5d482ea521c9be351f762729,179,ind in groups,1,1
-5f1a1a7646a7f03dda9a64ff,179,ind in groups,1,1
-5f1b504e46a7f03dda9abcfe,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea621c9be351f762b3f,179,individual,0,0
-5d482ea721c9be351f762df2,179,individual,0,0
-5d482ea721c9be351f762e5b,179,individual,0,1
-5f18c50e46a7f03dda99d6cd,179,individual,0,0
-5f19b5b846a7f03dda9a3c82,179,individual,0,1
-5f1b4f4a46a7f03dda9abce8,179,individual,0,1
-5f1b4fcc46a7f03dda9abcf2,179,individual,0,1
-5d482ea621c9be351f762b3f,179,ind in groups,1,1
-5d482ea721c9be351f762df2,179,ind in groups,1,1
-5d482ea721c9be351f762e5b,179,ind in groups,1,0
-5f18c50e46a7f03dda99d6cd,179,ind in groups,1,1
-5f19b5b846a7f03dda9a3c82,179,ind in groups,1,1
-5f1b4f4a46a7f03dda9abce8,179,ind in groups,1,0
-5f1b4fcc46a7f03dda9abcf2,179,ind in groups,1,1
-,179,group,1,1
-,179,nominal,0,1
-5e9f55029dc0406f8987ade7,179,individual,0,0
-5eade9c8d5ea945196fac5e5,179,individual,0,0
-5ee14c82896280243c135d20,179,individual,0,1
-5f1a23ea46a7f03dda9a7034,179,individual,0,1
-5e9f55029dc0406f8987ade7,179,ind in groups,1,1
-5eade9c8d5ea945196fac5e5,179,ind in groups,1,1
-5ee14c82896280243c135d20,179,ind in groups,1,1
-5f1a23ea46a7f03dda9a7034,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea521c9be351f762622,179,individual,1,1
-5d482ea521c9be351f762617,179,individual,1,1
-5d482ea821c9be351f763264,179,individual,1,0
-5f1b53e646a7f03dda9abeb6,179,individual,1,1
-5f1ee8e446a7f03dda9af874,179,individual,1,1
-5d482ea521c9be351f762622,179,ind in groups,0,1
-5d482ea521c9be351f762617,179,ind in groups,0,0
-5d482ea821c9be351f763264,179,ind in groups,0,1
-5f1b53e646a7f03dda9abeb6,179,ind in groups,0,1
-5f1ee8e446a7f03dda9af874,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,1
-5d482ea521c9be351f762440,179,individual,1,1
-5d482ea521c9be351f762629,179,individual,1,0
-5d482ea921c9be351f7635f1,179,individual,1,1
-5f1ee74046a7f03dda9af6c7,179,individual,1,1
-5d482ea521c9be351f762440,179,ind in groups,0,1
-5d482ea521c9be351f762629,179,ind in groups,0,1
-5d482ea921c9be351f7635f1,179,ind in groups,0,0
-5f1ee74046a7f03dda9af6c7,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482eab21c9be351f76421a,179,individual,0,0
-5f1ee26846a7f03dda9af1ef,179,individual,0,0
-5f1ee41646a7f03dda9af25e,179,individual,0,0
-5f1ee5a646a7f03dda9af497,179,individual,0,1
-5d482eab21c9be351f76421a,179,ind in groups,1,1
-5f1ee26846a7f03dda9af1ef,179,ind in groups,1,1
-5f1ee5a646a7f03dda9af497,179,ind in groups,1,0
-,179,group,0,0
-,179,nominal,1,1
-5d482ea621c9be351f762a61,179,individual,1,1
-5d482eaa21c9be351f763c35,179,individual,1,1
-5f1b61b046a7f03dda9ad590,179,individual,1,1
-5f1edf2046a7f03dda9aef70,179,individual,1,0
-5d482ea621c9be351f7629ff,179,ind in groups,0,0
-5d482ea621c9be351f762a61,179,ind in groups,0,0
-5d482eaa21c9be351f763c35,179,ind in groups,0,1
-5f1b61b046a7f03dda9ad590,179,ind in groups,0,1
-5f1edf2046a7f03dda9aef70,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,1
-5f1ee07446a7f03dda9aef96,179,individual,0,1
-5f1ee2ea46a7f03dda9af1fc,179,individual,0,1
-5f19ad4846a7f03dda9a2a10,179,ind in groups,1,0
-5f1ee07446a7f03dda9aef96,179,ind in groups,1,0
-5f1ee2ea46a7f03dda9af1fc,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea621c9be351f762885,179,individual,1,1
-5d482ea721c9be351f762c0d,179,individual,1,0
-5d482ea921c9be351f7636c7,179,individual,1,0
-5eaf0dc6d5ea945196fadc0a,179,individual,1,1
-5f1add7646a7f03dda9a9ca6,179,individual,1,1
-5f1edf3e46a7f03dda9aef76,179,individual,1,1
-5d482ea621c9be351f762885,179,ind in groups,0,1
-5d482ea721c9be351f762c0d,179,ind in groups,0,1
-5d482ea921c9be351f7636c7,179,ind in groups,0,0
-5eaf0dc6d5ea945196fadc0a,179,ind in groups,0,0
-5f1add7646a7f03dda9a9ca6,179,ind in groups,0,0
-5f1edf3e46a7f03dda9aef76,179,ind in groups,0,0
-5f1ee0ec46a7f03dda9aeff0,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,1
-5d482ea921c9be351f7635ce,179,individual,0,0
-5d482ea921c9be351f763771,179,individual,0,1
-5d482eaa21c9be351f763a0c,179,individual,0,0
-5ee16c44896280243c1383f5,179,individual,0,1
-5ee25924896280243c139471,179,individual,0,1
-5f19acb246a7f03dda9a29a9,179,individual,0,0
-5f19b1c646a7f03dda9a3270,179,individual,0,1
-5f1ee01046a7f03dda9aef8b,179,individual,0,1
-5d482ea921c9be351f7635ce,179,ind in groups,1,1
-5d482ea921c9be351f763771,179,ind in groups,1,1
-5d482eaa21c9be351f763a0c,179,ind in groups,1,1
-5ee16c44896280243c1383f5,179,ind in groups,1,0
-5f19acb246a7f03dda9a29a9,179,ind in groups,1,1
-5f19b1c646a7f03dda9a3270,179,ind in groups,1,1
-5f1ee01046a7f03dda9aef8b,179,ind in groups,1,0
-,179,group,1,1
-,179,nominal,0,0
-5d1249922d54e95acef0bc13,179,individual,0,0
-5d482ea221c9be351f761e85,179,individual,0,0
-5d482ea621c9be351f762995,179,individual,0,1
-5f1f4a7846a7f03dda9b3f62,179,individual,0,0
-5f1f4de846a7f03dda9b4883,179,individual,0,0
-5d1249922d54e95acef0bc13,179,ind in groups,1,1
-5d482ea221c9be351f761e85,179,ind in groups,1,0
-5d482ea621c9be351f762995,179,ind in groups,1,1
-5d482ea721c9be351f762e3b,179,ind in groups,1,1
-5f1f4a7846a7f03dda9b3f62,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea221c9be351f761f7f,179,individual,1,1
-5d482ea721c9be351f762ea6,179,individual,1,1
-5f1f4a8246a7f03dda9b3f65,179,individual,1,0
-5f1f4b7246a7f03dda9b418d,179,individual,1,1
-5d482ea221c9be351f761f7f,179,ind in groups,0,0
-5d482ea721c9be351f762ea6,179,ind in groups,0,0
-5f1f471c46a7f03dda9b3893,179,ind in groups,0,0
-5f1f4a8246a7f03dda9b3f65,179,ind in groups,0,0
-5f1f4b7246a7f03dda9b418d,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,0
-5d482ea121c9be351f761caf,179,individual,1,0
-5d482ea221c9be351f761e61,179,individual,1,1
-5d482ea321c9be351f762080,179,individual,1,0
-5eaa5cead5ea945196f95232,179,individual,1,1
-5f1f490646a7f03dda9b3bea,179,individual,1,1
-5d482ea121c9be351f761caf,179,ind in groups,0,0
-5d482ea221c9be351f761e61,179,ind in groups,0,0
-5d482ea321c9be351f762080,179,ind in groups,0,0
-5eaa5cead5ea945196f95232,179,ind in groups,0,0
-5f18c1ee46a7f03dda99d080,179,ind in groups,0,0
-5f1b553046a7f03dda9abf8c,179,ind in groups,0,1
-5f1f490646a7f03dda9b3bea,179,ind in groups,0,0
-,179,group,0,0
-,179,nominal,1,0
-5d482ea221c9be351f761e70,179,individual,1,0
-5d482ea321c9be351f761fc8,179,individual,1,0
-5d482ea321c9be351f762092,179,individual,1,1
-5d482ea421c9be351f7621e3,179,individual,1,1
-5d482ea421c9be351f7621e7,179,individual,1,0
-5d482ea721c9be351f762d1a,179,individual,1,0
-5d482ea221c9be351f761dd4,179,ind in groups,0,1
-5d482ea221c9be351f761e70,179,ind in groups,0,1
-5d482ea321c9be351f761fc8,179,ind in groups,0,1
-5d482ea321c9be351f762092,179,ind in groups,0,1
-5d482ea421c9be351f7621e3,179,ind in groups,0,0
-5d482ea421c9be351f7621e7,179,ind in groups,0,1
-5d482ea721c9be351f762d1a,179,ind in groups,0,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f762481,179,individual,1,1
-5f1ee20446a7f03dda9af1e7,179,individual,1,0
-5f1f43d446a7f03dda9b3504,179,individual,1,0
-5d482ea521c9be351f762481,179,ind in groups,0,1
-5f1ee20446a7f03dda9af1e7,179,ind in groups,0,1
-5f1f3fce46a7f03dda9b3174,179,ind in groups,0,1
-5f1f43d446a7f03dda9b3504,179,ind in groups,0,1
-,179,group,0,0
-,179,nominal,1,1
-5d482ea821c9be351f7631e3,179,individual,1,0
-5eaddac8d5ea945196fabc70,179,individual,1,0
-5f1f401e46a7f03dda9b31b9,179,individual,1,1
-5d482ea821c9be351f7631e3,179,ind in groups,0,1
-5eaddac8d5ea945196fabc70,179,ind in groups,0,1
-5f1f401e46a7f03dda9b31b9,179,ind in groups,0,0
-5f1f430246a7f03dda9b34a6,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea721c9be351f762e99,179,individual,0,1
-5d482ea721c9be351f762f67,179,individual,0,1
-5d482ea821c9be351f7632f4,179,individual,0,1
-5d482eaa21c9be351f763cfb,179,individual,0,1
-5d482eaa21c9be351f763dbf,179,individual,0,0
-5d482eab21c9be351f764274,179,individual,0,0
-5f1eed5846a7f03dda9b0054,179,individual,0,0
-5f1f400046a7f03dda9b317c,179,individual,0,1
-5d482ea721c9be351f762e99,179,ind in groups,1,1
-5d482ea721c9be351f762f67,179,ind in groups,1,1
-5d482eaa21c9be351f763cfb,179,ind in groups,1,1
-5d482eaa21c9be351f763dbf,179,ind in groups,1,1
-5d482eab21c9be351f764274,179,ind in groups,1,1
-5f1eed5846a7f03dda9b0054,179,ind in groups,1,1
-5f1f400046a7f03dda9b317c,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5ee1655a896280243c13812f,179,individual,1,1
-5f19adf246a7f03dda9a2b6d,179,individual,1,1
-5f19ae3846a7f03dda9a2be8,179,individual,1,0
-5f1ae1c246a7f03dda9a9d8d,179,individual,1,0
-5f1b5d1e46a7f03dda9acdad,179,individual,1,1
-5f1b616046a7f03dda9ad4ef,179,individual,1,1
-5ee1655a896280243c13812f,179,ind in groups,0,1
-5f19adf246a7f03dda9a2b6d,179,ind in groups,0,0
-5f19ae3846a7f03dda9a2be8,179,ind in groups,0,1
-5f1ae1c246a7f03dda9a9d8d,179,ind in groups,0,1
-5f1b4e6e46a7f03dda9abce0,179,ind in groups,0,1
-5f1b5d1e46a7f03dda9acdad,179,ind in groups,0,1
-5f1b616046a7f03dda9ad4ef,179,ind in groups,0,1
-,179,group,1,1
-,179,nominal,0,0
-5d482ea321c9be351f7620fd,179,individual,0,1
-5d482ea621c9be351f762914,179,individual,0,1
-5f20327646a7f03dda9b8964,179,individual,0,0
-5d482ea321c9be351f7620fd,179,ind in groups,1,1
-5d482ea621c9be351f762914,179,ind in groups,1,1
-5f20327646a7f03dda9b8964,179,ind in groups,1,1
-,179,group,0,1
-,179,nominal,1,0
-5d482ea521c9be351f7626bd,179,individual,1,0
-5f20311846a7f03dda9b86ee,179,individual,1,1
-5f2033ac46a7f03dda9b89de,179,individual,1,0
-5f20342e46a7f03dda9b8a00,179,individual,1,1
-5f2033ac46a7f03dda9b89de,179,ind in groups,0,0
-,179,group,1,1
-,179,nominal,0,0
-5d482ea521c9be351f762700,179,individual,0,1
-5d482ea621c9be351f7628ea,179,individual,0,0
-5d482ea721c9be351f762e62,179,individual,0,0
-5f20300046a7f03dda9b8683,179,individual,0,0
-5f20302846a7f03dda9b8687,179,individual,0,0
-5d482ea521c9be351f762700,179,ind in groups,1,1
-5d482ea621c9be351f7628ea,179,ind in groups,1,0
-5d482ea721c9be351f762e62,179,ind in groups,1,1
-5f20300046a7f03dda9b8683,179,ind in groups,1,1
-5f20302846a7f03dda9b8687,179,ind in groups,1,1
-,179,group,0,0
-,179,nominal,1,0
-,179,group,0,0
-,179,nominal,1,0
-5f18c89c46a7f03dda99e1d0,179,individual,1,1
-5f1a214246a7f03dda9a6aad,179,individual,1,0
-5f1f466846a7f03dda9b37c3,179,individual,1,0
-5f18c89c46a7f03dda99e1d0,179,ind in groups,0,0
-5f1a214246a7f03dda9a6aad,179,ind in groups,0,1
-5f1f466846a7f03dda9b37c3,179,ind in groups,0,0
+,0,group,0,0
+,0,nominal,1,1
+5d482ea421c9be351f762255,0,individual,1,1
+5e7e4f4c31f4e454e196c9c4,0,individual,1,1
+5e84cc3c50f6e364321d6265,0,individual,1,1
+5e8b6dd0b35db8283c501b7a,0,individual,1,0
+5d482ea421c9be351f762255,0,ind in groups,0,0
+5e31d6e4e31c5304c46f1413,0,ind in groups,0,1
+5e7e4f4c31f4e454e196c9c4,0,ind in groups,0,0
+,1,group,0,0
+,1,nominal,1,0
+5d482eab21c9be351f764234,1,individual,1,0
+5e8b6f06b35db8283c501ca6,1,individual,1,0
+5e9de4c49dc0406f8987224f,1,individual,1,0
+5e9de5be9dc0406f8987226c,1,individual,1,1
+5e8b6f06b35db8283c501ca6,1,ind in groups,0,0
+5e9de4c49dc0406f8987224f,1,ind in groups,0,1
+5e9de4e29dc0406f89872254,1,ind in groups,0,0
+5e9de5be9dc0406f8987226c,1,ind in groups,0,0
+,2,group,0,1
+,2,nominal,1,1
+5e877eb4a44a3116d9b95f15,2,individual,1,1
+5e8b395036ec0e1294b35f15,2,individual,1,0
+5e9de67c9dc0406f898722c3,2,individual,1,1
+5e877eb4a44a3116d9b95f15,2,ind in groups,0,1
+5e8b395036ec0e1294b35f15,2,ind in groups,0,1
+5e9de6b89dc0406f898722c6,2,ind in groups,0,1
+,3,group,1,1
+,3,nominal,0,0
+5e84cfe850f6e364321d63bf,3,individual,0,0
+5e9de4ce9dc0406f89872251,3,individual,0,1
+5e9de4ce9dc0406f89872253,3,individual,0,1
+5e9de4ec9dc0406f89872255,3,individual,0,1
+5e9de7589dc0406f898722cd,3,individual,0,0
+5e9dea789dc0406f89872547,3,individual,0,1
+5e9dec4e9dc0406f898726cd,3,individual,0,0
+5e84cfe850f6e364321d63bf,3,ind in groups,1,1
+5e9de4ce9dc0406f89872251,3,ind in groups,1,1
+5e9de4ce9dc0406f89872253,3,ind in groups,1,0
+5e9de4ec9dc0406f89872255,3,ind in groups,1,1
+5e9de7589dc0406f898722cd,3,ind in groups,1,1
+5e9dea789dc0406f89872547,3,ind in groups,1,1
+5e9dec4e9dc0406f898726cd,3,ind in groups,1,1
+,4,group,0,1
+,4,nominal,1,0
+5d482eab21c9be351f76415b,4,individual,1,1
+5e9f0e1c9dc0406f89874dcd,4,individual,1,0
+5e9f0ef89dc0406f89874ecc,4,individual,1,1
+5e9f0f209dc0406f89874f09,4,individual,1,1
+5e9f11d29dc0406f89875089,4,individual,1,1
+5e9f12229dc0406f898750a9,4,individual,1,1
+5e9f0e1c9dc0406f89874dcd,4,ind in groups,0,0
+5e9f0f209dc0406f89874f09,4,ind in groups,0,1
+,5,group,1,1
+,5,nominal,0,1
+5d482eab21c9be351f764270,5,individual,0,1
+5e873b6646f3b80a33438e79,5,individual,0,1
+5e9de80c9dc0406f898722dd,5,individual,0,1
+5e9f0b9c9dc0406f89874c96,5,individual,0,1
+5e9f0d869dc0406f89874dc3,5,individual,0,1
+5e9f0e9e9dc0406f89874e9d,5,individual,0,1
+5d482eab21c9be351f763ee2,5,ind in groups,1,0
+5e873b6646f3b80a33438e79,5,ind in groups,1,1
+5e9de80c9dc0406f898722dd,5,ind in groups,1,1
+5e9f0b9c9dc0406f89874c96,5,ind in groups,1,1
+5e9f0d869dc0406f89874dc3,5,ind in groups,1,1
+5e9f0e9e9dc0406f89874e9d,5,ind in groups,1,0
+,6,group,1,0
+,6,nominal,0,0
+5d482eab21c9be351f763f55,6,individual,0,0
+5d482eab21c9be351f7640b5,6,individual,0,0
+5d482eab21c9be351f7640bf,6,individual,0,1
+5e9de5509dc0406f89872263,6,individual,0,1
+5e9f0ac09dc0406f898749a1,6,individual,0,1
+5e9f0ac09dc0406f898749a2,6,individual,0,1
+5d482eab21c9be351f763f55,6,ind in groups,1,0
+5d482eab21c9be351f7640b5,6,ind in groups,1,0
+5d482eab21c9be351f7640bf,6,ind in groups,1,0
+5e9de5509dc0406f89872263,6,ind in groups,1,0
+5e9f0ac09dc0406f898749a1,6,ind in groups,1,0
+5e9f0ac09dc0406f898749a2,6,ind in groups,1,1
+,7,group,0,1
+,7,nominal,1,1
+5d482eab21c9be351f76412c,7,individual,1,1
+5e543e5ad1db96705ff13ef0,7,individual,1,1
+5e9de8489dc0406f898722ef,7,individual,1,1
+5e9dea1e9dc0406f89872527,7,individual,1,1
+5e9deb229dc0406f898725e9,7,individual,1,1
+5e9decf89dc0406f89872747,7,individual,1,0
+5d482eab21c9be351f76412c,7,ind in groups,0,0
+5e543e5ad1db96705ff13ef0,7,ind in groups,0,1
+5e877e32a44a3116d9b95ef1,7,ind in groups,0,0
+5e9de8489dc0406f898722ef,7,ind in groups,0,1
+5e9dea1e9dc0406f89872527,7,ind in groups,0,1
+5e9deb229dc0406f898725e9,7,ind in groups,0,0
+5e9decf89dc0406f89872747,7,ind in groups,0,1
+,8,group,0,1
+,8,nominal,1,0
+5d482ea821c9be351f763565,8,individual,1,1
+5e9deb409dc0406f898725ea,8,individual,1,0
+5e9f37529dc0406f89877680,8,individual,1,1
+5e9f4fc69dc0406f8987a506,8,individual,1,0
+5e9f50169dc0406f8987a5aa,8,individual,1,1
+5e9f51109dc0406f8987a7e0,8,individual,1,1
+5e9f53cc9dc0406f8987ac5a,8,individual,1,1
+5d482ea821c9be351f763565,8,ind in groups,0,0
+5e9deb409dc0406f898725ea,8,ind in groups,0,0
+5e9f37529dc0406f89877680,8,ind in groups,0,1
+5e9f4de69dc0406f8987a25d,8,ind in groups,0,1
+5e9f4fc69dc0406f8987a506,8,ind in groups,0,1
+5e9f50169dc0406f8987a5aa,8,ind in groups,0,1
+5e9f51109dc0406f8987a7e0,8,ind in groups,0,1
+5e9f53cc9dc0406f8987ac5a,8,ind in groups,0,1
+,9,group,1,0
+,9,nominal,0,0
+5d482eaa21c9be351f763bb5,9,individual,0,1
+5d482eaa21c9be351f763c90,9,individual,0,0
+5d482eaa21c9be351f763d6b,9,individual,0,0
+5d482eab21c9be351f7641ca,9,individual,0,0
+5e9f48469dc0406f8987976c,9,individual,0,1
+5d482eaa21c9be351f763bb5,9,ind in groups,1,0
+5d482eaa21c9be351f763c90,9,ind in groups,1,1
+5d482eaa21c9be351f763d6b,9,ind in groups,1,1
+5d482eab21c9be351f764047,9,ind in groups,1,0
+5d482eab21c9be351f7641ca,9,ind in groups,1,0
+5e9f48469dc0406f8987976c,9,ind in groups,1,1
+,10,group,1,1
+,10,nominal,0,0
+5e31d6b2e31c5304c46f140a,10,individual,0,0
+5e84cbb050f6e364321d6258,10,individual,0,1
+5e9f3a0e9dc0406f898777e6,10,individual,0,1
+5e9f42d89dc0406f89878720,10,individual,0,1
+5e9f433c9dc0406f898787dd,10,individual,0,1
+5e31d6b2e31c5304c46f140a,10,ind in groups,1,1
+5e84cbb050f6e364321d6258,10,ind in groups,1,1
+5e9de7129dc0406f898722c9,10,ind in groups,1,0
+5e9f3a0e9dc0406f898777e6,10,ind in groups,1,1
+5e9f42d89dc0406f89878720,10,ind in groups,1,1
+5e9f433c9dc0406f898787dd,10,ind in groups,1,1
+,11,group,0,1
+,11,nominal,1,1
+5e873eea46f3b80a33438f43,11,individual,1,1
+5e9f0b249dc0406f89874b78,11,individual,1,0
+5e9f40089dc0406f8987805e,11,individual,1,0
+5e9f40129dc0406f89878121,11,individual,1,1
+5e873eea46f3b80a33438f43,11,ind in groups,0,1
+5e9f0b249dc0406f89874b78,11,ind in groups,0,0
+5e9f3dd89dc0406f89877d08,11,ind in groups,0,1
+5e9f40089dc0406f8987805e,11,ind in groups,0,0
+5e9f40129dc0406f89878121,11,ind in groups,0,0
+5e9f42069dc0406f89878581,11,ind in groups,0,1
+,12,group,1,1
+,12,nominal,0,1
+5d482eab21c9be351f763fa9,12,individual,0,0
+5d482eab21c9be351f764056,12,individual,0,1
+5d482eab21c9be351f764150,12,individual,0,1
+5e84ccaa50f6e364321d626c,12,individual,0,1
+5e9f12369dc0406f8987514b,12,individual,0,1
+5e9f36e49dc0406f8987767c,12,individual,0,1
+5e9f37669dc0406f89877682,12,individual,0,1
+5d482eab21c9be351f763fa9,12,ind in groups,1,1
+5d482eab21c9be351f764150,12,ind in groups,1,1
+5e84ccaa50f6e364321d626c,12,ind in groups,1,1
+5e9f12369dc0406f8987514b,12,ind in groups,1,1
+5e9f36e49dc0406f8987767c,12,ind in groups,1,1
+5e9f37669dc0406f89877682,12,ind in groups,1,1
+,13,group,0,1
+,13,nominal,1,0
+5e9de5329dc0406f8987225e,13,individual,1,1
+5e9f0ade9dc0406f898749a7,13,individual,1,1
+5e9f35ea9dc0406f89877613,13,individual,1,0
+5e9f3a0e9dc0406f898777e7,13,individual,1,1
+5e9de5329dc0406f8987225e,13,ind in groups,0,1
+5e9f0ade9dc0406f898749a7,13,ind in groups,0,1
+5e9f35ea9dc0406f89877613,13,ind in groups,0,1
+5e9f39d29dc0406f898777bf,13,ind in groups,0,1
+5e9f3a0e9dc0406f898777e7,13,ind in groups,0,1
+,14,group,0,1
+,14,nominal,1,1
+5d482eab21c9be351f763ec2,14,individual,1,1
+5d482eab21c9be351f76409f,14,individual,1,1
+5d482eab21c9be351f764242,14,individual,1,0
+5e8b38f636ec0e1294b35f12,14,individual,1,1
+5e9f35fe9dc0406f89877614,14,individual,1,0
+5e9f36309dc0406f89877619,14,individual,1,0
+5d482eab21c9be351f763ec2,14,ind in groups,0,1
+5d482eab21c9be351f76409f,14,ind in groups,0,0
+5d482eab21c9be351f764242,14,ind in groups,0,1
+5e9f35fe9dc0406f89877614,14,ind in groups,0,1
+5e9f36309dc0406f89877619,14,ind in groups,0,0
+,15,group,0,0
+,15,nominal,1,0
+5e877a0ea44a3116d9b95d26,15,individual,1,1
+5e877f2ca44a3116d9b95f1d,15,individual,1,0
+5d482eab21c9be351f7640ac,15,ind in groups,0,1
+5e877a0ea44a3116d9b95d26,15,ind in groups,0,0
+5e877f2ca44a3116d9b95f1d,15,ind in groups,0,0
+,16,group,0,1
+,16,nominal,1,1
+5e9f36449dc0406f8987761b,16,individual,1,1
+5ea0740a9dc0406f8987d411,16,individual,1,1
+5ea077a29dc0406f8987e162,16,individual,1,1
+5d482ea921c9be351f763607,16,ind in groups,0,0
+5e9f36449dc0406f8987761b,16,ind in groups,0,1
+5ea0740a9dc0406f8987d411,16,ind in groups,0,1
+5ea077a29dc0406f8987e162,16,ind in groups,0,1
+5ea079969dc0406f8987ea64,16,ind in groups,0,0
+,17,group,0,0
+,17,nominal,1,1
+5d482ea921c9be351f763619,17,individual,1,1
+5d482ea921c9be351f7637ac,17,individual,1,1
+5d482eab21c9be351f763e76,17,individual,1,1
+5e543be4d1db96705ff13dc6,17,individual,1,1
+5e9f4c929dc0406f89879f11,17,individual,1,0
+5ea076809dc0406f8987dd98,17,individual,1,0
+5d482ea921c9be351f763619,17,ind in groups,0,1
+5d482ea921c9be351f763704,17,ind in groups,0,0
+5d482ea921c9be351f7637ac,17,ind in groups,0,1
+5d482ea921c9be351f763800,17,ind in groups,0,1
+5d482eab21c9be351f763e76,17,ind in groups,0,0
+5e543be4d1db96705ff13dc6,17,ind in groups,0,0
+5e9f4c929dc0406f89879f11,17,ind in groups,0,0
+5ea076809dc0406f8987dd98,17,ind in groups,0,0
+,18,group,1,1
+,18,nominal,0,0
+5d482ea921c9be351f7636ad,18,individual,0,1
+5d482eaa21c9be351f76396d,18,individual,0,1
+5ea06c089dc0406f8987c3c6,18,individual,0,1
+5ea0720c9dc0406f8987ce48,18,individual,0,0
+5d482ea921c9be351f7636ad,18,ind in groups,1,1
+5d482ea921c9be351f763783,18,ind in groups,1,1
+5d482eaa21c9be351f76396d,18,ind in groups,1,1
+5ea06c089dc0406f8987c3c6,18,ind in groups,1,1
+5ea0720c9dc0406f8987ce48,18,ind in groups,1,1
+,19,group,0,0
+,19,nominal,1,0
+5d482eaa21c9be351f7639b8,19,individual,1,1
+5d482eaa21c9be351f7639f7,19,individual,1,1
+5d482eab21c9be351f763e0a,19,individual,1,1
+5ea06e7e9dc0406f8987c6ee,19,individual,1,0
+5ea06f469dc0406f8987c82e,19,individual,1,1
+5d482eaa21c9be351f7639b8,19,ind in groups,0,1
+5d482eaa21c9be351f7639f7,19,ind in groups,0,1
+5d482eab21c9be351f763e0a,19,ind in groups,0,1
+5ea06e7e9dc0406f8987c6ee,19,ind in groups,0,0
+5ea06f469dc0406f8987c82e,19,ind in groups,0,0
+,20,group,0,1
+,20,nominal,1,1
+5d482ea921c9be351f7638f9,20,individual,1,1
+5d482eaa21c9be351f763af2,20,individual,1,1
+5d482eaa21c9be351f763ae5,20,individual,1,0
+5d482eaa21c9be351f763b64,20,individual,1,0
+5d482eaa21c9be351f763c0e,20,individual,1,1
+5d482eaa21c9be351f763dc7,20,individual,1,1
+5e9f44049dc0406f898789b2,20,individual,1,1
+5d482ea921c9be351f7638f9,20,ind in groups,0,0
+5d482eaa21c9be351f763ae5,20,ind in groups,0,1
+5d482eaa21c9be351f763b64,20,ind in groups,0,1
+5d482eaa21c9be351f763c0e,20,ind in groups,0,1
+5d482eaa21c9be351f763dc7,20,ind in groups,0,1
+5d482eaa21c9be351f763db1,20,ind in groups,0,1
+5e9f44049dc0406f898789b2,20,ind in groups,0,1
+,21,group,1,0
+,21,nominal,0,0
+5d482eaa21c9be351f763a45,21,individual,0,0
+5e9f4d469dc0406f8987a196,21,individual,0,0
+5ea076269dc0406f8987dbf8,21,individual,0,1
+5ea07d9c9dc0406f89880001,21,individual,0,0
+5d482ea921c9be351f763808,21,ind in groups,1,0
+5d482eaa21c9be351f763a45,21,ind in groups,1,1
+5e9f4d469dc0406f8987a196,21,ind in groups,1,1
+5ea076269dc0406f8987dbf8,21,ind in groups,1,1
+5ea07d9c9dc0406f89880001,21,ind in groups,1,1
+,22,group,1,1
+,22,nominal,0,0
+5d482ea921c9be351f7637e0,22,individual,0,1
+5d482eaa21c9be351f763da6,22,individual,0,1
+5ea098d69dc0406f89883084,22,individual,0,1
+5ea0998a9dc0406f8988308f,22,individual,0,1
+5ea099d09dc0406f898830a9,22,individual,0,1
+5d482ea921c9be351f7637e0,22,ind in groups,1,1
+5d482eaa21c9be351f763cc6,22,ind in groups,1,1
+5d482eaa21c9be351f763da6,22,ind in groups,1,1
+5ea098d69dc0406f89883084,22,ind in groups,1,1
+5ea0998a9dc0406f8988308f,22,ind in groups,1,1
+5ea099d09dc0406f898830a9,22,ind in groups,1,1
+,23,group,1,1
+,23,nominal,0,1
+5d482ea721c9be351f762e70,23,individual,0,1
+5d482ea821c9be351f763117,23,individual,0,1
+5d482ea821c9be351f76315c,23,individual,0,0
+5d482ea821c9be351f76325f,23,individual,0,1
+5d482ea821c9be351f763382,23,individual,0,0
+5d482eab21c9be351f763ea6,23,individual,0,0
+5d482ea721c9be351f762e70,23,ind in groups,1,1
+5d482ea821c9be351f76315c,23,ind in groups,1,1
+5d482ea821c9be351f76325f,23,ind in groups,1,1
+5d482ea821c9be351f763382,23,ind in groups,1,1
+5d482eab21c9be351f763ea6,23,ind in groups,1,1
+,24,group,1,1
+,24,nominal,0,0
+5d482ea721c9be351f762f36,24,individual,0,0
+5d482ea721c9be351f763052,24,individual,0,1
+5d482ea821c9be351f76349b,24,individual,0,0
+5d482eaa21c9be351f763c24,24,individual,0,0
+5d482ea721c9be351f762f36,24,ind in groups,1,1
+5d482ea721c9be351f762f60,24,ind in groups,1,0
+5d482ea721c9be351f763052,24,ind in groups,1,1
+5d482ea821c9be351f7631c5,24,ind in groups,1,1
+5d482ea821c9be351f76349b,24,ind in groups,1,1
+5d482eaa21c9be351f763c24,24,ind in groups,1,0
+,25,group,0,1
+,25,nominal,1,0
+5d482ea721c9be351f762f0a,25,individual,1,1
+5d482ea921c9be351f76365b,25,individual,1,1
+5d482eab21c9be351f763e1b,25,individual,1,1
+5d482ea721c9be351f762efd,25,ind in groups,0,1
+5d482ea721c9be351f762f0a,25,ind in groups,0,1
+5d482ea921c9be351f76365b,25,ind in groups,0,1
+5d482eab21c9be351f763e1b,25,ind in groups,0,1
+,26,group,0,0
+,26,nominal,1,1
+5d482ea821c9be351f76312e,26,individual,1,1
+5d482ea821c9be351f7634b2,26,individual,1,1
+5d482ea721c9be351f762ef8,26,ind in groups,0,0
+5d482ea821c9be351f7634b2,26,ind in groups,0,1
+,27,group,0,1
+,27,nominal,1,1
+5d482ea721c9be351f762eeb,27,individual,1,1
+5d482ea821c9be351f7631eb,27,individual,1,1
+5d482eaa21c9be351f76399c,27,individual,1,1
+5e9f366c9dc0406f8987761f,27,individual,1,1
+5e9f38249dc0406f8987768b,27,individual,1,1
+5d482ea721c9be351f762eeb,27,ind in groups,0,1
+5e9f366c9dc0406f8987761f,27,ind in groups,0,1
+,28,group,0,0
+,28,nominal,1,0
+5d482ea821c9be351f7630e1,28,individual,1,1
+5d482ea821c9be351f7633b5,28,individual,1,0
+5d482eaa21c9be351f763b0f,28,individual,1,0
+5d482eab21c9be351f763eae,28,individual,1,1
+5ea0969c9dc0406f8988301d,28,individual,1,1
+5ea0c87e9dc0406f898895c7,28,individual,1,1
+5ea0ca2c9dc0406f89889629,28,individual,1,1
+5d482ea821c9be351f7630e1,28,ind in groups,0,0
+5d482ea821c9be351f7633b5,28,ind in groups,0,1
+5d482eaa21c9be351f763b0f,28,ind in groups,0,0
+5d482eab21c9be351f763eae,28,ind in groups,0,0
+5ea0c87e9dc0406f898895c7,28,ind in groups,0,0
+5ea0ca2c9dc0406f89889629,28,ind in groups,0,0
+,29,group,0,1
+,29,nominal,1,0
+5d482eab21c9be351f763e96,29,individual,1,0
+5d482eab21c9be351f7640f7,29,individual,1,1
+5e9f147a9dc0406f898754ae,29,individual,1,0
+5d482ea721c9be351f762f75,29,ind in groups,0,1
+5d482eab21c9be351f763e96,29,ind in groups,0,1
+5e9f147a9dc0406f898754ae,29,ind in groups,0,1
+,30,group,0,1
+,30,nominal,1,1
+5d482eab21c9be351f763fb1,30,individual,1,1
+5d482eab21c9be351f764111,30,individual,1,0
+5ea06bb89dc0406f8987c3bf,30,individual,1,0
+5ea07c529dc0406f8987f80b,30,individual,1,1
+5ea0a13c9dc0406f89883cf0,30,individual,1,1
+5ea0a7869dc0406f89885172,30,individual,1,1
+5ea0a7ae9dc0406f898851f0,30,individual,1,1
+5d482eab21c9be351f763fb1,30,ind in groups,0,1
+5d482eab21c9be351f764111,30,ind in groups,0,0
+5ea06bb89dc0406f8987c3bf,30,ind in groups,0,0
+5ea07c529dc0406f8987f80b,30,ind in groups,0,1
+5ea0a13c9dc0406f89883cf0,30,ind in groups,0,1
+5ea0a7869dc0406f89885172,30,ind in groups,0,1
+5ea0a7ae9dc0406f898851f0,30,ind in groups,0,1
+,31,group,1,1
+,31,nominal,0,0
+5e9f3b1c9dc0406f89877985,31,individual,0,1
+5ea0ce1e9dc0406f898899ba,31,individual,0,0
+5ea0cefa9dc0406f89889adc,31,individual,0,1
+5d482ea821c9be351f763452,31,ind in groups,1,1
+5d482eaa21c9be351f763936,31,ind in groups,1,1
+5e9f3b1c9dc0406f89877985,31,ind in groups,1,0
+5ea0ce1e9dc0406f898899ba,31,ind in groups,1,1
+5ea0cefa9dc0406f89889adc,31,ind in groups,1,1
+,32,group,0,1
+,32,nominal,1,1
+5d482ea921c9be351f76358a,32,individual,1,1
+5d482ea821c9be351f763550,32,individual,1,0
+5d482ea921c9be351f7636b3,32,individual,1,0
+5ea0d1529dc0406f89889dde,32,individual,1,1
+5d482ea921c9be351f76358a,32,ind in groups,0,1
+5d482ea821c9be351f763550,32,ind in groups,0,0
+5d482ea921c9be351f7636b3,32,ind in groups,0,1
+5ea0d1529dc0406f89889dde,32,ind in groups,0,0
+5ea0d24c9dc0406f89889f5f,32,ind in groups,0,1
+,33,group,0,1
+,33,nominal,1,1
+5d482eaa21c9be351f763afc,33,individual,1,1
+5d482eaa21c9be351f763bbc,33,individual,1,0
+5ea0d1f29dc0406f89889eef,33,individual,1,1
+5ea0d59e9dc0406f8988a5f0,33,individual,1,0
+5d482eaa21c9be351f763afc,33,ind in groups,0,0
+5d482eaa21c9be351f763bbc,33,ind in groups,0,0
+5de2adbcb50e5a679ae8695b,33,ind in groups,0,1
+5ea0d1f29dc0406f89889eef,33,ind in groups,0,1
+5ea0d59e9dc0406f8988a5f0,33,ind in groups,0,1
+,34,group,0,0
+,34,nominal,1,0
+5d482ea821c9be351f763456,34,individual,1,0
+5d482ea921c9be351f763785,34,individual,1,1
+5d482ea921c9be351f763899,34,individual,1,0
+5d482eaa21c9be351f763d5d,34,individual,1,0
+5d482ea721c9be351f76308e,34,ind in groups,0,1
+5d482ea821c9be351f763456,34,ind in groups,0,0
+5d482ea921c9be351f763785,34,ind in groups,0,0
+5d482eaa21c9be351f763d5d,34,ind in groups,0,0
+5d482eab21c9be351f764138,34,ind in groups,0,1
+,35,group,0,1
+,35,nominal,1,1
+5d482ea821c9be351f76310c,35,individual,1,1
+5d482eaa21c9be351f763a5f,35,individual,1,1
+5d482eaa21c9be351f763b6e,35,individual,1,1
+5d482eaa21c9be351f763af0,35,individual,1,0
+5d482ea821c9be351f76310c,35,ind in groups,0,1
+5d482ea921c9be351f7636fb,35,ind in groups,0,1
+5d482eaa21c9be351f763a5f,35,ind in groups,0,1
+5d482eaa21c9be351f763b6e,35,ind in groups,0,0
+5d482eaa21c9be351f763af0,35,ind in groups,0,1
+,36,group,1,1
+,36,nominal,0,1
+5d482ea721c9be351f762dbf,36,individual,0,1
+5d482ea721c9be351f762fb3,36,individual,0,1
+5d482ea821c9be351f76322c,36,individual,0,1
+5d482ea821c9be351f763435,36,individual,0,1
+5d482eaa21c9be351f763da2,36,individual,0,1
+5d482ea721c9be351f762dbf,36,ind in groups,1,1
+,37,group,1,0
+,37,nominal,0,1
+5d482ea721c9be351f762d69,37,individual,0,1
+5d482ea721c9be351f762e2b,37,individual,0,0
+5d482ea821c9be351f76309e,37,individual,0,1
+5d482ea821c9be351f763232,37,individual,0,1
+5ea1a6e0de5d74641b66d1d6,37,individual,0,1
+5d482ea721c9be351f762d69,37,ind in groups,1,0
+5d482ea721c9be351f762e2b,37,ind in groups,1,1
+5d482ea821c9be351f763232,37,ind in groups,1,1
+5ea1a6e0de5d74641b66d1d6,37,ind in groups,1,0
+,38,group,1,1
+,38,nominal,0,0
+5d482ea721c9be351f762d81,38,individual,0,1
+5d482ea721c9be351f762e52,38,individual,0,1
+5d482eaa21c9be351f763a08,38,individual,0,1
+5e9de5329dc0406f8987225d,38,individual,0,0
+5e9f0aa29dc0406f8987499b,38,individual,0,0
+5ea0ded69dc0406f8988c09b,38,individual,0,1
+5ea1ab72de5d74641b66d75b,38,individual,0,1
+5ea1b66cde5d74641b66face,38,individual,0,0
+5d482ea721c9be351f762d81,38,ind in groups,1,1
+5d482ea721c9be351f762e52,38,ind in groups,1,1
+5d482eaa21c9be351f763a08,38,ind in groups,1,1
+5e9de5329dc0406f8987225d,38,ind in groups,1,1
+5e9f0aa29dc0406f8987499b,38,ind in groups,1,0
+5ea1ab72de5d74641b66d75b,38,ind in groups,1,0
+5ea1b66cde5d74641b66face,38,ind in groups,1,0
+,39,group,0,1
+,39,nominal,1,0
+5d482ea721c9be351f762f2e,39,individual,1,1
+5d482ea821c9be351f7630f1,39,individual,1,1
+5e9dec449dc0406f898726b6,39,individual,1,0
+5ea13390de5d74641b66beae,39,individual,1,1
+5ea1a668de5d74641b66d167,39,individual,1,1
+5ea1bb26de5d74641b6702ec,39,individual,1,0
+5ea1bd4cde5d74641b6704e8,39,individual,1,0
+5d482ea721c9be351f762f2e,39,ind in groups,0,1
+5d482ea821c9be351f7630f1,39,ind in groups,0,0
+5e9dec449dc0406f898726b6,39,ind in groups,0,1
+5ea13390de5d74641b66beae,39,ind in groups,0,1
+5ea1bd4cde5d74641b6704e8,39,ind in groups,0,1
+,40,group,0,0
+,40,nominal,1,0
+5ea097789dc0406f8988302a,40,individual,1,0
+5ea0deb89dc0406f8988c091,40,individual,1,1
+5ea1b78ede5d74641b66fda3,40,individual,1,1
+5ea1bc66de5d74641b6704c6,40,individual,1,1
+5d482eaa21c9be351f763ad8,40,ind in groups,0,0
+5ea097789dc0406f8988302a,40,ind in groups,0,1
+5ea0deb89dc0406f8988c091,40,ind in groups,0,1
+5ea0e0529dc0406f8988c4c6,40,ind in groups,0,1
+5ea0f0f69dc0406f8988e1fc,40,ind in groups,0,0
+5ea1b78ede5d74641b66fda3,40,ind in groups,0,1
+,41,group,1,0
+,41,nominal,0,0
+5d482ea621c9be351f762a2a,41,individual,0,0
+5d482ea721c9be351f762f7e,41,individual,0,0
+5d482eab21c9be351f763f3a,41,individual,0,1
+5e821b4050f6e364321d5499,41,individual,0,1
+5ea0dcce9dc0406f8988bbd8,41,individual,0,1
+5d482ea621c9be351f762a2a,41,ind in groups,1,0
+5d482ea721c9be351f762f7e,41,ind in groups,1,1
+5d482eab21c9be351f763f3a,41,ind in groups,1,0
+5e821b4050f6e364321d5499,41,ind in groups,1,0
+5ea0dcce9dc0406f8988bbd8,41,ind in groups,1,0
+5ea1d46cde5d74641b671c8f,41,ind in groups,1,1
+,42,group,1,0
+,42,nominal,0,0
+5d482ea621c9be351f762aa4,42,individual,0,1
+5d482ea621c9be351f762bd2,42,individual,0,1
+5d482ea721c9be351f762ca3,42,individual,0,0
+5d482ea721c9be351f762dda,42,individual,0,0
+5d482ea821c9be351f7631f3,42,individual,0,1
+5d482ea621c9be351f762aa4,42,ind in groups,1,0
+5d482ea621c9be351f762bca,42,ind in groups,1,1
+5d482ea721c9be351f762ca3,42,ind in groups,1,0
+5d482ea721c9be351f762dda,42,ind in groups,1,0
+,43,group,0,1
+,43,nominal,1,1
+5d482ea621c9be351f7627c6,43,individual,1,1
+5d482ea621c9be351f76281b,43,individual,1,0
+5d482ea721c9be351f762c1d,43,individual,1,1
+5d482ea921c9be351f7636cd,43,individual,1,1
+5ea1d700de5d74641b671ed0,43,individual,1,0
+5d482ea621c9be351f7627c6,43,ind in groups,0,1
+5d482ea621c9be351f76281b,43,ind in groups,0,1
+5d482ea721c9be351f762c1d,43,ind in groups,0,1
+5d482ea921c9be351f7636cd,43,ind in groups,0,1
+5ea1d700de5d74641b671ed0,43,ind in groups,0,1
+,44,group,0,0
+,44,nominal,1,1
+5d482ea521c9be351f762653,44,individual,1,1
+5d482ea621c9be351f762779,44,individual,1,1
+5d482ea621c9be351f7629ad,44,individual,1,0
+5d482ea921c9be351f7637a0,44,individual,1,1
+5ea1c742de5d74641b670c40,44,individual,1,1
+5d482ea521c9be351f762653,44,ind in groups,0,0
+5d482ea621c9be351f762779,44,ind in groups,0,1
+5d482ea621c9be351f7628db,44,ind in groups,0,0
+5d482ea621c9be351f7629ad,44,ind in groups,0,1
+5d482ea921c9be351f7637a0,44,ind in groups,0,1
+5ea1c742de5d74641b670c40,44,ind in groups,0,0
+,45,group,0,0
+,45,nominal,1,1
+5d482ea521c9be351f762719,45,individual,1,1
+5d482ea621c9be351f7628c8,45,individual,1,1
+5d482ea621c9be351f76297b,45,individual,1,0
+5d482ea621c9be351f7629b7,45,individual,1,1
+5d482ea721c9be351f76306b,45,individual,1,1
+5e9f4f9e9dc0406f8987a4fe,45,individual,1,1
+5d482ea521c9be351f762719,45,ind in groups,0,1
+5d482ea621c9be351f7628c8,45,ind in groups,0,1
+5d482ea621c9be351f76297b,45,ind in groups,0,1
+5d482ea621c9be351f7629b7,45,ind in groups,0,1
+5d482ea721c9be351f76306b,45,ind in groups,0,1
+5e9f4f9e9dc0406f8987a4fe,45,ind in groups,0,1
+,46,group,1,1
+,46,nominal,0,0
+5d482ea521c9be351f7625cb,46,individual,0,1
+5d482ea621c9be351f76273d,46,individual,0,0
+5d482ea621c9be351f7627ce,46,individual,0,1
+5d482ea621c9be351f762868,46,individual,0,0
+5d482ea621c9be351f762881,46,individual,0,0
+5d482ea621c9be351f76287b,46,individual,0,1
+5d482ea621c9be351f762976,46,individual,0,0
+5d482ea621c9be351f762bbf,46,individual,0,1
+5d482ea521c9be351f7625cb,46,ind in groups,1,0
+5d482ea621c9be351f76273d,46,ind in groups,1,0
+5d482ea621c9be351f7627ce,46,ind in groups,1,1
+5d482ea621c9be351f762868,46,ind in groups,1,1
+5d482ea621c9be351f762881,46,ind in groups,1,1
+5d482ea621c9be351f76287b,46,ind in groups,1,0
+5d482ea621c9be351f762976,46,ind in groups,1,1
+5d482ea621c9be351f762bbf,46,ind in groups,1,0
+,47,group,0,1
+,47,nominal,1,1
+5d482ea621c9be351f762911,47,individual,1,1
+5d482ea621c9be351f762a97,47,individual,1,1
+5d482ea721c9be351f762cb3,47,individual,1,1
+5ea0d2929dc0406f89889f9f,47,individual,1,0
+5ea12e4ade5d74641b66be98,47,individual,1,1
+5d482ea621c9be351f762911,47,ind in groups,0,1
+5d482ea621c9be351f762a97,47,ind in groups,0,1
+5d482ea721c9be351f762cb3,47,ind in groups,0,0
+5ea0d2929dc0406f89889f9f,47,ind in groups,0,1
+5ea12e4ade5d74641b66be98,47,ind in groups,0,1
+,48,group,1,1
+,48,nominal,0,1
+5d482eaa21c9be351f763bda,48,individual,0,0
+5ea1d246de5d74641b67178a,48,individual,0,1
+5ea6f4d8002f966295b1fff4,48,individual,0,0
+5ea6f6e0002f966295b20011,48,individual,0,1
+5ea6f820002f966295b20060,48,individual,0,1
+5ea6f884002f966295b20062,48,individual,0,1
+5d482eaa21c9be351f763bda,48,ind in groups,1,1
+5ea1d246de5d74641b67178a,48,ind in groups,1,1
+5ea6f4d8002f966295b1fff4,48,ind in groups,1,1
+5ea6f820002f966295b20060,48,ind in groups,1,1
+5ea6f884002f966295b20062,48,ind in groups,1,1
+,49,group,1,1
+,49,nominal,0,0
+5d482eaa21c9be351f763c05,49,individual,0,1
+5d482eaa21c9be351f763be9,49,individual,0,1
+5d482eaa21c9be351f763d2b,49,individual,0,1
+5ea0dd3c9dc0406f8988bd94,49,individual,0,0
+5ea6f550002f966295b1fffc,49,individual,0,0
+5ea6f550002f966295b1fffd,49,individual,0,1
+5ea6f596002f966295b20001,49,individual,0,1
+5ea6f618002f966295b20008,49,individual,0,1
+5ea6f7b2002f966295b2001f,49,individual,0,1
+5d482eaa21c9be351f763c05,49,ind in groups,1,1
+5d482eaa21c9be351f763be9,49,ind in groups,1,1
+5d482eaa21c9be351f763d2b,49,ind in groups,1,1
+5ea0dd3c9dc0406f8988bd94,49,ind in groups,1,1
+5ea6f550002f966295b1fffc,49,ind in groups,1,1
+5ea6f550002f966295b1fffd,49,ind in groups,1,1
+5ea6f596002f966295b20001,49,ind in groups,1,1
+5ea6f618002f966295b20008,49,ind in groups,1,1
+5ea6f7b2002f966295b2001f,49,ind in groups,1,1
+,50,group,1,1
+,50,nominal,0,1
+5d482ea621c9be351f7629da,50,individual,0,0
+5d482ea621c9be351f762a16,50,individual,0,0
+5d482ea621c9be351f7629f2,50,individual,0,1
+5ea721c43ecdad55471ffa70,50,individual,0,1
+5d482ea621c9be351f7629da,50,ind in groups,1,1
+5d482ea621c9be351f762a16,50,ind in groups,1,1
+5d482ea621c9be351f7629f2,50,ind in groups,1,1
+5d482ea721c9be351f762c75,50,ind in groups,1,1
+5ea721c43ecdad55471ffa70,50,ind in groups,1,1
+,51,group,1,1
+,51,nominal,0,1
+5d482ea521c9be351f762519,51,individual,0,1
+5d482ea521c9be351f76254b,51,individual,0,0
+5d482ea521c9be351f762540,51,individual,0,1
+5d482ea521c9be351f762586,51,individual,0,1
+5d482ea521c9be351f76270e,51,individual,0,1
+5d482ea621c9be351f762886,51,individual,0,1
+5d482eab21c9be351f763df5,51,individual,0,1
+5d482ea521c9be351f762519,51,ind in groups,1,1
+5d482ea521c9be351f76254b,51,ind in groups,1,1
+5d482ea521c9be351f762540,51,ind in groups,1,1
+5d482ea521c9be351f762586,51,ind in groups,1,0
+5d482ea521c9be351f76270e,51,ind in groups,1,1
+5d482ea621c9be351f762886,51,ind in groups,1,0
+5d482eab21c9be351f763df5,51,ind in groups,1,0
+,52,group,0,1
+,52,nominal,1,0
+5d482ea521c9be351f7624c6,52,individual,1,0
+5d482ea521c9be351f7625cc,52,individual,1,1
+5d482ea521c9be351f7626f2,52,individual,1,0
+5d482ea621c9be351f76295f,52,individual,1,0
+5ea724e43ecdad55471ffdce,52,individual,1,1
+5ea728b83ecdad55472000c2,52,individual,1,1
+5d482ea521c9be351f7624c6,52,ind in groups,0,0
+5d482ea521c9be351f7625cc,52,ind in groups,0,0
+5d482ea521c9be351f7626f2,52,ind in groups,0,0
+5d482ea621c9be351f76295f,52,ind in groups,0,1
+5ea724e43ecdad55471ffdce,52,ind in groups,0,1
+5ea728b83ecdad55472000c2,52,ind in groups,0,0
+,53,group,1,1
+,53,nominal,0,0
+5ea634947c882f6974ff30ff,53,individual,0,1
+5ea721e23ecdad55471ffa74,53,individual,0,1
+5d482ea721c9be351f762be2,53,ind in groups,1,1
+5ea12f30de5d74641b66be9c,53,ind in groups,1,1
+5ea1db9cde5d74641b672eca,53,ind in groups,1,1
+5ea634947c882f6974ff30ff,53,ind in groups,1,1
+,54,group,1,0
+,54,nominal,0,1
+5d482ea721c9be351f762cc8,54,individual,0,1
+5d482ea921c9be351f76373a,54,individual,0,1
+5d482eab21c9be351f7640eb,54,individual,0,1
+5ea632967c882f6974ff2f5d,54,individual,0,1
+5ea6f910002f966295b2006a,54,individual,0,0
+5ea71fee3ecdad55471ff9b9,54,individual,0,1
+5d482ea721c9be351f762cc8,54,ind in groups,1,0
+5d482eab21c9be351f7640eb,54,ind in groups,1,0
+5ea6f910002f966295b2006a,54,ind in groups,1,1
+5ea71fee3ecdad55471ff9b9,54,ind in groups,1,0
+,55,group,0,1
+,55,nominal,1,0
+5d482eaa21c9be351f763cdf,55,individual,1,0
+5ea1e538de5d74641b67621a,55,individual,1,1
+5ea63e627c882f6974ff3235,55,individual,1,1
+5ea6f500002f966295b1fff8,55,individual,1,0
+5ea71efe3ecdad55471ff9a6,55,individual,1,1
+5d482eaa21c9be351f763cdf,55,ind in groups,0,1
+5ea1e538de5d74641b67621a,55,ind in groups,0,1
+5ea63e627c882f6974ff3235,55,ind in groups,0,1
+5ea6f500002f966295b1fff8,55,ind in groups,0,1
+5ea71efe3ecdad55471ff9a6,55,ind in groups,0,1
+,56,group,1,1
+,56,nominal,0,1
+5d482ea721c9be351f762d4f,56,individual,0,1
+5d482ea821c9be351f763208,56,individual,0,1
+5d482ea821c9be351f76354a,56,individual,0,1
+5d482eaa21c9be351f763baf,56,individual,0,1
+5ea63ba67c882f6974ff320d,56,individual,0,1
+5d482ea821c9be351f763208,56,ind in groups,1,1
+5d482ea821c9be351f76354a,56,ind in groups,1,1
+5ea63ba67c882f6974ff320d,56,ind in groups,1,1
+,57,group,1,1
+,57,nominal,0,1
+5d482ea721c9be351f762d44,57,individual,0,0
+5d482ea821c9be351f76344b,57,individual,0,1
+5d482ea921c9be351f7635e8,57,individual,0,1
+5d482ea921c9be351f7638fe,57,individual,0,0
+5d482eaa21c9be351f763908,57,individual,0,1
+5d482eaa21c9be351f763c82,57,individual,0,1
+5d482eab21c9be351f763de7,57,individual,0,1
+5ea1d192de5d74641b671760,57,individual,0,1
+5ea6f7b2002f966295b20020,57,individual,0,1
+5d482ea721c9be351f762d44,57,ind in groups,1,1
+5d482ea921c9be351f7635e8,57,ind in groups,1,1
+5d482eaa21c9be351f763908,57,ind in groups,1,1
+5d482eaa21c9be351f763c82,57,ind in groups,1,1
+5d482eab21c9be351f763de7,57,ind in groups,1,0
+5ea1d192de5d74641b671760,57,ind in groups,1,0
+5ea6f7b2002f966295b20020,57,ind in groups,1,1
+,58,group,0,1
+,58,nominal,1,1
+5d482ea721c9be351f762f61,58,individual,1,0
+5d482ea821c9be351f7631ba,58,individual,1,1
+5ea6fb5e002f966295b2008c,58,individual,1,1
+5ea6fc58002f966295b20107,58,individual,1,1
+5ea7338a3ecdad5547202357,58,individual,1,0
+5ea735f63ecdad5547202cb0,58,individual,1,0
+5ea7381c3ecdad5547203134,58,individual,1,1
+5d482ea721c9be351f762f61,58,ind in groups,0,1
+5d482ea821c9be351f7631ba,58,ind in groups,0,1
+5ea6fb5e002f966295b2008c,58,ind in groups,0,1
+5ea6fc58002f966295b20107,58,ind in groups,0,1
+5ea7338a3ecdad5547202357,58,ind in groups,0,1
+5ea735f63ecdad5547202cb0,58,ind in groups,0,1
+5ea7381c3ecdad5547203134,58,ind in groups,0,0
+,59,group,0,0
+,59,nominal,1,1
+5d482ea621c9be351f762b21,59,individual,1,1
+5d482ea721c9be351f762ce8,59,individual,1,1
+5d482ea721c9be351f762da7,59,individual,1,1
+5ea798e821028d2296a4ab67,59,individual,1,1
+5ea7a0ae21028d2296a4ccb3,59,individual,1,0
+5d482ea621c9be351f762b21,59,ind in groups,0,1
+5d482ea721c9be351f762ce8,59,ind in groups,0,0
+5d482ea721c9be351f762d34,59,ind in groups,0,0
+5d482ea721c9be351f762da7,59,ind in groups,0,0
+5ea76026fd339b022f9cebba,59,ind in groups,0,0
+5ea798e821028d2296a4ab67,59,ind in groups,0,0
+5ea7a0ae21028d2296a4ccb3,59,ind in groups,0,0
+,60,group,1,1
+,60,nominal,0,1
+5d482ea421c9be351f7621db,60,individual,0,1
+5d482ea421c9be351f762215,60,individual,0,1
+5d482ea421c9be351f7622cd,60,individual,0,1
+5d482ea621c9be351f76287d,60,individual,0,1
+5ea76260fd339b022f9cebd6,60,individual,0,0
+5ea790d221028d2296a49375,60,individual,0,1
+5d482ea421c9be351f7621db,60,ind in groups,1,1
+5d482ea421c9be351f762215,60,ind in groups,1,0
+5d482eab21c9be351f763ec5,60,ind in groups,1,1
+5ea76260fd339b022f9cebd6,60,ind in groups,1,1
+5ea790d221028d2296a49375,60,ind in groups,1,1
+,61,group,0,1
+,61,nominal,1,1
+5d482ea321c9be351f76216e,61,individual,1,0
+5d482ea321c9be351f762191,61,individual,1,0
+5d482ea421c9be351f76232f,61,individual,1,1
+5d482ea821c9be351f76344f,61,individual,1,1
+5ea6330e7c882f6974ff30f2,61,individual,1,0
+5d482ea321c9be351f76216e,61,ind in groups,0,1
+5d482ea321c9be351f762191,61,ind in groups,0,0
+5ea6330e7c882f6974ff30f2,61,ind in groups,0,1
+,62,group,1,1
+,62,nominal,0,1
+5d482ea521c9be351f76263c,62,individual,0,1
+5d482ea521c9be351f76272d,62,individual,0,1
+5d482ea721c9be351f76300d,62,individual,0,1
+5d482ea821c9be351f763507,62,individual,0,0
+5ea6382c7c882f6974ff31e4,62,individual,0,1
+5d482ea521c9be351f76272d,62,ind in groups,1,1
+5d482ea721c9be351f76300d,62,ind in groups,1,1
+5d482ea821c9be351f763507,62,ind in groups,1,1
+5ea6382c7c882f6974ff31e4,62,ind in groups,1,1
+,63,group,0,1
+,63,nominal,1,0
+5d482ea421c9be351f762324,63,individual,1,1
+5d482ea421c9be351f76238f,63,individual,1,0
+5d482ea521c9be351f76242c,63,individual,1,1
+5d482ea521c9be351f76242d,63,individual,1,1
+5d482ea621c9be351f762bac,63,individual,1,1
+5d482ea721c9be351f762d8e,63,individual,1,1
+5ea78bbe21028d2296a48d8c,63,individual,1,1
+5d482ea421c9be351f762324,63,ind in groups,0,1
+5d482ea421c9be351f76238f,63,ind in groups,0,0
+5d482ea521c9be351f76242c,63,ind in groups,0,1
+5d482ea521c9be351f76242d,63,ind in groups,0,1
+5d482ea621c9be351f762bac,63,ind in groups,0,1
+5d482ea721c9be351f762d8e,63,ind in groups,0,0
+5ea78bbe21028d2296a48d8c,63,ind in groups,0,1
+,64,group,0,1
+,64,nominal,1,0
+5d482ea521c9be351f762725,64,individual,1,1
+5d482ea621c9be351f76290a,64,individual,1,1
+5d482ea721c9be351f76300a,64,individual,1,0
+5d482ea821c9be351f763292,64,individual,1,1
+5d482ea621c9be351f76290a,64,ind in groups,0,1
+5d482ea721c9be351f76300a,64,ind in groups,0,0
+5d482ea821c9be351f763292,64,ind in groups,0,0
+,65,group,1,0
+,65,nominal,0,0
+5d482ea621c9be351f76278b,65,individual,0,0
+5d482ea621c9be351f762b47,65,individual,0,1
+5ea731503ecdad5547201baf,65,individual,0,0
+5ea733123ecdad55472021a0,65,individual,0,0
+5d482ea621c9be351f76278b,65,ind in groups,1,1
+5d482ea621c9be351f762852,65,ind in groups,1,0
+5d482ea621c9be351f762b47,65,ind in groups,1,1
+5ea731503ecdad5547201baf,65,ind in groups,1,0
+,66,group,1,1
+,66,nominal,0,0
+5d482ea721c9be351f762f97,66,individual,0,1
+5d482ea821c9be351f7630b3,66,individual,0,1
+5d482ea821c9be351f7631bd,66,individual,0,0
+5d482ea821c9be351f7634a7,66,individual,0,1
+5d482ea921c9be351f76366e,66,individual,0,0
+5d482ea721c9be351f762f97,66,ind in groups,1,0
+5d482ea821c9be351f7630b3,66,ind in groups,1,1
+5d482ea821c9be351f763229,66,ind in groups,1,1
+5d482ea821c9be351f7631bd,66,ind in groups,1,0
+5d482ea821c9be351f7634a7,66,ind in groups,1,1
+,67,group,0,0
+,67,nominal,1,1
+5d482ea821c9be351f7633c1,67,individual,1,1
+5d482eab21c9be351f763eff,67,individual,1,1
+5ea73b643ecdad5547203840,67,individual,1,1
+5ea75dc4fd339b022f9ceb9c,67,individual,1,1
+5ea788e421028d2296a48cb8,67,individual,1,1
+5d482ea821c9be351f7633c1,67,ind in groups,0,0
+5d482eab21c9be351f763eff,67,ind in groups,0,1
+5ea19fe2de5d74641b66c67a,67,ind in groups,0,0
+5ea73b643ecdad5547203840,67,ind in groups,0,0
+5ea75dc4fd339b022f9ceb9c,67,ind in groups,0,1
+5ea788e421028d2296a48cb8,67,ind in groups,0,0
+,68,group,1,1
+,68,nominal,0,1
+5d482ea821c9be351f7634eb,68,individual,0,1
+5d482ea921c9be351f763891,68,individual,0,0
+5d482eaa21c9be351f763bfe,68,individual,0,1
+5d482eaa21c9be351f763c80,68,individual,0,1
+5ea6fbae002f966295b200da,68,individual,0,1
+5ea736e63ecdad5547202f44,68,individual,0,0
+5d482ea821c9be351f7634eb,68,ind in groups,1,1
+5d482ea921c9be351f763891,68,ind in groups,1,0
+5d482eaa21c9be351f763bfe,68,ind in groups,1,1
+5ea736e63ecdad5547202f44,68,ind in groups,1,1
+,69,group,1,0
+,69,nominal,0,0
+5d482ea521c9be351f7625ef,69,individual,0,1
+5ea63e087c882f6974ff3233,69,individual,0,0
+5ea6fc76002f966295b2010a,69,individual,0,0
+5ea73a743ecdad554720364b,69,individual,0,0
+5ea75d88fd339b022f9ceb96,69,individual,0,1
+5d482ea521c9be351f7625ef,69,ind in groups,1,0
+5d482eab21c9be351f764173,69,ind in groups,1,0
+5ea63e087c882f6974ff3233,69,ind in groups,1,0
+5ea6fc76002f966295b2010a,69,ind in groups,1,0
+5ea73a743ecdad554720364b,69,ind in groups,1,0
+5ea75d88fd339b022f9ceb96,69,ind in groups,1,0
+,70,group,0,1
+,70,nominal,1,1
+5d482ea821c9be351f763134,70,individual,1,0
+5d482ea821c9be351f7632bd,70,individual,1,1
+5ea888a27d50722703c540f0,70,individual,1,0
+5d482ea821c9be351f763134,70,ind in groups,0,1
+5d482ea821c9be351f7632bd,70,ind in groups,0,1
+5ea87ce07d50722703c533b8,70,ind in groups,0,1
+5ea888a27d50722703c540f0,70,ind in groups,0,0
+,71,group,1,0
+,71,nominal,0,1
+5d482ea621c9be351f76280f,71,individual,0,0
+5d482ea721c9be351f762ca2,71,individual,0,1
+5d482ea921c9be351f7636c4,71,individual,0,1
+5d482ea921c9be351f7638ea,71,individual,0,1
+5ea877b87d50722703c52da7,71,individual,0,1
+5ea8823a7d50722703c539e8,71,individual,0,1
+5ea883c07d50722703c53b68,71,individual,0,1
+5d482ea621c9be351f76280f,71,ind in groups,1,0
+5d482ea721c9be351f762ca2,71,ind in groups,1,0
+5d482ea921c9be351f7636c4,71,ind in groups,1,0
+5d482ea921c9be351f7638ea,71,ind in groups,1,1
+5ea869c67d50722703c4fd3d,71,ind in groups,1,1
+5ea877b87d50722703c52da7,71,ind in groups,1,1
+5ea8823a7d50722703c539e8,71,ind in groups,1,0
+5ea883c07d50722703c53b68,71,ind in groups,1,1
+,72,group,0,0
+,72,nominal,1,1
+5d482ea621c9be351f7627d8,72,individual,1,1
+5d482ea721c9be351f762d10,72,individual,1,1
+5d482ea821c9be351f7631fe,72,individual,1,0
+5d482ea821c9be351f7634d3,72,individual,1,0
+5ea7a4e621028d2296a4dba0,72,individual,1,1
+5ea8736c7d50722703c5247f,72,individual,1,0
+5ea87ef27d50722703c5358e,72,individual,1,1
+5d482ea621c9be351f7627d8,72,ind in groups,0,0
+5d482ea721c9be351f762d10,72,ind in groups,0,0
+5d482ea821c9be351f7631fe,72,ind in groups,0,0
+5d482ea821c9be351f7634d3,72,ind in groups,0,1
+5ea7a4e621028d2296a4dba0,72,ind in groups,0,0
+5ea8684a7d50722703c4f614,72,ind in groups,0,0
+5ea8736c7d50722703c5247f,72,ind in groups,0,0
+,73,group,0,0
+,73,nominal,1,0
+5d482ea721c9be351f762cd9,73,individual,1,1
+5d482ea821c9be351f7633ec,73,individual,1,1
+5d482eab21c9be351f763e48,73,individual,1,0
+5d482ea721c9be351f762cd9,73,ind in groups,0,0
+5d482eab21c9be351f763e48,73,ind in groups,0,1
+,74,group,0,1
+,74,nominal,1,1
+5d482ea521c9be351f76254e,74,individual,1,1
+5d482ea621c9be351f7629ec,74,individual,1,1
+5ea8542c7d50722703c4cbff,74,individual,1,0
+5ea868047d50722703c4f4ad,74,individual,1,1
+5ea86c327d50722703c5064e,74,individual,1,1
+5d482ea421c9be351f762239,74,ind in groups,0,1
+5d482ea521c9be351f76254e,74,ind in groups,0,1
+5d482ea621c9be351f7629ec,74,ind in groups,0,1
+5ea8542c7d50722703c4cbff,74,ind in groups,0,1
+5ea86c327d50722703c5064e,74,ind in groups,0,1
+,75,group,1,0
+,75,nominal,0,0
+5d482ea421c9be351f762375,75,individual,0,1
+5d482ea621c9be351f762987,75,individual,0,0
+5e821b0450f6e364321d5460,75,individual,0,1
+5ea63b6a7c882f6974ff320c,75,individual,0,1
+5d482ea421c9be351f762375,75,ind in groups,1,0
+5d482ea521c9be351f7625d2,75,ind in groups,1,0
+5d482ea621c9be351f762987,75,ind in groups,1,0
+5e821b0450f6e364321d5460,75,ind in groups,1,1
+5ea63b6a7c882f6974ff320c,75,ind in groups,1,1
+,76,group,0,0
+,76,nominal,1,0
+5d482ea521c9be351f762435,76,individual,1,0
+5ea0d8969dc0406f8988aeb0,76,individual,1,1
+5d482ea521c9be351f762435,76,ind in groups,0,0
+5d482ea821c9be351f763100,76,ind in groups,0,0
+5d482ea921c9be351f763594,76,ind in groups,0,0
+,77,group,0,1
+,77,nominal,1,0
+5d482ea621c9be351f7627ca,77,individual,1,1
+5d482ea921c9be351f7636f9,77,individual,1,1
+5d482ea921c9be351f763877,77,individual,1,0
+5ea85db47d50722703c4d40b,77,individual,1,0
+5d482ea621c9be351f7627ca,77,ind in groups,0,0
+5d482ea921c9be351f7636f9,77,ind in groups,0,1
+5d482ea921c9be351f763877,77,ind in groups,0,1
+5ea85db47d50722703c4d40b,77,ind in groups,0,1
+,78,group,0,1
+,78,nominal,1,1
+5d482ea521c9be351f7623ba,78,individual,1,0
+5d482ea521c9be351f76251c,78,individual,1,1
+5d482ea621c9be351f76286d,78,individual,1,1
+5d482ea921c9be351f763718,78,individual,1,1
+5ea0d3aa9dc0406f8988a14d,78,individual,1,1
+5ea7a48c21028d2296a4dae0,78,individual,1,1
+5d482ea521c9be351f7623ba,78,ind in groups,0,1
+5d482ea521c9be351f76251c,78,ind in groups,0,1
+5d482ea621c9be351f76286d,78,ind in groups,0,1
+5d482ea921c9be351f763718,78,ind in groups,0,1
+5ea0d3aa9dc0406f8988a14d,78,ind in groups,0,1
+5ea7a48c21028d2296a4dae0,78,ind in groups,0,1
+,79,group,0,0
+,79,nominal,1,1
+5d482ea521c9be351f7624e8,79,individual,1,1
+5d482ea621c9be351f7629fe,79,individual,1,1
+5d482ea621c9be351f762b19,79,individual,1,0
+5d482eaa21c9be351f763dc0,79,individual,1,0
+5ea85a267d50722703c4ce61,79,individual,1,1
+5ea85e047d50722703c4d435,79,individual,1,1
+5d482ea521c9be351f7624e8,79,ind in groups,0,0
+5d482ea621c9be351f7629fe,79,ind in groups,0,0
+5d482ea621c9be351f762b19,79,ind in groups,0,1
+5d482ea721c9be351f763076,79,ind in groups,0,0
+5d482eaa21c9be351f763dc0,79,ind in groups,0,1
+5ea85a267d50722703c4ce61,79,ind in groups,0,0
+5ea85ae47d50722703c4cee5,79,ind in groups,0,1
+5ea85e047d50722703c4d435,79,ind in groups,0,0
+,80,group,0,1
+,80,nominal,1,0
+5d482ea821c9be351f763333,80,individual,1,0
+5d482ea621c9be351f762797,80,ind in groups,0,1
+5d482ea721c9be351f762d36,80,ind in groups,0,1
+5d482ea821c9be351f763333,80,ind in groups,0,1
+5ea85cce7d50722703c4d14e,80,ind in groups,0,1
+,81,group,1,0
+,81,nominal,0,0
+5d482ea321c9be351f762157,81,individual,0,1
+5d482ea721c9be351f762c4c,81,individual,0,0
+5d482eaa21c9be351f763c11,81,individual,0,0
+5d482eab21c9be351f76403b,81,individual,0,1
+5ea1c1c0de5d74641b6708c2,81,individual,0,0
+5ea723c23ecdad55471ffbac,81,individual,0,1
+5ea854c27d50722703c4cc0c,81,individual,0,1
+5d482ea321c9be351f762157,81,ind in groups,1,0
+5d482ea721c9be351f762c4c,81,ind in groups,1,1
+5d482eaa21c9be351f763c11,81,ind in groups,1,1
+5d482eab21c9be351f76403b,81,ind in groups,1,0
+5ea723c23ecdad55471ffbac,81,ind in groups,1,1
+5ea854c27d50722703c4cc0c,81,ind in groups,1,0
+,82,group,0,0
+,82,nominal,1,0
+5d482ea821c9be351f763107,82,individual,1,1
+5ea72fac3ecdad5547201425,82,individual,1,0
+5ea761acfd339b022f9cebca,82,individual,1,1
+5ea854c27d50722703c4cc0d,82,individual,1,1
+5ea855b27d50722703c4cc50,82,individual,1,0
+5d482ea821c9be351f763107,82,ind in groups,0,0
+5ea72fac3ecdad5547201425,82,ind in groups,0,0
+5ea761acfd339b022f9cebca,82,ind in groups,0,0
+5ea854c27d50722703c4cc0d,82,ind in groups,0,0
+5ea855b27d50722703c4cc50,82,ind in groups,0,0
+,83,group,0,1
+,83,nominal,1,0
+5d482ea821c9be351f763420,83,individual,1,1
+5d482eab21c9be351f763fcb,83,individual,1,1
+5d482eab21c9be351f7641e1,83,individual,1,1
+5ea6fa96002f966295b2007d,83,individual,1,0
+5ea734163ecdad5547202554,83,individual,1,0
+5ea7a36021028d2296a4d669,83,individual,1,0
+5d482ea821c9be351f763420,83,ind in groups,0,1
+5ea6fa96002f966295b2007d,83,ind in groups,0,1
+5ea734163ecdad5547202554,83,ind in groups,0,1
+5ea7a36021028d2296a4d669,83,ind in groups,0,1
+,84,group,1,0
+,84,nominal,0,0
+5d482ea721c9be351f763016,84,individual,0,0
+5d482eaa21c9be351f763987,84,individual,0,0
+5d482ea721c9be351f763016,84,ind in groups,1,0
+5d482ea821c9be351f7633d4,84,ind in groups,1,1
+5d482eaa21c9be351f763987,84,ind in groups,1,0
+5ea1d1a6de5d74641b671766,84,ind in groups,1,0
+5ea7893e21028d2296a48cbe,84,ind in groups,1,1
+5ea884567d50722703c53c2a,84,ind in groups,1,1
+,85,group,1,1
+,85,nominal,0,0
+5d482ea521c9be351f762430,85,individual,0,0
+5d482ea621c9be351f762a8f,85,individual,0,0
+5d482ea721c9be351f762c0a,85,individual,0,0
+5d482ea721c9be351f762e4f,85,individual,0,1
+5d482ea921c9be351f763684,85,individual,0,0
+5d482eab21c9be351f763f30,85,individual,0,0
+5d482ea521c9be351f762430,85,ind in groups,1,1
+5d482ea621c9be351f762a8f,85,ind in groups,1,1
+5d482ea721c9be351f762e4f,85,ind in groups,1,1
+5d482ea921c9be351f763684,85,ind in groups,1,0
+5d482eab21c9be351f763f30,85,ind in groups,1,1
+,86,group,0,0
+,86,nominal,1,1
+5d482ea321c9be351f762150,86,individual,1,0
+5d482ea421c9be351f762258,86,individual,1,0
+5d482ea421c9be351f7621f0,86,individual,1,1
+5d482ea421c9be351f7622e2,86,individual,1,0
+5d482ea421c9be351f7622e3,86,individual,1,1
+5d482ea621c9be351f762bba,86,individual,1,1
+5d482ea321c9be351f762150,86,ind in groups,0,0
+5d482ea421c9be351f7621f0,86,ind in groups,0,0
+5d482ea421c9be351f7622e2,86,ind in groups,0,1
+5d482ea421c9be351f7622e3,86,ind in groups,0,1
+5d482ea621c9be351f762bba,86,ind in groups,0,1
+,87,group,0,0
+,87,nominal,1,0
+5d482ea321c9be351f762055,87,individual,1,0
+5d482ea321c9be351f7620a0,87,individual,1,1
+5d482ea421c9be351f762297,87,individual,1,1
+5d482eab21c9be351f763f08,87,individual,1,1
+5d482ea321c9be351f762055,87,ind in groups,0,0
+5d482ea321c9be351f7620a0,87,ind in groups,0,1
+5d482ea421c9be351f762297,87,ind in groups,0,1
+5d482eab21c9be351f763f08,87,ind in groups,0,0
+,88,group,0,0
+,88,nominal,1,0
+5d482ea221c9be351f761f3c,88,individual,1,1
+5d482ea321c9be351f761f92,88,individual,1,0
+5d482ea321c9be351f7620b3,88,individual,1,1
+5d482ea721c9be351f76308a,88,individual,1,1
+5d482ea221c9be351f761f3c,88,ind in groups,0,0
+5d482ea321c9be351f761f92,88,ind in groups,0,0
+5d482ea321c9be351f7620b3,88,ind in groups,0,0
+5d482ea721c9be351f76308a,88,ind in groups,0,0
+,89,group,1,1
+,89,nominal,0,0
+5d482ea321c9be351f762063,89,individual,0,0
+5d482ea321c9be351f7620c3,89,individual,0,1
+5d482ea321c9be351f7620dc,89,individual,0,1
+5ea8b7c87d50722703c5605d,89,individual,0,1
+5d482ea321c9be351f762063,89,ind in groups,1,1
+5d482ea321c9be351f7620c3,89,ind in groups,1,0
+5d482ea321c9be351f7620dc,89,ind in groups,1,0
+5ea8b7c87d50722703c5605d,89,ind in groups,1,0
+,90,group,1,1
+,90,nominal,0,0
+5d482ea221c9be351f761ec9,90,individual,0,1
+5d482ea221c9be351f761f3b,90,individual,0,1
+5d482ea221c9be351f761f7d,90,individual,0,1
+5d482ea321c9be351f76216f,90,individual,0,1
+5d482ea221c9be351f761ec9,90,ind in groups,1,1
+5d482ea221c9be351f761f3b,90,ind in groups,1,1
+5d482ea221c9be351f761f7d,90,ind in groups,1,1
+5d482ea321c9be351f76216f,90,ind in groups,1,1
+5d482ea621c9be351f7627f2,90,ind in groups,1,0
+,91,group,1,0
+,91,nominal,0,1
+5d482ea221c9be351f761e9a,91,individual,0,1
+5d482ea221c9be351f761f64,91,individual,0,0
+5ea8caba7d50722703c59239,91,individual,0,1
+,92,group,1,0
+,92,nominal,0,1
+5d482ea421c9be351f7623b9,92,individual,0,0
+5d482ea521c9be351f7626dd,92,individual,0,0
+5d482ea621c9be351f7629f3,92,individual,0,1
+5d482ea621c9be351f762bd4,92,individual,0,1
+5d482ea821c9be351f7630fa,92,individual,0,0
+5d482ea421c9be351f7623b9,92,ind in groups,1,1
+5d482ea521c9be351f762488,92,ind in groups,1,0
+5d482ea521c9be351f7626dd,92,ind in groups,1,0
+5d482ea621c9be351f7629f3,92,ind in groups,1,0
+5d482ea621c9be351f762bd4,92,ind in groups,1,0
+5d482ea821c9be351f7631bf,92,ind in groups,1,0
+5d482ea821c9be351f7630fa,92,ind in groups,1,1
+,93,group,0,1
+,93,nominal,1,1
+5d482ea521c9be351f762444,93,individual,1,0
+5d482ea521c9be351f7624a8,93,individual,1,1
+5d482ea621c9be351f762936,93,individual,1,0
+5d482ea721c9be351f762f5e,93,individual,1,0
+5d482ea721c9be351f763067,93,individual,1,1
+5d482ea521c9be351f762444,93,ind in groups,0,1
+5d482ea521c9be351f7624a8,93,ind in groups,0,1
+5d482ea621c9be351f762936,93,ind in groups,0,1
+5d482ea721c9be351f762f5e,93,ind in groups,0,1
+5d482ea721c9be351f763067,93,ind in groups,0,1
+,94,group,1,0
+,94,nominal,0,1
+5d482ea721c9be351f762f65,94,individual,0,1
+5d482eaa21c9be351f763dd9,94,individual,0,1
+5e31d78fe31c5304c46f18ac,94,individual,0,1
+5ea75e96fd339b022f9ceba8,94,individual,0,1
+5ea9a7c8a68ffa2bcbe11876,94,individual,0,0
+5d482ea721c9be351f762f65,94,ind in groups,1,1
+5d482eaa21c9be351f763dd9,94,ind in groups,1,1
+5e31d78fe31c5304c46f18ac,94,ind in groups,1,0
+5ea75e96fd339b022f9ceba8,94,ind in groups,1,1
+5ea9a7c8a68ffa2bcbe11876,94,ind in groups,1,1
+,95,group,1,1
+,95,nominal,0,0
+5d482eaa21c9be351f763937,95,individual,0,1
+5d482eab21c9be351f764140,95,individual,0,0
+5ea8c98e7d50722703c58e0e,95,individual,0,0
+5ea9a890a68ffa2bcbe1187c,95,individual,0,0
+5ea9ad9aa68ffa2bcbe11b29,95,individual,0,1
+5d482eaa21c9be351f763937,95,ind in groups,1,1
+5d482eab21c9be351f763f87,95,ind in groups,1,1
+5d482eab21c9be351f764140,95,ind in groups,1,1
+5ea8c98e7d50722703c58e0e,95,ind in groups,1,1
+5ea9a890a68ffa2bcbe1187c,95,ind in groups,1,1
+5ea9ad9aa68ffa2bcbe11b29,95,ind in groups,1,1
+,96,group,1,0
+,96,nominal,0,1
+5d482ea621c9be351f76286e,96,individual,0,0
+5d482ea721c9be351f762e26,96,individual,0,1
+5eab5e9cd5ea945196f999fa,96,individual,0,1
+5eab7454d5ea945196f9c9ef,96,individual,0,0
+5eab7490d5ea945196f9cac7,96,individual,0,0
+5d482ea621c9be351f76286e,96,ind in groups,1,1
+5eab5e9cd5ea945196f999fa,96,ind in groups,1,0
+5eab7454d5ea945196f9c9ef,96,ind in groups,1,0
+5eab7490d5ea945196f9cac7,96,ind in groups,1,0
+,97,group,0,0
+,97,nominal,1,1
+5d482ea121c9be351f761d3e,97,individual,1,1
+5d482ea321c9be351f762027,97,individual,1,1
+5d482ea621c9be351f762772,97,individual,1,1
+5eab6e5ad5ea945196f9b094,97,individual,1,0
+5d482ea121c9be351f761d3e,97,ind in groups,0,1
+5d482ea221c9be351f761f5e,97,ind in groups,0,1
+5d482ea321c9be351f762027,97,ind in groups,0,0
+5d482ea621c9be351f762772,97,ind in groups,0,0
+5eab6e5ad5ea945196f9b094,97,ind in groups,0,0
+,98,group,0,0
+,98,nominal,1,1
+5d482ea321c9be351f76201f,98,individual,1,1
+5d482ea621c9be351f762b0a,98,individual,1,0
+5d482ea721c9be351f762eb1,98,individual,1,1
+5d482ea921c9be351f763740,98,individual,1,1
+5d482eab21c9be351f763f5c,98,individual,1,1
+5d482ea321c9be351f76201f,98,ind in groups,0,0
+5d482ea621c9be351f762b0a,98,ind in groups,0,0
+5d482ea721c9be351f762eb1,98,ind in groups,0,1
+5d482ea921c9be351f763740,98,ind in groups,0,0
+5d482eab21c9be351f763f5c,98,ind in groups,0,1
+,99,group,0,1
+,99,nominal,1,1
+5d0ceb322c04075bfb121198,99,individual,1,0
+5d482ea121c9be351f761c52,99,individual,1,1
+5d482ea221c9be351f761ebd,99,individual,1,0
+5d482ea721c9be351f762dd5,99,individual,1,1
+5d482ea821c9be351f763331,99,individual,1,1
+5d482ea921c9be351f763596,99,individual,1,1
+5d0ceb322c04075bfb121198,99,ind in groups,0,0
+5d482ea121c9be351f761c52,99,ind in groups,0,1
+5d482ea221c9be351f761ebd,99,ind in groups,0,1
+5d482ea721c9be351f762dd5,99,ind in groups,0,1
+5d482ea821c9be351f763331,99,ind in groups,0,0
+5d482ea921c9be351f763596,99,ind in groups,0,1
+,100,group,0,0
+,100,nominal,1,1
+5d482ea121c9be351f761d74,100,individual,1,1
+5d482ea121c9be351f761d83,100,individual,1,0
+5d482ea121c9be351f761d40,100,individual,1,0
+5d482ea221c9be351f761db6,100,individual,1,1
+5d482ea521c9be351f7624c5,100,individual,1,1
+5d482ea121c9be351f761c46,100,ind in groups,0,1
+5d482ea121c9be351f761d74,100,ind in groups,0,0
+5d482ea121c9be351f761d83,100,ind in groups,0,0
+5d482ea121c9be351f761d40,100,ind in groups,0,1
+5d482ea221c9be351f761db6,100,ind in groups,0,0
+5d482ea521c9be351f7624c5,100,ind in groups,0,1
+,101,group,0,1
+,101,nominal,1,0
+5d482ea621c9be351f762b52,101,individual,1,1
+5d482ea621c9be351f762b74,101,individual,1,1
+5d482ea721c9be351f762ddf,101,individual,1,0
+5d482ea821c9be351f763561,101,individual,1,0
+5d482eab21c9be351f764109,101,individual,1,0
+5d482ea621c9be351f762b52,101,ind in groups,0,0
+5d482ea621c9be351f762b74,101,ind in groups,0,1
+5d482ea721c9be351f762ddf,101,ind in groups,0,1
+5d482ea821c9be351f763561,101,ind in groups,0,1
+5d482eab21c9be351f764109,101,ind in groups,0,1
+,102,group,1,1
+,102,nominal,0,0
+5d407d8011e92e314fcda15f,102,individual,0,0
+5d482ea521c9be351f7626b8,102,individual,0,1
+5d482ea721c9be351f763043,102,individual,0,1
+5d482ea921c9be351f7636b2,102,individual,0,1
+5ea9d2fca68ffa2bcbe13a4e,102,individual,0,1
+5d407d8011e92e314fcda15f,102,ind in groups,1,1
+5d482ea521c9be351f7626b8,102,ind in groups,1,1
+5d482ea621c9be351f762940,102,ind in groups,1,1
+5d482ea721c9be351f763043,102,ind in groups,1,1
+5d482ea921c9be351f7636b2,102,ind in groups,1,1
+5ea9d2fca68ffa2bcbe13a4e,102,ind in groups,1,1
+,103,group,0,1
+,103,nominal,1,0
+5d482ea521c9be351f7625f2,103,individual,1,0
+5d482ea721c9be351f762cc9,103,individual,1,0
+5d482eaa21c9be351f763d63,103,individual,1,1
+5ea885dc7d50722703c53e04,103,individual,1,1
+5eab5f96d5ea945196f99a08,103,individual,1,0
+5d482ea521c9be351f7625f2,103,ind in groups,0,1
+5d482ea721c9be351f762cc9,103,ind in groups,0,1
+5d482ea821c9be351f763391,103,ind in groups,0,1
+5d482eaa21c9be351f763d63,103,ind in groups,0,1
+5ea885dc7d50722703c53e04,103,ind in groups,0,0
+5eab5f96d5ea945196f99a08,103,ind in groups,0,1
+,104,group,1,0
+,104,nominal,0,0
+5d0cec862c04075bfb1211a7,104,individual,0,1
+5d482ea121c9be351f761c31,104,individual,0,0
+5d482ea421c9be351f76221a,104,individual,0,0
+5d482ea421c9be351f7622dc,104,individual,0,1
+5d482ea121c9be351f761c31,104,ind in groups,1,1
+,105,group,0,1
+,105,nominal,1,0
+5d482ea121c9be351f761bee,105,individual,1,0
+5d482ea121c9be351f761bf0,105,individual,1,1
+5d482ea421c9be351f762202,105,individual,1,0
+5d482ea721c9be351f762c35,105,individual,1,1
+5d40909011e92e314fcdae58,105,ind in groups,0,1
+5d482ea121c9be351f761bf0,105,ind in groups,0,1
+5d482ea721c9be351f762c35,105,ind in groups,0,1
+,106,group,0,1
+,106,nominal,1,1
+5d43364cce0995585f1a5cbd,106,individual,1,1
+5d482ea221c9be351f761dac,106,individual,1,1
+5d482ea421c9be351f762296,106,individual,1,1
+5eaa6370d5ea945196f95250,106,individual,1,0
+5d43364cce0995585f1a5cbd,106,ind in groups,0,1
+5d482ea221c9be351f761dac,106,ind in groups,0,1
+5d482ea421c9be351f762296,106,ind in groups,0,0
+,107,group,0,0
+,107,nominal,1,0
+5d482ea321c9be351f76213d,107,individual,1,1
+5d482ea421c9be351f7621a1,107,individual,1,0
+5d482ea421c9be351f76227f,107,individual,1,0
+5d482ea521c9be351f7624ec,107,individual,1,1
+5d482ea621c9be351f76278a,107,individual,1,0
+5d482eab21c9be351f763fc3,107,individual,1,1
+5eac601cd5ea945196fa0766,107,individual,1,0
+5d482ea321c9be351f76213d,107,ind in groups,0,1
+5d482ea421c9be351f7621a1,107,ind in groups,0,1
+5d482ea421c9be351f76227f,107,ind in groups,0,0
+5d482ea521c9be351f7624ec,107,ind in groups,0,0
+5d482ea621c9be351f76278a,107,ind in groups,0,1
+5eac601cd5ea945196fa0766,107,ind in groups,0,0
+,108,group,0,1
+,108,nominal,1,0
+5d482ea221c9be351f761de7,108,individual,1,1
+5d482ea221c9be351f761e09,108,individual,1,1
+5d482ea421c9be351f7622df,108,individual,1,1
+5d482ea221c9be351f761de7,108,ind in groups,0,1
+5d482ea221c9be351f761e09,108,ind in groups,0,1
+5d482ea221c9be351f761f32,108,ind in groups,0,1
+5d482ea421c9be351f7622df,108,ind in groups,0,0
+,109,group,1,1
+,109,nominal,0,0
+5d420c68ce0995585f1a548f,109,individual,0,0
+5d482ea221c9be351f761ea0,109,individual,0,0
+5d420c68ce0995585f1a548f,109,ind in groups,1,1
+5d482ea121c9be351f761c6c,109,ind in groups,1,1
+5d482ea221c9be351f761ea0,109,ind in groups,1,1
+,110,group,0,0
+,110,nominal,1,1
+5d2a2256d9ca6e7f1bedb4d3,110,individual,1,1
+5d482ea221c9be351f761e64,110,individual,1,1
+5d482ea921c9be351f7636a3,110,individual,1,1
+5eac671ad5ea945196fa0d03,110,individual,1,1
+5d2a2256d9ca6e7f1bedb4d3,110,ind in groups,0,0
+5d482ea921c9be351f7636a3,110,ind in groups,0,0
+5eac671ad5ea945196fa0d03,110,ind in groups,0,0
+,111,group,0,0
+,111,nominal,1,0
+5eac6c10d5ea945196fa169d,111,individual,1,0
+5d1a795a2d54e95acef0ea74,111,ind in groups,0,0
+5eac6756d5ea945196fa0d30,111,ind in groups,0,0
+5eac67a6d5ea945196fa0d67,111,ind in groups,0,0
+5eac69b8d5ea945196fa1146,111,ind in groups,0,0
+5eac6c10d5ea945196fa169d,111,ind in groups,0,0
+,112,group,0,1
+,112,nominal,1,1
+5d482eaa21c9be351f763d1b,112,individual,1,0
+5d482eab21c9be351f763fda,112,individual,1,0
+5d482eab21c9be351f764120,112,individual,1,1
+5eac6f58d5ea945196fa21c6,112,individual,1,1
+5d482ea721c9be351f762db4,112,ind in groups,0,0
+5d482eaa21c9be351f763d1b,112,ind in groups,0,0
+5d482eab21c9be351f764120,112,ind in groups,0,0
+5eac6f58d5ea945196fa21c6,112,ind in groups,0,1
+,113,group,1,1
+,113,nominal,0,0
+5d482ea621c9be351f7629ca,113,individual,0,1
+5d482ea621c9be351f762b0e,113,individual,0,1
+5d482ea821c9be351f76324e,113,individual,0,0
+5d482eab21c9be351f763e5e,113,individual,0,0
+5ea733583ecdad55472022d2,113,individual,0,0
+5eab7fb2d5ea945196f9ec55,113,individual,0,0
+5eac59bed5ea945196fa0710,113,individual,0,1
+5eac5dced5ea945196fa0742,113,individual,0,1
+5d482ea621c9be351f7629ca,113,ind in groups,1,0
+5d482ea621c9be351f762b0e,113,ind in groups,1,1
+5d482ea821c9be351f76324e,113,ind in groups,1,0
+5d482eab21c9be351f763e5e,113,ind in groups,1,1
+5eab7fb2d5ea945196f9ec55,113,ind in groups,1,1
+5eac59bed5ea945196fa0710,113,ind in groups,1,1
+5eac5dced5ea945196fa0742,113,ind in groups,1,1
+,114,group,0,0
+,114,nominal,1,0
+5d482ea621c9be351f762a7f,114,individual,1,0
+5d482ea921c9be351f76378f,114,individual,1,0
+5eaa5c04d5ea945196f9522f,114,individual,1,0
+5eacae50d5ea945196fa6603,114,individual,1,1
+5eacbd5ad5ea945196fa7424,114,individual,1,1
+5d482ea421c9be351f7621d6,114,ind in groups,0,0
+5d482ea621c9be351f762a7f,114,ind in groups,0,1
+5d482ea921c9be351f76378f,114,ind in groups,0,1
+5eaa5c04d5ea945196f9522f,114,ind in groups,0,0
+5eacbd5ad5ea945196fa7424,114,ind in groups,0,1
+,115,group,1,1
+,115,nominal,0,1
+5d482ea121c9be351f761bfa,115,individual,0,1
+5eab85f2d5ea945196f9f955,115,individual,0,1
+5eac6a08d5ea945196fa1225,115,individual,0,1
+5eac7476d5ea945196fa369c,115,individual,0,0
+5eacaaa4d5ea945196fa63f3,115,individual,0,1
+5eacaf5ed5ea945196fa6656,115,individual,0,1
+5d482ea121c9be351f761bfa,115,ind in groups,1,1
+5eab85f2d5ea945196f9f955,115,ind in groups,1,1
+5eac6a08d5ea945196fa1225,115,ind in groups,1,1
+5eac7476d5ea945196fa369c,115,ind in groups,1,1
+5eacaaa4d5ea945196fa63f3,115,ind in groups,1,1
+5eacaf5ed5ea945196fa6656,115,ind in groups,1,1
+,116,group,1,1
+,116,nominal,0,0
+5eab4af6d5ea945196f96c0d,116,individual,0,0
+5eac77e6d5ea945196fa40a3,116,individual,0,0
+5eaca02cd5ea945196fa6060,116,individual,0,1
+5eacaa9ad5ea945196fa63ef,116,individual,0,1
+5eab4af6d5ea945196f96c0d,116,ind in groups,1,1
+5eac5a0ed5ea945196fa0712,116,ind in groups,1,1
+5eac77e6d5ea945196fa40a3,116,ind in groups,1,1
+5eaca02cd5ea945196fa6060,116,ind in groups,1,1
+5eacaa9ad5ea945196fa63ef,116,ind in groups,1,0
+,117,group,0,1
+,117,nominal,1,0
+5d482ea521c9be351f7624ab,117,individual,1,0
+5d482ea921c9be351f7638d3,117,individual,1,0
+5eac66ded5ea945196fa0cc2,117,individual,1,1
+5eac6d78d5ea945196fa1b2a,117,individual,1,0
+5d482ea521c9be351f7624ab,117,ind in groups,0,1
+5d482ea921c9be351f7638d3,117,ind in groups,0,1
+,118,group,1,1
+,118,nominal,0,0
+5d482ea221c9be351f761dd3,118,individual,0,1
+5d482ea421c9be351f76220c,118,individual,0,1
+5d482ea421c9be351f76230b,118,individual,0,0
+5d482ea521c9be351f76246b,118,individual,0,1
+5d482ea621c9be351f762856,118,individual,0,1
+5d482ea221c9be351f761dd3,118,ind in groups,1,1
+5d482ea421c9be351f76220c,118,ind in groups,1,0
+5d482ea421c9be351f76230b,118,ind in groups,1,1
+5d482ea521c9be351f76246b,118,ind in groups,1,0
+5d482ea621c9be351f762856,118,ind in groups,1,1
+,119,group,0,1
+,119,nominal,1,0
+5d482ea221c9be351f761e77,119,individual,1,1
+5d482ea721c9be351f762ede,119,individual,1,1
+5d482ea921c9be351f763618,119,individual,1,0
+5d482eab21c9be351f763ddf,119,individual,1,1
+5eacc390d5ea945196fa7bed,119,individual,1,0
+5ead904ad5ea945196fa9750,119,individual,1,1
+5d482ea221c9be351f761e77,119,ind in groups,0,0
+5d482ea721c9be351f762ede,119,ind in groups,0,1
+5d482ea921c9be351f763618,119,ind in groups,0,1
+5d482eab21c9be351f763ddf,119,ind in groups,0,1
+5eacc390d5ea945196fa7bed,119,ind in groups,0,1
+5ead904ad5ea945196fa9750,119,ind in groups,0,1
+,120,group,1,1
+,120,nominal,0,1
+5d482ea321c9be351f76209e,120,individual,0,1
+5d482ea321c9be351f762103,120,individual,0,1
+5d482ea521c9be351f7625b2,120,individual,0,1
+5d482ea621c9be351f762b56,120,individual,0,1
+5d482ea821c9be351f7632ad,120,individual,0,0
+5d482eab21c9be351f763df1,120,individual,0,1
+5ead905ed5ea945196fa9751,120,individual,0,0
+5d482ea321c9be351f76209e,120,ind in groups,1,1
+5d482ea321c9be351f762103,120,ind in groups,1,1
+5d482ea521c9be351f7625b2,120,ind in groups,1,1
+5d482ea621c9be351f762b56,120,ind in groups,1,1
+5d482ea821c9be351f7632ad,120,ind in groups,1,1
+5ead905ed5ea945196fa9751,120,ind in groups,1,1
+,121,group,0,0
+,121,nominal,1,1
+5d482ea421c9be351f76222f,121,individual,1,1
+5d482ea521c9be351f7623cd,121,individual,1,1
+5eadc90cd5ea945196fab1b7,121,individual,1,1
+5eadd582d5ea945196fab7fc,121,individual,1,1
+5d482ea421c9be351f76222f,121,ind in groups,0,1
+5eadc90cd5ea945196fab1b7,121,ind in groups,0,0
+5eadd00ad5ea945196fab489,121,ind in groups,0,1
+5eadd582d5ea945196fab7fc,121,ind in groups,0,1
+,122,group,1,1
+,122,nominal,0,0
+5d482ea321c9be351f762181,122,individual,0,1
+5d482ea621c9be351f762a4c,122,individual,0,1
+5d482ea721c9be351f762fff,122,individual,0,1
+5d482ea821c9be351f763340,122,individual,0,1
+5d482ea921c9be351f763591,122,individual,0,1
+5d482eab21c9be351f7641d2,122,individual,0,1
+5eac7804d5ea945196fa417a,122,individual,0,1
+5ead9428d5ea945196fa97c1,122,individual,0,0
+5d482ea221c9be351f761dbc,122,ind in groups,1,0
+5d482ea721c9be351f762fff,122,ind in groups,1,1
+5d482ea821c9be351f763340,122,ind in groups,1,1
+5d482ea921c9be351f763591,122,ind in groups,1,0
+5d482eab21c9be351f7641d2,122,ind in groups,1,1
+5eac7804d5ea945196fa417a,122,ind in groups,1,1
+5ead9428d5ea945196fa97c1,122,ind in groups,1,1
+,123,group,0,1
+,123,nominal,1,1
+5d482ea421c9be351f7622ab,123,individual,1,1
+5d482ea421c9be351f762335,123,individual,1,1
+5d482ea621c9be351f762b66,123,individual,1,1
+5eadbdf4d5ea945196faafa2,123,individual,1,1
+5eadbe76d5ea945196faafa8,123,individual,1,1
+5eadcaf6d5ea945196fab20a,123,individual,1,1
+5eade6c6d5ea945196fac47d,123,individual,1,0
+5eadf59ed5ea945196fac6b1,123,individual,1,1
+5d482ea421c9be351f7622ab,123,ind in groups,0,1
+5d482ea421c9be351f762335,123,ind in groups,0,1
+5d482ea621c9be351f762b66,123,ind in groups,0,1
+5eadbdf4d5ea945196faafa2,123,ind in groups,0,0
+5eadbe76d5ea945196faafa8,123,ind in groups,0,0
+5eadcaf6d5ea945196fab20a,123,ind in groups,0,1
+5eade6c6d5ea945196fac47d,123,ind in groups,0,1
+,124,group,1,0
+,124,nominal,0,0
+5d482eab21c9be351f7640b8,124,individual,0,0
+5eab40f6d5ea945196f9629b,124,individual,0,0
+5eadc8b2d5ea945196fab1af,124,individual,0,1
+5eae1466d5ea945196fad7a2,124,individual,0,1
+5d482eab21c9be351f7640b8,124,ind in groups,1,0
+5eab40f6d5ea945196f9629b,124,ind in groups,1,0
+5ead8f82d5ea945196fa9747,124,ind in groups,1,0
+5eadc8b2d5ea945196fab1af,124,ind in groups,1,0
+5eae1466d5ea945196fad7a2,124,ind in groups,1,1
+5eaf28ced5ea945196fadef0,124,ind in groups,1,0
+,125,group,1,1
+,125,nominal,0,1
+5ee122b6896280243c134057,125,individual,0,1
+5f1322982ce49169326082d4,125,individual,0,0
+5f1322b62ce49169326082d8,125,individual,0,1
+5f1322ca2ce49169326082d9,125,individual,0,1
+5f1323102ce49169326082e3,125,individual,0,0
+5f13236a2ce49169326082ef,125,individual,0,1
+5f13237e2ce49169326082f7,125,individual,0,1
+5f1323b02ce4916932608302,125,individual,0,1
+5ee122b6896280243c134057,125,ind in groups,1,0
+5f1322982ce49169326082d4,125,ind in groups,1,1
+5f1322ca2ce49169326082d9,125,ind in groups,1,1
+5f1323102ce49169326082e3,125,ind in groups,1,1
+5f13236a2ce49169326082ef,125,ind in groups,1,1
+5f13237e2ce49169326082f7,125,ind in groups,1,1
+,126,group,1,0
+,126,nominal,0,0
+5d482ea821c9be351f763252,126,individual,0,1
+5f1323422ce49169326082e9,126,individual,0,0
+5f18be8846a7f03dda99caca,126,individual,0,1
+5f18c10846a7f03dda99cf42,126,individual,0,1
+5f18c72a46a7f03dda99dd17,126,individual,0,1
+5f18c93c46a7f03dda99e34f,126,individual,0,0
+5d482ea821c9be351f763252,126,ind in groups,1,1
+5f1323422ce49169326082e9,126,ind in groups,1,1
+5f18be8846a7f03dda99caca,126,ind in groups,1,0
+5f18c10846a7f03dda99cf42,126,ind in groups,1,0
+5f18c72a46a7f03dda99dd17,126,ind in groups,1,1
+5f18c93c46a7f03dda99e34f,126,ind in groups,1,0
+,127,group,1,1
+,127,nominal,0,0
+5d482eaa21c9be351f763b92,127,individual,0,1
+5e9f3c169dc0406f89877a12,127,individual,0,1
+5f18bece46a7f03dda99cad8,127,individual,0,0
+5f18c1e446a7f03dda99d07c,127,individual,0,0
+5f18c5b846a7f03dda99d822,127,individual,0,1
+5f18c65846a7f03dda99d9c5,127,individual,0,0
+5d482eaa21c9be351f763b92,127,ind in groups,1,1
+5e9f3c169dc0406f89877a12,127,ind in groups,1,1
+5f18bece46a7f03dda99cad8,127,ind in groups,1,0
+5f18c1e446a7f03dda99d07c,127,ind in groups,1,1
+5f18c5b846a7f03dda99d822,127,ind in groups,1,1
+5f18c65846a7f03dda99d9c5,127,ind in groups,1,1
+,128,group,1,0
+,128,nominal,0,0
+5d482ea821c9be351f7634ee,128,individual,0,1
+5d482ea921c9be351f7635df,128,individual,0,0
+5f18ba6446a7f03dda99c923,128,individual,0,0
+5f18ba6446a7f03dda99c924,128,individual,0,1
+5f18bbe046a7f03dda99c932,128,individual,0,0
+5d482ea821c9be351f763428,128,ind in groups,1,0
+5d482ea821c9be351f7634ee,128,ind in groups,1,0
+5d482ea921c9be351f7635df,128,ind in groups,1,0
+5f18ba6446a7f03dda99c923,128,ind in groups,1,0
+5f18ba6446a7f03dda99c924,128,ind in groups,1,0
+,129,group,0,1
+,129,nominal,1,1
+5ee16ad2896280243c13835a,129,individual,1,1
+5f18b78a46a7f03dda99c86a,129,individual,1,1
+5f18b86646a7f03dda99c8ba,129,individual,1,1
+5f18ba4646a7f03dda99c8d4,129,individual,1,1
+5f18bc0846a7f03dda99c935,129,individual,1,1
+5f18bce446a7f03dda99c96a,129,individual,1,1
+5f18be3846a7f03dda99ca57,129,individual,1,0
+5d482eab21c9be351f763e0c,129,ind in groups,0,0
+5ee16ad2896280243c13835a,129,ind in groups,0,1
+5f18b86646a7f03dda99c8ba,129,ind in groups,0,1
+5f18ba4646a7f03dda99c8d4,129,ind in groups,0,1
+5f18bc0846a7f03dda99c935,129,ind in groups,0,1
+5f18bce446a7f03dda99c96a,129,ind in groups,0,1
+5f18be3846a7f03dda99ca57,129,ind in groups,0,1
+,130,group,1,1
+,130,nominal,0,1
+5d482eaa21c9be351f763934,130,individual,0,1
+5d482eab21c9be351f763e16,130,individual,0,1
+5d482eab21c9be351f763ed6,130,individual,0,1
+5ee16cf8896280243c138460,130,individual,0,0
+5f18ba6446a7f03dda99c925,130,individual,0,0
+5f18bbea46a7f03dda99c933,130,individual,0,1
+5f18bc3a46a7f03dda99c94b,130,individual,0,0
+5f18bc7646a7f03dda99c960,130,individual,0,1
+5d482eaa21c9be351f763934,130,ind in groups,1,1
+5d482eab21c9be351f763e16,130,ind in groups,1,1
+5d482eab21c9be351f763ed6,130,ind in groups,1,1
+5ee16cf8896280243c138460,130,ind in groups,1,1
+5f18ba6446a7f03dda99c925,130,ind in groups,1,1
+5f18bbea46a7f03dda99c933,130,ind in groups,1,1
+5f18bc3a46a7f03dda99c94b,130,ind in groups,1,1
+5f18bc7646a7f03dda99c960,130,ind in groups,1,1
+,131,group,0,1
+,131,nominal,1,1
+5d482eaa21c9be351f763900,131,individual,1,1
+5d482eaa21c9be351f763c6e,131,individual,1,1
+5d482eab21c9be351f764033,131,individual,1,1
+5f1323102ce49169326082e2,131,individual,1,1
+5f18b75846a7f03dda99c864,131,individual,1,1
+5f18b78a46a7f03dda99c869,131,individual,1,1
+5f18b79446a7f03dda99c86e,131,individual,1,0
+5d482eaa21c9be351f763900,131,ind in groups,0,1
+5d482eaa21c9be351f763a7a,131,ind in groups,0,0
+5d482eaa21c9be351f763c6e,131,ind in groups,0,1
+5d482eab21c9be351f764033,131,ind in groups,0,1
+5f1323102ce49169326082e2,131,ind in groups,0,1
+5f18b75846a7f03dda99c864,131,ind in groups,0,1
+5f18b78a46a7f03dda99c869,131,ind in groups,0,1
+5f18b79446a7f03dda99c86e,131,ind in groups,0,1
+,132,group,0,1
+,132,nominal,1,0
+5d482eaa21c9be351f763d40,132,individual,1,1
+5d482eaa21c9be351f763dab,132,individual,1,1
+5d482eab21c9be351f763e5d,132,individual,1,0
+5d482eab21c9be351f763f17,132,individual,1,1
+5ee14958896280243c135bcb,132,individual,1,1
+5ee168c0896280243c138219,132,individual,1,0
+5ee16b36896280243c138383,132,individual,1,1
+5f18b78a46a7f03dda99c86c,132,individual,1,1
+5d482eaa21c9be351f763d40,132,ind in groups,0,1
+5d482eaa21c9be351f763dab,132,ind in groups,0,1
+5d482eab21c9be351f763e5d,132,ind in groups,0,1
+5d482eab21c9be351f763f17,132,ind in groups,0,0
+5ee14958896280243c135bcb,132,ind in groups,0,0
+5ee168c0896280243c138219,132,ind in groups,0,1
+5ee16b36896280243c138383,132,ind in groups,0,1
+5f18b78a46a7f03dda99c86c,132,ind in groups,0,0
+,133,group,1,1
+,133,nominal,0,1
+5d482eab21c9be351f763f96,133,individual,0,1
+5f197d8246a7f03dda9a0ba5,133,individual,0,1
+5f197dbe46a7f03dda9a0be0,133,individual,0,1
+5f19803e46a7f03dda9a0c0a,133,individual,0,0
+5f19811046a7f03dda9a0c13,133,individual,0,1
+5d482eab21c9be351f763f96,133,ind in groups,1,0
+5f197dbe46a7f03dda9a0be0,133,ind in groups,1,1
+5f197f2646a7f03dda9a0bf2,133,ind in groups,1,0
+5f19803e46a7f03dda9a0c0a,133,ind in groups,1,1
+5f19811046a7f03dda9a0c13,133,ind in groups,1,1
+,134,group,1,1
+,134,nominal,0,0
+5ea8745c7d50722703c528b9,134,individual,0,1
+5f13239c2ce49169326082fd,134,individual,0,1
+5f18b77646a7f03dda99c867,134,individual,0,0
+5f18c35646a7f03dda99d40d,134,individual,0,1
+5f18c82446a7f03dda99dff3,134,individual,0,1
+5f18cc4846a7f03dda99ed0a,134,individual,0,0
+5ea8745c7d50722703c528b9,134,ind in groups,1,1
+5f13239c2ce49169326082fd,134,ind in groups,1,1
+5f18b77646a7f03dda99c867,134,ind in groups,1,0
+5f18c35646a7f03dda99d40d,134,ind in groups,1,0
+5f18c82446a7f03dda99dff3,134,ind in groups,1,1
+5f18cc4846a7f03dda99ed0a,134,ind in groups,1,1
+,135,group,1,1
+,135,nominal,0,1
+5e7e4efc31f4e454e196c986,135,individual,0,1
+5f19814c46a7f03dda9a0c18,135,individual,0,1
+5f19824646a7f03dda9a0c93,135,individual,0,1
+5e7e4efc31f4e454e196c986,135,ind in groups,1,1
+5f19814c46a7f03dda9a0c18,135,ind in groups,1,1
+5f19824646a7f03dda9a0c93,135,ind in groups,1,1
+,136,group,0,0
+,136,nominal,1,1
+5d482ea821c9be351f7632c5,136,individual,1,1
+5f19a73046a7f03dda9a2584,136,individual,1,1
+5f19adfc46a7f03dda9a2b7c,136,individual,1,1
+5f19b28446a7f03dda9a3368,136,individual,1,1
+5f19b2ac46a7f03dda9a3427,136,individual,1,0
+5d482ea821c9be351f7632c5,136,ind in groups,0,0
+5f19a73046a7f03dda9a2584,136,ind in groups,0,1
+5f19adfc46a7f03dda9a2b7c,136,ind in groups,0,0
+5f19b28446a7f03dda9a3368,136,ind in groups,0,1
+5f19b2ac46a7f03dda9a3427,136,ind in groups,0,0
+,137,group,0,1
+,137,nominal,1,1
+5d482ea721c9be351f762d3e,137,individual,1,1
+5d482eab21c9be351f76421d,137,individual,1,1
+5f19a71c46a7f03dda9a257c,137,individual,1,0
+5f19abfe46a7f03dda9a27dd,137,individual,1,1
+5f19ad2a46a7f03dda9a29f5,137,individual,1,0
+5d482ea721c9be351f762d3e,137,ind in groups,0,0
+5d482ea721c9be351f762f9f,137,ind in groups,0,1
+5d482ea721c9be351f76300e,137,ind in groups,0,1
+5d482eab21c9be351f76421d,137,ind in groups,0,0
+5f19a71c46a7f03dda9a257c,137,ind in groups,0,1
+5f19abfe46a7f03dda9a27dd,137,ind in groups,0,1
+5f19ad2a46a7f03dda9a29f5,137,ind in groups,0,1
+,138,group,1,1
+,138,nominal,0,1
+5d482ea821c9be351f7632a5,138,individual,0,1
+5d482eab21c9be351f763f5e,138,individual,0,0
+5f18bcf846a7f03dda99c96e,138,individual,0,1
+5f1986ec46a7f03dda9a0f75,138,individual,0,1
+5f19a7b246a7f03dda9a2595,138,individual,0,1
+5f19a89846a7f03dda9a26c2,138,individual,0,1
+5d482ea821c9be351f7632a5,138,ind in groups,1,1
+5d482eab21c9be351f763f5e,138,ind in groups,1,1
+5f18bcf846a7f03dda99c96e,138,ind in groups,1,1
+5f1986ec46a7f03dda9a0f75,138,ind in groups,1,1
+5f19a7b246a7f03dda9a2595,138,ind in groups,1,1
+5f19a88e46a7f03dda9a26c0,138,ind in groups,1,1
+5f19a89846a7f03dda9a26c2,138,ind in groups,1,1
+,139,group,1,0
+,139,nominal,0,0
+5d482eab21c9be351f76404d,139,individual,0,0
+5f19a7a846a7f03dda9a2593,139,individual,0,1
+5f19a7bc46a7f03dda9a2596,139,individual,0,0
+5f19a83446a7f03dda9a25ee,139,individual,0,0
+5f19a8ac46a7f03dda9a26c5,139,individual,0,1
+5f19a8ac46a7f03dda9a26c6,139,individual,0,1
+5d482eab21c9be351f76404d,139,ind in groups,1,1
+5f19a7bc46a7f03dda9a2596,139,ind in groups,1,1
+5f19a80246a7f03dda9a25e9,139,ind in groups,1,0
+5f19a83446a7f03dda9a25ee,139,ind in groups,1,1
+5f19a8ac46a7f03dda9a26c5,139,ind in groups,1,0
+5f19a8ac46a7f03dda9a26c6,139,ind in groups,1,1
+,140,group,0,0
+,140,nominal,1,0
+5d482eaa21c9be351f763b05,140,individual,1,1
+5ee25938896280243c139475,140,individual,1,1
+5f19841246a7f03dda9a0d3c,140,individual,1,1
+5f19a71c46a7f03dda9a257d,140,individual,1,0
+5ee25938896280243c139475,140,ind in groups,0,1
+5f19a71c46a7f03dda9a257d,140,ind in groups,0,0
+,141,group,1,1
+,141,nominal,0,0
+5eaf2e6ed5ea945196fadf80,141,individual,0,0
+5ebca97278f5b8169eccbc44,141,individual,0,1
+5f18b81646a7f03dda99c875,141,individual,0,0
+5f18c9a046a7f03dda99e50c,141,individual,0,0
+5f19859846a7f03dda9a0e98,141,individual,0,0
+5eab24aed5ea945196f95bc9,141,ind in groups,1,1
+5ebca97278f5b8169eccbc44,141,ind in groups,1,1
+5f18b81646a7f03dda99c875,141,ind in groups,1,0
+5f18c9a046a7f03dda99e50c,141,ind in groups,1,1
+5f19859846a7f03dda9a0e98,141,ind in groups,1,0
+,142,group,1,0
+,142,nominal,0,0
+5d482ea721c9be351f762c9f,142,individual,0,0
+5eaca6e4d5ea945196fa62b0,142,individual,0,1
+5f18c48246a7f03dda99d597,142,individual,0,1
+5f1a21f646a7f03dda9a6b99,142,individual,0,0
+5d482ea721c9be351f762c9f,142,ind in groups,1,1
+5f18c48246a7f03dda99d597,142,ind in groups,1,1
+5f18c59a46a7f03dda99d805,142,ind in groups,1,0
+,143,group,0,0
+,143,nominal,1,1
+5d482ea621c9be351f7628b6,143,individual,1,1
+5d482eaa21c9be351f763a30,143,individual,1,1
+5ee12306896280243c13405e,143,individual,1,0
+5ee147e6896280243c135b3d,143,individual,1,1
+5f1a1bca46a7f03dda9a6561,143,individual,1,1
+5f1a1fa846a7f03dda9a68c5,143,individual,1,1
+5d482eaa21c9be351f763a30,143,ind in groups,0,0
+5ee12306896280243c13405e,143,ind in groups,0,1
+5ee147e6896280243c135b3d,143,ind in groups,0,0
+5f1a1bca46a7f03dda9a6561,143,ind in groups,0,0
+,144,group,1,1
+,144,nominal,0,1
+5d482ea621c9be351f762ba6,144,individual,0,0
+5f18c1b246a7f03dda99d022,144,individual,0,1
+5f1a1ac646a7f03dda9a650a,144,individual,0,0
+5f1a1d5046a7f03dda9a66d5,144,individual,0,1
+5d482ea621c9be351f762ba6,144,ind in groups,1,1
+5d482ea621c9be351f762b78,144,ind in groups,1,1
+5f18c1b246a7f03dda99d022,144,ind in groups,1,1
+5f1a1ac646a7f03dda9a650a,144,ind in groups,1,1
+5f1a1d5046a7f03dda9a66d5,144,ind in groups,1,1
+,145,group,1,0
+,145,nominal,0,1
+5d482ea721c9be351f762c60,145,individual,0,1
+5d482ea721c9be351f762f15,145,individual,0,1
+5d482eaa21c9be351f763db4,145,individual,0,0
+5d482eab21c9be351f764144,145,individual,0,0
+5f19b2d446a7f03dda9a3497,145,individual,0,0
+5d482ea721c9be351f762c60,145,ind in groups,1,1
+5d482ea721c9be351f762f15,145,ind in groups,1,1
+5d482eaa21c9be351f763db4,145,ind in groups,1,1
+5d482eab21c9be351f764144,145,ind in groups,1,0
+5f19b2d446a7f03dda9a3497,145,ind in groups,1,1
+,146,group,1,1
+,146,nominal,0,0
+5d482ea821c9be351f7631f8,146,individual,0,0
+5d482eab21c9be351f763ef9,146,individual,0,0
+5d482eab21c9be351f7640fa,146,individual,0,1
+5d482eab21c9be351f76424b,146,individual,0,0
+5f13228e2ce49169326082d0,146,individual,0,0
+5f13234c2ce49169326082eb,146,individual,0,1
+5f1a192246a7f03dda9a6305,146,individual,0,0
+5f1a1a9e46a7f03dda9a6500,146,individual,0,0
+5d482eab21c9be351f763ef9,146,ind in groups,1,1
+5d482eab21c9be351f7640fa,146,ind in groups,1,1
+5d482eab21c9be351f76424b,146,ind in groups,1,1
+5f13228e2ce49169326082d0,146,ind in groups,1,1
+5f13234c2ce49169326082eb,146,ind in groups,1,1
+5f1a192246a7f03dda9a6305,146,ind in groups,1,0
+5f1a1a9e46a7f03dda9a6500,146,ind in groups,1,1
+,147,group,1,1
+,147,nominal,0,0
+5d482ea821c9be351f7633a5,147,individual,0,1
+5d482ea921c9be351f76382b,147,individual,0,0
+5d482eaa21c9be351f763dd0,147,individual,0,0
+5f18bbea46a7f03dda99c934,147,individual,0,1
+5f18c56846a7f03dda99d7ab,147,individual,0,0
+5f18cc2046a7f03dda99ece2,147,individual,0,1
+5f19ac6246a7f03dda9a27ef,147,individual,0,1
+5d482ea821c9be351f7633a5,147,ind in groups,1,1
+5d482ea921c9be351f76382b,147,ind in groups,1,1
+5d482eaa21c9be351f763dd0,147,ind in groups,1,1
+5f18bbea46a7f03dda99c934,147,ind in groups,1,1
+5f18c56846a7f03dda99d7ab,147,ind in groups,1,1
+5f18cc2046a7f03dda99ece2,147,ind in groups,1,1
+5f19ac6246a7f03dda9a27ef,147,ind in groups,1,1
+,148,group,1,1
+,148,nominal,0,0
+5d482ea921c9be351f763633,148,individual,0,1
+5eaf2a68d5ea945196fadf4c,148,individual,0,1
+5ee16aa0896280243c13831f,148,individual,0,0
+5f18b85246a7f03dda99c87a,148,individual,0,0
+5f18c16246a7f03dda99cf9d,148,individual,0,0
+5f18c62646a7f03dda99d97b,148,individual,0,1
+5f197d2846a7f03dda9a0b99,148,individual,0,0
+5f19b0c246a7f03dda9a2f89,148,individual,0,1
+5d482ea921c9be351f763633,148,ind in groups,1,1
+5eaf2a68d5ea945196fadf4c,148,ind in groups,1,1
+5ee16aa0896280243c13831f,148,ind in groups,1,1
+5f18b85246a7f03dda99c87a,148,ind in groups,1,1
+5f18c16246a7f03dda99cf9d,148,ind in groups,1,1
+5f18c62646a7f03dda99d97b,148,ind in groups,1,1
+5f197d2846a7f03dda9a0b99,148,ind in groups,1,1
+5f19b0c246a7f03dda9a2f89,148,ind in groups,1,1
+,149,group,1,0
+,149,nominal,0,1
+5d482ea721c9be351f762e18,149,individual,0,0
+5e31d694e31c5304c46f13ec,149,individual,0,1
+5ee14692896280243c135226,149,individual,0,1
+5f19a74446a7f03dda9a2587,149,individual,0,0
+5f1adfc446a7f03dda9a9d49,149,individual,0,1
+5d482ea721c9be351f762da1,149,ind in groups,1,0
+5e31d694e31c5304c46f13ec,149,ind in groups,1,0
+5ee14692896280243c135226,149,ind in groups,1,1
+5f19a74446a7f03dda9a2587,149,ind in groups,1,1
+5f1adfc446a7f03dda9a9d49,149,ind in groups,1,1
+,150,group,1,0
+,150,nominal,0,0
+5d482ea821c9be351f7631de,150,individual,0,0
+5f19b1da46a7f03dda9a327a,150,individual,0,0
+5f1adee846a7f03dda9a9cec,150,individual,0,1
+5f19b1da46a7f03dda9a327a,150,ind in groups,1,0
+5f1adee846a7f03dda9a9cec,150,ind in groups,1,1
+,151,group,0,1
+,151,nominal,1,0
+5ee25974896280243c13947a,151,individual,1,1
+5f18b9b046a7f03dda99c8c7,151,individual,1,1
+5f19b02246a7f03dda9a2e6d,151,individual,1,0
+5f1adc9046a7f03dda9a9c96,151,individual,1,0
+5ee25974896280243c13947a,151,ind in groups,0,1
+5f18b9b046a7f03dda99c8c7,151,ind in groups,0,0
+5f1adc9046a7f03dda9a9c96,151,ind in groups,0,1
+,152,group,0,1
+,152,nominal,1,1
+5d482ea321c9be351f762052,152,individual,1,1
+5d482ea321c9be351f76211d,152,individual,1,1
+5d482ea621c9be351f762a01,152,individual,1,1
+5f19b62646a7f03dda9a3ddf,152,individual,1,1
+5f1b54cc46a7f03dda9abf53,152,individual,1,1
+5f1b5f4446a7f03dda9ad19a,152,individual,1,0
+5d482ea321c9be351f762052,152,ind in groups,0,1
+5d482ea321c9be351f76211d,152,ind in groups,0,1
+5d482ea621c9be351f762a01,152,ind in groups,0,1
+5f1b54cc46a7f03dda9abf53,152,ind in groups,0,1
+5f1b5f4446a7f03dda9ad19a,152,ind in groups,0,1
+,153,group,1,1
+,153,nominal,0,1
+5d41e7a6ce0995585f1a5321,153,individual,0,0
+5d482ea121c9be351f761c63,153,individual,0,0
+5d482ea321c9be351f76207e,153,individual,0,1
+5d482ea421c9be351f762275,153,individual,0,1
+5d482eaa21c9be351f763a5c,153,individual,0,1
+5f1b5b3e46a7f03dda9ac993,153,individual,0,1
+5d41e7a6ce0995585f1a5321,153,ind in groups,1,1
+5d482ea321c9be351f76207e,153,ind in groups,1,1
+5d482ea421c9be351f762275,153,ind in groups,1,1
+5d482eaa21c9be351f763a5c,153,ind in groups,1,1
+5f1b5b3e46a7f03dda9ac993,153,ind in groups,1,1
+,154,group,1,1
+,154,nominal,0,0
+5d482ea321c9be351f76218e,154,individual,0,0
+5d482ea421c9be351f762253,154,individual,0,1
+5d482ea721c9be351f763007,154,individual,0,0
+5f1ae3ac46a7f03dda9a9e5f,154,individual,0,1
+5d482ea321c9be351f76218e,154,ind in groups,1,1
+5d482ea421c9be351f762253,154,ind in groups,1,1
+5d482ea721c9be351f763007,154,ind in groups,1,1
+5d482ea821c9be351f763453,154,ind in groups,1,1
+5f1ae3ac46a7f03dda9a9e5f,154,ind in groups,1,1
+,155,group,1,1
+,155,nominal,0,0
+5d482ea421c9be351f762208,155,individual,0,1
+5d482ea521c9be351f762729,155,individual,0,1
+5f1a1a7646a7f03dda9a64ff,155,individual,0,0
+5f1b504e46a7f03dda9abcfe,155,individual,0,0
+5d482ea321c9be351f762169,155,ind in groups,1,1
+5d482ea421c9be351f762208,155,ind in groups,1,1
+5d482ea521c9be351f762539,155,ind in groups,1,1
+5d482ea521c9be351f762729,155,ind in groups,1,1
+5f1a1a7646a7f03dda9a64ff,155,ind in groups,1,1
+5f1b504e46a7f03dda9abcfe,155,ind in groups,1,1
+,156,group,1,1
+,156,nominal,0,0
+5d482ea621c9be351f762b3f,156,individual,0,0
+5d482ea721c9be351f762df2,156,individual,0,0
+5d482ea721c9be351f762e5b,156,individual,0,1
+5f18c50e46a7f03dda99d6cd,156,individual,0,0
+5f19b5b846a7f03dda9a3c82,156,individual,0,1
+5f1b4f4a46a7f03dda9abce8,156,individual,0,1
+5f1b4fcc46a7f03dda9abcf2,156,individual,0,1
+5d482ea621c9be351f762b3f,156,ind in groups,1,1
+5d482ea721c9be351f762df2,156,ind in groups,1,1
+5d482ea721c9be351f762e5b,156,ind in groups,1,0
+5f18c50e46a7f03dda99d6cd,156,ind in groups,1,1
+5f19b5b846a7f03dda9a3c82,156,ind in groups,1,1
+5f1b4f4a46a7f03dda9abce8,156,ind in groups,1,0
+5f1b4fcc46a7f03dda9abcf2,156,ind in groups,1,1
+,157,group,1,1
+,157,nominal,0,1
+5e9f55029dc0406f8987ade7,157,individual,0,0
+5eade9c8d5ea945196fac5e5,157,individual,0,0
+5ee14c82896280243c135d20,157,individual,0,1
+5f1a23ea46a7f03dda9a7034,157,individual,0,1
+5e9f55029dc0406f8987ade7,157,ind in groups,1,1
+5eade9c8d5ea945196fac5e5,157,ind in groups,1,1
+5ee14c82896280243c135d20,157,ind in groups,1,1
+5f1a23ea46a7f03dda9a7034,157,ind in groups,1,1
+,158,group,0,1
+,158,nominal,1,1
+5d482ea521c9be351f762622,158,individual,1,1
+5d482ea521c9be351f762617,158,individual,1,1
+5d482ea821c9be351f763264,158,individual,1,0
+5f1b53e646a7f03dda9abeb6,158,individual,1,1
+5f1ee8e446a7f03dda9af874,158,individual,1,1
+5d482ea521c9be351f762622,158,ind in groups,0,1
+5d482ea521c9be351f762617,158,ind in groups,0,0
+5d482ea821c9be351f763264,158,ind in groups,0,1
+5f1b53e646a7f03dda9abeb6,158,ind in groups,0,1
+5f1ee8e446a7f03dda9af874,158,ind in groups,0,1
+,159,group,0,1
+,159,nominal,1,1
+5d482ea521c9be351f762440,159,individual,1,1
+5d482ea521c9be351f762629,159,individual,1,0
+5d482ea921c9be351f7635f1,159,individual,1,1
+5f1ee74046a7f03dda9af6c7,159,individual,1,1
+5d482ea521c9be351f762440,159,ind in groups,0,1
+5d482ea521c9be351f762629,159,ind in groups,0,1
+5d482ea921c9be351f7635f1,159,ind in groups,0,0
+5f1ee74046a7f03dda9af6c7,159,ind in groups,0,1
+,160,group,1,1
+,160,nominal,0,0
+5d482eab21c9be351f76421a,160,individual,0,0
+5f1ee26846a7f03dda9af1ef,160,individual,0,0
+5f1ee41646a7f03dda9af25e,160,individual,0,0
+5f1ee5a646a7f03dda9af497,160,individual,0,1
+5d482eab21c9be351f76421a,160,ind in groups,1,1
+5f1ee26846a7f03dda9af1ef,160,ind in groups,1,1
+5f1ee5a646a7f03dda9af497,160,ind in groups,1,0
+,161,group,0,0
+,161,nominal,1,1
+5d482ea621c9be351f762a61,161,individual,1,1
+5d482eaa21c9be351f763c35,161,individual,1,1
+5f1b61b046a7f03dda9ad590,161,individual,1,1
+5f1edf2046a7f03dda9aef70,161,individual,1,0
+5d482ea621c9be351f7629ff,161,ind in groups,0,0
+5d482ea621c9be351f762a61,161,ind in groups,0,0
+5d482eaa21c9be351f763c35,161,ind in groups,0,1
+5f1b61b046a7f03dda9ad590,161,ind in groups,0,1
+5f1edf2046a7f03dda9aef70,161,ind in groups,0,0
+,162,group,1,1
+,162,nominal,0,1
+5f1ee07446a7f03dda9aef96,162,individual,0,1
+5f1ee2ea46a7f03dda9af1fc,162,individual,0,1
+5f19ad4846a7f03dda9a2a10,162,ind in groups,1,0
+5f1ee07446a7f03dda9aef96,162,ind in groups,1,0
+5f1ee2ea46a7f03dda9af1fc,162,ind in groups,1,1
+,163,group,0,0
+,163,nominal,1,1
+5d482ea621c9be351f762885,163,individual,1,1
+5d482ea721c9be351f762c0d,163,individual,1,0
+5d482ea921c9be351f7636c7,163,individual,1,0
+5eaf0dc6d5ea945196fadc0a,163,individual,1,1
+5f1add7646a7f03dda9a9ca6,163,individual,1,1
+5f1edf3e46a7f03dda9aef76,163,individual,1,1
+5d482ea621c9be351f762885,163,ind in groups,0,1
+5d482ea721c9be351f762c0d,163,ind in groups,0,1
+5d482ea921c9be351f7636c7,163,ind in groups,0,0
+5eaf0dc6d5ea945196fadc0a,163,ind in groups,0,0
+5f1add7646a7f03dda9a9ca6,163,ind in groups,0,0
+5f1edf3e46a7f03dda9aef76,163,ind in groups,0,0
+5f1ee0ec46a7f03dda9aeff0,163,ind in groups,0,1
+,164,group,1,1
+,164,nominal,0,1
+5d482ea921c9be351f7635ce,164,individual,0,0
+5d482ea921c9be351f763771,164,individual,0,1
+5d482eaa21c9be351f763a0c,164,individual,0,0
+5ee16c44896280243c1383f5,164,individual,0,1
+5ee25924896280243c139471,164,individual,0,1
+5f19acb246a7f03dda9a29a9,164,individual,0,0
+5f19b1c646a7f03dda9a3270,164,individual,0,1
+5f1ee01046a7f03dda9aef8b,164,individual,0,1
+5d482ea921c9be351f7635ce,164,ind in groups,1,1
+5d482ea921c9be351f763771,164,ind in groups,1,1
+5d482eaa21c9be351f763a0c,164,ind in groups,1,1
+5ee16c44896280243c1383f5,164,ind in groups,1,0
+5f19acb246a7f03dda9a29a9,164,ind in groups,1,1
+5f19b1c646a7f03dda9a3270,164,ind in groups,1,1
+5f1ee01046a7f03dda9aef8b,164,ind in groups,1,0
+,165,group,1,1
+,165,nominal,0,0
+5d1249922d54e95acef0bc13,165,individual,0,0
+5d482ea221c9be351f761e85,165,individual,0,0
+5d482ea621c9be351f762995,165,individual,0,1
+5f1f4a7846a7f03dda9b3f62,165,individual,0,0
+5f1f4de846a7f03dda9b4883,165,individual,0,0
+5d1249922d54e95acef0bc13,165,ind in groups,1,1
+5d482ea221c9be351f761e85,165,ind in groups,1,0
+5d482ea621c9be351f762995,165,ind in groups,1,1
+5d482ea721c9be351f762e3b,165,ind in groups,1,1
+5f1f4a7846a7f03dda9b3f62,165,ind in groups,1,1
+,166,group,0,0
+,166,nominal,1,0
+5d482ea221c9be351f761f7f,166,individual,1,1
+5d482ea721c9be351f762ea6,166,individual,1,1
+5f1f4a8246a7f03dda9b3f65,166,individual,1,0
+5f1f4b7246a7f03dda9b418d,166,individual,1,1
+5d482ea221c9be351f761f7f,166,ind in groups,0,0
+5d482ea721c9be351f762ea6,166,ind in groups,0,0
+5f1f471c46a7f03dda9b3893,166,ind in groups,0,0
+5f1f4a8246a7f03dda9b3f65,166,ind in groups,0,0
+5f1f4b7246a7f03dda9b418d,166,ind in groups,0,1
+,167,group,0,0
+,167,nominal,1,0
+5d482ea121c9be351f761caf,167,individual,1,0
+5d482ea221c9be351f761e61,167,individual,1,1
+5d482ea321c9be351f762080,167,individual,1,0
+5eaa5cead5ea945196f95232,167,individual,1,1
+5f1f490646a7f03dda9b3bea,167,individual,1,1
+5d482ea121c9be351f761caf,167,ind in groups,0,0
+5d482ea221c9be351f761e61,167,ind in groups,0,0
+5d482ea321c9be351f762080,167,ind in groups,0,0
+5eaa5cead5ea945196f95232,167,ind in groups,0,0
+5f18c1ee46a7f03dda99d080,167,ind in groups,0,0
+5f1b553046a7f03dda9abf8c,167,ind in groups,0,1
+5f1f490646a7f03dda9b3bea,167,ind in groups,0,0
+,168,group,0,0
+,168,nominal,1,0
+5d482ea221c9be351f761e70,168,individual,1,0
+5d482ea321c9be351f761fc8,168,individual,1,0
+5d482ea321c9be351f762092,168,individual,1,1
+5d482ea421c9be351f7621e3,168,individual,1,1
+5d482ea421c9be351f7621e7,168,individual,1,0
+5d482ea721c9be351f762d1a,168,individual,1,0
+5d482ea221c9be351f761dd4,168,ind in groups,0,1
+5d482ea221c9be351f761e70,168,ind in groups,0,1
+5d482ea321c9be351f761fc8,168,ind in groups,0,1
+5d482ea321c9be351f762092,168,ind in groups,0,1
+5d482ea421c9be351f7621e3,168,ind in groups,0,0
+5d482ea421c9be351f7621e7,168,ind in groups,0,1
+5d482ea721c9be351f762d1a,168,ind in groups,0,1
+,169,group,0,1
+,169,nominal,1,0
+5d482ea521c9be351f762481,169,individual,1,1
+5f1ee20446a7f03dda9af1e7,169,individual,1,0
+5f1f43d446a7f03dda9b3504,169,individual,1,0
+5d482ea521c9be351f762481,169,ind in groups,0,1
+5f1ee20446a7f03dda9af1e7,169,ind in groups,0,1
+5f1f3fce46a7f03dda9b3174,169,ind in groups,0,1
+5f1f43d446a7f03dda9b3504,169,ind in groups,0,1
+,170,group,0,0
+,170,nominal,1,1
+5d482ea821c9be351f7631e3,170,individual,1,0
+5eaddac8d5ea945196fabc70,170,individual,1,0
+5f1f401e46a7f03dda9b31b9,170,individual,1,1
+5d482ea821c9be351f7631e3,170,ind in groups,0,1
+5eaddac8d5ea945196fabc70,170,ind in groups,0,1
+5f1f401e46a7f03dda9b31b9,170,ind in groups,0,0
+5f1f430246a7f03dda9b34a6,170,ind in groups,0,0
+,171,group,1,1
+,171,nominal,0,0
+5d482ea721c9be351f762e99,171,individual,0,1
+5d482ea721c9be351f762f67,171,individual,0,1
+5d482ea821c9be351f7632f4,171,individual,0,1
+5d482eaa21c9be351f763cfb,171,individual,0,1
+5d482eaa21c9be351f763dbf,171,individual,0,0
+5d482eab21c9be351f764274,171,individual,0,0
+5f1eed5846a7f03dda9b0054,171,individual,0,0
+5f1f400046a7f03dda9b317c,171,individual,0,1
+5d482ea721c9be351f762e99,171,ind in groups,1,1
+5d482ea721c9be351f762f67,171,ind in groups,1,1
+5d482eaa21c9be351f763cfb,171,ind in groups,1,1
+5d482eaa21c9be351f763dbf,171,ind in groups,1,1
+5d482eab21c9be351f764274,171,ind in groups,1,1
+5f1eed5846a7f03dda9b0054,171,ind in groups,1,1
+5f1f400046a7f03dda9b317c,171,ind in groups,1,1
+,172,group,0,1
+,172,nominal,1,0
+5ee1655a896280243c13812f,172,individual,1,1
+5f19adf246a7f03dda9a2b6d,172,individual,1,1
+5f19ae3846a7f03dda9a2be8,172,individual,1,0
+5f1ae1c246a7f03dda9a9d8d,172,individual,1,0
+5f1b5d1e46a7f03dda9acdad,172,individual,1,1
+5f1b616046a7f03dda9ad4ef,172,individual,1,1
+5ee1655a896280243c13812f,172,ind in groups,0,1
+5f19adf246a7f03dda9a2b6d,172,ind in groups,0,0
+5f19ae3846a7f03dda9a2be8,172,ind in groups,0,1
+5f1ae1c246a7f03dda9a9d8d,172,ind in groups,0,1
+5f1b4e6e46a7f03dda9abce0,172,ind in groups,0,1
+5f1b5d1e46a7f03dda9acdad,172,ind in groups,0,1
+5f1b616046a7f03dda9ad4ef,172,ind in groups,0,1
+,173,group,1,1
+,173,nominal,0,0
+5d482ea321c9be351f7620fd,173,individual,0,1
+5d482ea621c9be351f762914,173,individual,0,1
+5f20327646a7f03dda9b8964,173,individual,0,0
+5d482ea321c9be351f7620fd,173,ind in groups,1,1
+5d482ea621c9be351f762914,173,ind in groups,1,1
+5f20327646a7f03dda9b8964,173,ind in groups,1,1
+,174,group,0,1
+,174,nominal,1,0
+5d482ea521c9be351f7626bd,174,individual,1,0
+5f20311846a7f03dda9b86ee,174,individual,1,1
+5f2033ac46a7f03dda9b89de,174,individual,1,0
+5f20342e46a7f03dda9b8a00,174,individual,1,1
+5f2033ac46a7f03dda9b89de,174,ind in groups,0,0
+,175,group,1,1
+,175,nominal,0,0
+5d482ea521c9be351f762700,175,individual,0,1
+5d482ea621c9be351f7628ea,175,individual,0,0
+5d482ea721c9be351f762e62,175,individual,0,0
+5f20300046a7f03dda9b8683,175,individual,0,0
+5f20302846a7f03dda9b8687,175,individual,0,0
+5d482ea521c9be351f762700,175,ind in groups,1,1
+5d482ea621c9be351f7628ea,175,ind in groups,1,0
+5d482ea721c9be351f762e62,175,ind in groups,1,1
+5f20300046a7f03dda9b8683,175,ind in groups,1,1
+5f20302846a7f03dda9b8687,175,ind in groups,1,1
+,176,group,0,0
+,176,nominal,1,0
+,177,group,0,0
+,177,nominal,1,0
+5f18c89c46a7f03dda99e1d0,177,individual,1,1
+5f1a214246a7f03dda9a6aad,177,individual,1,0
+5f1f466846a7f03dda9b37c3,177,individual,1,0
+5f18c89c46a7f03dda99e1d0,177,ind in groups,0,0
+5f1a214246a7f03dda9a6aad,177,ind in groups,0,1
+5f1f466846a7f03dda9b37c3,177,ind in groups,0,0
