@@ -1,0 +1,189 @@
+
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(ggpubr)
+library(dabestr)
+
+z = 1.96 #for 95% CI
+
+before <- read.csv("batch-before-data.csv") %>% mutate(Phase = "Before")
+during <- read.csv("batch-during-data.csv") %>% mutate(Phase = "During")
+after  <- read.csv("batch-after-data.csv") %>% mutate(Phase = "After")
+
+raw_data <- before %>% bind_rows(during) %>% bind_rows(after) %>% 
+  mutate(
+    condition = case_when(
+      condition == "group" ~ "Groups",
+      condition == "ind" ~ "Individuals",
+      condition == "ind in groups" ~ "Group members",
+      condition == "nominal" ~ "Nominal groups",
+      ),
+    Consistent = case_when(
+      consistency != 1 ~ "Not consistent",
+      consistency == 1 ~ "Consistent"
+    ),
+    condition = ordered(condition, levels= c("Groups","Individuals","Group members","Nominal groups")),
+    Primary = condition == "Groups" | condition == "Individuals",
+    Consistent = ordered(Consistent, levels= c("Not consistent","Consistent")),
+    UniqueID = paste(id,batchnum)
+  )
+```
+
+```{r}
+filtered_data <- raw_data %>% 
+  filter(condition == "Groups" | condition == "Individuals") %>% 
+  filter(Phase == "During")
+
+label <- filtered_data %>% 
+  group_by(condition) %>% 
+  summarise(
+    Percent = mean(consistency),
+    CI = z * sd(consistency)/sqrt(n()),
+    )
+
+p <- ggplot() + 
+  geom_bar(data= filtered_data, aes(condition,fill=Consistent), position="fill") +
+  # geom_dotplot(aes(condition, fill=Consistent),position="dodge",)
+  # geom_point(aes(condition, Consistent),position="jitter") + 
+  geom_text(data=label,aes(condition,0.15,label=paste(round(Percent*100,2),"%\nConsistent",sep = "")),color="white") +
+  geom_text(data=label,aes(condition,1-0.15,label=paste(round((1-Percent)*100,2),"%\nInconsistent",sep = "")),color="white") +
+  geom_linerange(data=label,aes(condition,ymin=Percent-CI,ymax=Percent+CI),color="white",size=1) +
+  # geom_text(data=label,aes(condition,Percent-CI-0.05,label="95% CI"),color="white",size=3) +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values=c("#d1495b","#66a182")) +
+  theme_pubclean() + 
+  labs(x="",y="") + 
+  theme(legend.position = "none") 
+p
+pdf('GroupsVsIndividuals.pdf', width=7.5, height=2.5)
+p
+dev.off()
+```
+
+```{r}
+filtered_data <- raw_data %>% 
+  filter(condition == "Groups" | condition == "Nominal groups") %>% 
+  filter(Phase == "During")
+
+label <- filtered_data %>% 
+  group_by(condition) %>% 
+  summarise(
+    Percent = mean(consistency),
+    CI = z * sd(consistency)/sqrt(n()),
+    )
+
+p <- ggplot() + 
+  geom_bar(data= filtered_data, aes(condition,fill=Consistent), position="fill") +
+  # geom_dotplot(aes(condition, fill=Consistent),position="dodge",)
+  # geom_point(aes(condition, Consistent),position="jitter") + 
+  geom_text(data=label,aes(condition,0.15,label=paste(round(Percent*100,2),"%\nConsistent",sep = "")),color="white") +
+  geom_text(data=label,aes(condition,1-0.15,label=paste(round((1-Percent)*100,2),"%\nInconsistent",sep = "")),color="white") +
+  geom_linerange(data=label,aes(condition,ymin=Percent-CI,ymax=Percent+CI),color="white",size=1) +
+  # geom_text(data=label,aes(condition,Percent-CI-0.05,label="95% CI"),color="white",size=3) +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values=c("#d1495b","#66a182")) +
+  theme_pubclean() + 
+  labs(x="",y="") + 
+  theme(legend.position = "none",
+        # text = element_text(size=15)
+        )
+
+p
+pdf('GroupsVsIndividuals.pdf', width=7.5, height=2.5)
+p
+dev.off()
+```
+
+```{r}
+filtered_data <- raw_data %>% 
+  filter(condition == "Individuals in groups" | condition == "Individuals") %>% 
+  filter(Phase == "During")
+
+filtered_data <- filtered_data %>% group_by(id) %>% 
+  summarise(n = n()) %>% 
+  filter(n == 2) %>% 
+  select(-n) %>% 
+  left_join(filtered_data)
+
+
+
+label <- filtered_data %>% 
+  group_by(condition) %>% 
+  summarise(
+    Percent = mean(consistency),
+    CI = z * sd(consistency)/sqrt(n()),
+    )
+
+p <- ggplot() + 
+  geom_bar(data= filtered_data, aes(condition,fill=Consistent), position="fill") +
+  # geom_dotplot(aes(condition, fill=Consistent),position="dodge",)
+  # geom_point(aes(condition, Consistent),position="jitter") + 
+  geom_text(data=label,aes(condition,0.15,label=paste(round(Percent*100,2),"%\nConsistent",sep = "")),color="white") +
+  geom_text(data=label,aes(condition,1-0.15,label=paste(round((1-Percent)*100,2),"%\nInconsistent",sep = "")),color="white") +
+  geom_linerange(data=label,aes(condition,ymin=Percent-CI,ymax=Percent+CI),color="white",size=1) +
+  # geom_text(data=label,aes(condition,Percent-CI-0.05,label="95% CI"),color="white",size=3) +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values=c("#d1495b","#66a182")) +
+  theme_pubclean() + 
+  labs(x="",y="") + 
+  theme(legend.position = "none",
+        # text = element_text(size=15)
+        )
+
+p
+pdf('GroupsVsIndividuals.pdf', width=7.5, height=2.5)
+p
+dev.off()
+
+d <- dabest(filtered_data,condition,consistency,idx = c("Individuals in groups","Individuals"),paired = TRUE, id.column = UniqueID) 
+plot(d, slopegraph = FALSE, theme = ggplot2::swarmplot)
+d
+```
+
+```{r}
+filtered_data <- raw_data %>% filter(Phase == "During")
+
+label <- filtered_data %>% 
+  group_by(condition) %>% 
+  summarise(
+    Percent = mean(consistency),
+    CI = z * sd(consistency)/sqrt(n()),
+    )
+
+p <- ggplot() + 
+  geom_bar(data= filtered_data, aes(condition,fill=Consistent,alpha=Primary), position="fill") +
+  scale_alpha_manual(values=c(0.65,1)) + 
+  # geom_dotplot(aes(condition, fill=Consistent),position="dodge",)
+  # geom_point(aes(condition, Consistent),position="jitter") + 
+  geom_text(data=label,aes(condition,0.15,label=paste(round(Percent*100,2),"%\nConsistent",sep = "")),color="white",size=4.1) +
+  geom_text(data=label,aes(condition,1-0.15,label=paste(round((1-Percent)*100,2),"%\nInconsistent",sep = "")),color="white",size=4.1) +
+  geom_linerange(data=label,aes(condition,ymin=Percent-CI,ymax=Percent+CI),color="white",size=1) +
+  # geom_text(data=label,aes(condition,Percent-CI-0.05,label="95% CI"),color="white",size=3) +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values=c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")) +
+  theme_pubclean() + 
+  labs(x="",y="") + 
+  theme(legend.position = "none",
+        # text = element_text(size=15)
+        ) 
+p
+pdf('Consistency.pdf', width=8, height=3)
+p
+dev.off()
+
+# filtered_data %>%
+#   mutate(consistency = consistency -.5) %>%
+#   ggplot(aes(condition, fill = consistency, y = consistency)) +
+#   geom_col(position = 'stack') +
+#   coord_flip() +
+#   theme_pubclean()
+
+```
+
